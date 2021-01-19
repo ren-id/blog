@@ -1,3 +1,7 @@
+---
+title: ren, just ren | home
+description: Aku tidak memposting di media sosial. Semua pemikiranku kutulis di sini.
+---
 {% include logo.html %}
 
 # Stories
