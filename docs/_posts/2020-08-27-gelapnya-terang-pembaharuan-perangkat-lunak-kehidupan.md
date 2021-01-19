@@ -1,3 +1,8 @@
+---
+title: Pembaharuan Perangkat Lunak Kehidupan (dari Gelapnya Terang)
+description: Kebiasaan bisa diubah. Er meyakini itu. Jadi, dia berusaha semaksimal mungkin untuk meninggalkan kebiasaan lamanya.
+categories: Tales
+---
 # Pembaharuan Perangkat Lunak Kehidupan
 
 Muncullah notifikasi dari Semesta, "Beberapa perangkat lunak di otakmu telah usang: sikap, gaya hidup, keyakinan, dan hobi. Pembaharuan tersedia." Sejak akhir 2019, dia mulai membelakangi teman-temannya. Berlawanan arah. Jika mereka ke kiri, maka dia ke kanan. Jika mereka ke bawah, maka dia ke atas. Dia telah menginstal perangkat lunak versi baru dalam hidupnya. Sistem dalam otaknya telah disusun ulang. Menentang kode sumber genetik dari orang tuanya.

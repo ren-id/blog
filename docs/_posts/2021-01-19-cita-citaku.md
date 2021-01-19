@@ -1,7 +1,7 @@
 ---
 title: Cita-citaku
 description: Aku tidak berpikir untuk memiliki segala hal di dunia. Cita-citaku adalah menjaga alam yang diwariskan untukku dan generasi mendatang, serta membantu anak-anak dhuafa.
-categories: Personal
+categories: Stories
 ---
 # Ini cita-citaku
 

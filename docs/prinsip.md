@@ -1,3 +1,7 @@
+---
+title: Prinsip Konten
+description: Halaman ini menjadi dasar dari seluruh konten di situs ini.
+---
 # Prinsip Dasar Konten
 
 Kami fokus menyajikan konten dengan teks-saja dalam menyampaikan cerita atau gagasan. Kami yakin konten teks-saja memberikan keuntungan, di antaranya sebagai berikut.

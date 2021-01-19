@@ -1,7 +1,7 @@
 ---
 title: Profil Ren
-description: Ini adalah profil penulis ren.web.id
-image: {{ site.url }}/files/background.png
+description: Ini adalah profil ringkas Ren
+image: /files/background.png
 ---
 ![Foto Profil Ren]({{ site.url }}/files/background.png)
 

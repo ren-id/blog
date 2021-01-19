@@ -26,14 +26,14 @@
 </script>
 </head>
 <body>
-
-<div class="logo"><a href="{{site.url}}"><img src="{{site.url}}/files/logo.svg" alt="logo ren"/></a></div>
+{% include logo.html %}
 <div class="utama">
 {{ content }}
-
+<footer>
 <p>{% include link.html %}</p>
 <p><b>Fokus dengan konten teks-saja.</b></p>
 <p>&copy; Ren</p>
+</footer>
 </div>
 </body>
 </html>

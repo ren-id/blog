@@ -1,3 +1,7 @@
+---
+title: Kebijakan Privasi
+description: Kebijakan Privasi ini menerangkan tentang bagaimana situs kami berinteraksi dengan pengunjung.
+---
 # Kebijakan Privasi
 
 * 

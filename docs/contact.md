@@ -1,3 +1,7 @@
+---
+title: Kontak Reno
+description: Hubungi Reno melalui kontak yang tersedia di halaman ini.
+---
 # Ada yang mau dibicarakan?
 
 Pindai QR code berikut untuk menyimpan kontak.

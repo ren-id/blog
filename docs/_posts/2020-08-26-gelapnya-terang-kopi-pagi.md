@@ -1,3 +1,8 @@
+---
+title: Kopi Pagi (dari Gelapnya Terang)
+description: Sebelum memulai aktivitas, Er biasanya minum kopi manis terlebih dahulu.
+categories: Tales
+---
 # Kopi Pagi
 
 Apapun yang terjadi, sebaiknya ini segera dimulai. Kalau akan kiamat, mari sambut kiamat itu dan hidup berdampingan dengannya, membiarkannya berlalu, dan kita mulai dengan jiwa yang baharu.

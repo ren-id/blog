@@ -1,10 +1,11 @@
 ---
 title: No Social Media Day 2021
 description: Hapus media sosialmu. Berhentilah sejenak. Kita akan baik-baik saja tanpa media sosial.
+categories: Stories
 ---
 # No Social Media Day 2021
 
-Per 28 Februari 2021, aku akan menutup seluruh akun media sosial selama 6 bulan (mungkin lebih). Seperti tahun sebelumnya, aku bisa dihubungi melalui: SMS, telepon, email (i@ren.my.id), dan VoIP melalui Google Duo.
+Per 28 Februari 2021, aku akan menutup seluruh akun media sosial selama 6 bulan (mungkin lebih). Seperti tahun sebelumnya, aku bisa dihubungi melalui: SMS, telepon, email, dan VoIP melalui Google Duo.
 
 Akun yang ditutup di antaranya: WhatsApp, Telegram, Instagram, dan Twitter.
 

@@ -1,6 +1,7 @@
 ---
 title: Aplikasi Ponsel yang Beneran Bisa Menghasilkan Uang
 description: Kita bisa dapetin uang dari aplikasi-aplikasi ini di ponsel. Sambil rebahan aja di rumah. Beneran!
+categories: Stories
 ---
 # Aplikasi Ponsel yang Beneran Bisa Menghasilkan Uang
 

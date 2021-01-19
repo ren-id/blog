@@ -1,6 +1,7 @@
 ---
 title: Daftar Lagu Tradisional Suku Dayak Ngaju
 description: Suku Dayak Ngaju punya banyak lagu tradisional yang indah.
+categories: Stories
 ---
 # Daftar Lagu Tradisional Suku Dayak Ngaju
 
