@@ -1,0 +1,45 @@
+---
+---
+<!DOCTYPE html>
+<html lang="id-ID" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="utf-8" />
+<title>ren.web.id | home</title>
+<meta name="lang" content="id-ID" />
+<meta name="copyright" content="Reno" />
+<meta name="description" content="ren.web.id" />
+<meta name="keywords" content="ren.web.id" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="og:title" content="ren.web.id" />
+<meta name="og:description" content="https://ren.web.id" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ren.web.id" />
+<meta property="og:image" content="https://ren.web.id/files/icon192.png" />
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow" />
+<meta name="mobile-web-app-capable" content="yes" />
+<link rel="stylesheet" type="text/css" href="https://ren.web.id/style.css" />
+<link rel="icon" type="image/png" href="https://ren.web.id/files/icon16.png" />
+<link rel="shortcut icon" type="image/png" sizes="192x192" href="https://ren.web.id/files/icon192.png" />
+<link rel="shortcut icon" type="image/png" sizes="96x96" href="https://ren.web.id/files/icon96.png" />
+<link rel="shortcut icon" type="image/png" sizes="48x48" href="https://ren.web.id/files/icon48.png" />
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<script type="application/ld+json">
+{"description":"This is ren.web.id","author":{"@type":"Person","name":"Reno"},"@type":"BlogPosting","url":"https://ren.web.id","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://ren.web.id/files/icon192.png"},"name":"Reno"},"image":"","headline":"ren.web.id","dateModified":"2020-09-22","datePublished":"2020-09-22","mainEntityOfPage":{"@type":"WebPage","@id":"https://ren.web.id"},"@context":"http://schema.org"}
+</script>
+</head>
+<body>
+<div class="header">
+{% include link.html %}
+</div>
+<div class="logo"><a href="{{site.url}}"><img src="{{site.url}}/files/logo.svg" alt="logo ren"/></a></div>
+<div class="utama">
+<h1 class="title">Life must be simple.</h1>
+<ol>
+{% for post in site.posts limit:20 %}
+<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
+</div>
+</body>
+</html>
