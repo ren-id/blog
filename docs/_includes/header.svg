@@ -8,39 +8,39 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="header.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg57"
-   version="1.1"
-   viewBox="0 0 44.45 14.816667"
+   width="168"
    height="56"
-   width="168">
+   viewBox="0 0 44.45 14.816667"
+   version="1.1"
+   id="svg57"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="header.svg">
   <defs
      id="defs51" />
   <sodipodi:namedview
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     units="px"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="705"
-     inkscape:window-width="1366"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="9.9821257"
-     inkscape:cx="65.990447"
-     inkscape:zoom="3.959798"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="101.21952"
+     inkscape:cy="9.9821257"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata54">
     <rdf:RDF>
@@ -49,99 +49,103 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
-    <g
-       transform="matrix(0.92307693,0,0,0.92307693,-0.40456583,0.56987174)"
-       id="tawk-maximize">
-      <desc
-         id="desc213">Kirim Pesan	</desc>
-      <title
-         id="title211">Kirim Pesan</title>
-      <circle
-         r="6.8791666"
-         cy="7.4083333"
-         cx="8.463974"
-         id="path34"
-         style="fill:#5599ff;stroke-width:0.288271" />
-      <path
-         id="path10"
-         style="fill:#ffffff;stroke-width:0.0600287"
-         d="m 8.4295437,3.968772 c -1.88617,0.01888 -3.405249,1.5533186 -3.405154,3.4395826 0.239865,1.932609 1.427943,2.01164 0,3.4395854 h 3.439584 c 1.8996293,0 3.4395833,-1.5399554 3.4395833,-3.4395854 0,-1.899629 -1.539954,-3.4395826 -3.4395833,-3.4395826 -0.01147,-5.8e-5 -0.02296,-5.8e-5 -0.03443,0 z"
-         sodipodi:nodetypes="cccsscc" />
-    </g>
+     id="layer1">
     <a
-       xlink:href="{{site.url}}/profil"
+       xlink:href="#"
+       id="a27">
+      <g
+         transform="matrix(0.92307693,0,0,0.92307693,-0.40456583,0.56987174)"
+         id="tawk-maximize">
+        <desc
+           id="desc213">Kirim Pesan	</desc>
+        <title
+           id="title211">Kirim Pesan</title>
+        <circle
+           r="6.8791666"
+           cy="7.4083333"
+           cx="8.463974"
+           id="path34"
+           style="fill:#5599ff;stroke-width:0.288271" />
+        <path
+           id="path10"
+           style="fill:#ffffff;stroke-width:0.0600287"
+           d="m 8.4295437,3.968772 c -1.88617,0.01888 -3.405249,1.5533186 -3.405154,3.4395826 0.239865,1.932609 1.427943,2.01164 0,3.4395854 h 3.439584 c 1.8996293,0 3.4395833,-1.5399554 3.4395833,-3.4395854 0,-1.899629 -1.539954,-3.4395826 -3.4395833,-3.4395826 -0.01147,-5.8e-5 -0.02296,-5.8e-5 -0.03443,0 z"
+           sodipodi:nodetypes="cccsscc" />
+      </g>
+    </a>
+    <a
+       xlink:href="%7B%7Bsite.url%7D%7D/profil"
        id="a229">
       <g
-         id="Profil"
-         transform="matrix(0.92307693,0,0,0.92307693,-4.6378983,0.56987174)">
+         transform="matrix(0.92307693,0,0,0.92307693,-4.6378983,0.56987174)"
+         id="Profil">
         <desc
            id="desc217">Profil</desc>
         <title
            id="title215">Profil</title>
         <circle
-           r="6.8791666"
-           cy="7.4083333"
-           cx="29.101473"
+           style="fill:#5599ff;stroke-width:0.34246"
            id="path117"
-           style="fill:#5599ff;stroke-width:0.34246" />
-        <circle
-           r="2.1166666"
-           style="fill:#ffffff;stroke-width:0.105372"
-           id="circle119"
            cx="29.101473"
-           cy="4.578166" />
+           cy="7.4083333"
+           r="6.8791666" />
+        <circle
+           cy="4.578166"
+           cx="29.101473"
+           id="circle119"
+           style="fill:#ffffff;stroke-width:0.105372"
+           r="2.1166666" />
         <rect
-           ry="1.0583333"
-           y="7.7316747"
-           x="25.926474"
-           height="4.2333331"
-           width="6.3499999"
+           style="fill:#ffffff;stroke-width:0.12818"
            id="rect123"
-           style="fill:#ffffff;stroke-width:0.12818" />
+           width="6.3499999"
+           height="4.2333331"
+           x="25.926474"
+           y="7.7316747"
+           ry="1.0583333" />
       </g>
     </a>
     <a
-       xlink:href="{{site.url}}/laman"
+       xlink:href="%7B%7Bsite.url%7D%7D/laman"
        id="a237">
       <g
-         id="lainnya"
-         transform="matrix(0.92307693,0,0,0.92307693,-8.8712343,0.56987174)">
+         transform="matrix(0.92307693,0,0,0.92307693,-8.8712343,0.56987174)"
+         id="lainnya">
         <desc
            id="desc221">Lainnya</desc>
         <title
            id="title219">Lainnya</title>
         <circle
-           style="fill:#5599ff;stroke-width:0.34246"
-           id="circle141"
-           cx="49.738976"
+           r="6.8791666"
            cy="7.4083333"
-           r="6.8791666" />
+           cx="49.738976"
+           id="circle141"
+           style="fill:#5599ff;stroke-width:0.34246" />
+        <circle
+           style="fill:#ffffff;stroke-width:0.0526862"
+           id="circle148"
+           cx="49.738976"
+           cy="4.0381322"
+           r="1.0583333" />
         <circle
            r="1.0583333"
-           cy="4.0381322"
+           cy="7.4083333"
            cx="49.738976"
-           id="circle148"
+           id="circle148-0"
            style="fill:#ffffff;stroke-width:0.0526862" />
         <circle
-           style="fill:#ffffff;stroke-width:0.0526862"
-           id="circle148-0"
-           cx="49.738976"
-           cy="7.4083333"
-           r="1.0583333" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.0526862"
-           id="circle148-8"
-           cx="49.738976"
+           r="1.0583333"
            cy="10.778534"
-           r="1.0583333" />
+           cx="49.738976"
+           id="circle148-8"
+           style="fill:#ffffff;stroke-width:0.0526862" />
       </g>
     </a>
   </g>
