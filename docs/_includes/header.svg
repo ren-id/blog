@@ -77,7 +77,7 @@
          sodipodi:nodetypes="cccsscc" />
     </g>
     <a
-       xlink:href="%7B%7Bsite.url%7D%7D/profil"
+       xlink:href="{{site.url}}/profil"
        id="a229">
       <g
          id="Profil"
@@ -109,7 +109,7 @@
       </g>
     </a>
     <a
-       xlink:href="%7B%7Bsite.url%7D%7D/laman"
+       xlink:href="{{site.url}}/laman"
        id="a237">
       <g
          id="lainnya"
