@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="168"
+   width="100%"
    height="56"
    viewBox="0 0 44.45 14.816667"
    version="1.1"
@@ -58,7 +58,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <a
-       xlink:href="#"
+       xlink:href="https://tawk.to/chat/5eeb6c809e5f69442290d611/default"
        id="a27">
       <g
          transform="matrix(0.92307693,0,0,0.92307693,-0.40456583,0.56987174)"
@@ -81,7 +81,7 @@
       </g>
     </a>
     <a
-       xlink:href="%7B%7Bsite.url%7D%7D/profil"
+       xlink:href="{{site.url}}/profil"
        id="a229">
       <g
          transform="matrix(0.92307693,0,0,0.92307693,-4.6378983,0.56987174)"
@@ -113,7 +113,7 @@
       </g>
     </a>
     <a
-       xlink:href="%7B%7Bsite.url%7D%7D/laman"
+       xlink:href="{{site.url}}/laman"
        id="a237">
       <g
          transform="matrix(0.92307693,0,0,0.92307693,-8.8712343,0.56987174)"
