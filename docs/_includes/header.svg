@@ -8,39 +8,39 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100%"
-   height="56"
-   viewBox="0 0 44.45 14.816667"
-   version="1.1"
-   id="svg57"
+   sodipodi:docname="header.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="header.svg">
+   id="svg57"
+   version="1.1"
+   viewBox="0 0 256 16.933334"
+   height="64"
+   width="256">
   <defs
      id="defs51" />
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="101.21952"
-     inkscape:cy="9.9821257"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
+     fit-margin-bottom="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-left="0"
+     fit-margin-top="0"
+     units="px"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="6.3745032"
+     inkscape:cx="116.65794"
+     inkscape:zoom="2"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata54">
     <rdf:RDF>
@@ -49,103 +49,83 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     transform="translate(185.89258,149.55833)"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
+    <a
+       xlink:href="{{site.url}}/profil"
+       id="a1441">
+      <g
+         id="g1426">
+        <circle
+           style="fill:#5599ff;stroke-width:1.3939"
+           id="path117"
+           cx="-89.892868"
+           cy="-141.09193"
+           r="28" />
+        <path
+           d="m -89.892062,-157.09193 a 7.1272129,7.1272129 0 0 0 -7.127088,7.12709 7.1272129,7.1272129 0 0 0 7.127088,7.12709 7.1272129,7.1272129 0 0 0 7.127086,-7.12709 7.1272129,7.1272129 0 0 0 -7.127086,-7.12709 z m -7.127088,17.74583 c -1.974235,0 -3.56435,1.5885 -3.56435,3.56273 v 7.12709 c 0,1.97424 1.590115,3.56435 3.56435,3.56435 h 14.254174 c 1.974245,0 3.562744,-1.59011 3.562744,-3.56435 v -7.12709 c 0,-1.97423 -1.588499,-3.56273 -3.562744,-3.56273 z"
+           style="fill:#ffffff;stroke-width:0.354807"
+           id="circle119" />
+      </g>
+    </a>
     <a
        xlink:href="https://www.tidio.com/talk/ren.my.id"
-       id="a27">
+       id="a1446">
       <g
-         transform="matrix(0.92307693,0,0,0.92307693,-0.40456583,0.56987174)"
-         id="tawk-maximize">
-        <desc
-           id="desc213">Kirim Pesan	</desc>
-        <title
-           id="title211">Kirim Pesan</title>
+         id="g1430">
         <circle
-           r="6.8791666"
-           cy="7.4083333"
-           cx="8.463974"
+           r="28"
+           cy="-141.09193"
+           cx="-25.89286"
            id="path34"
-           style="fill:#5599ff;stroke-width:0.288271" />
+           style="fill:#5599ff;stroke-width:1.17334" />
         <path
            id="path10"
-           style="fill:#ffffff;stroke-width:0.0600287"
-           d="m 8.4295437,3.968772 c -1.88617,0.01888 -3.405249,1.5533186 -3.405154,3.4395826 0.239865,1.932609 1.427943,2.01164 0,3.4395854 h 3.439584 c 1.8996293,0 3.4395833,-1.5399554 3.4395833,-3.4395854 0,-1.899629 -1.539954,-3.4395826 -3.4395833,-3.4395826 -0.01147,-5.8e-5 -0.02296,-5.8e-5 -0.03443,0 z"
+           style="fill:#ffffff;stroke-width:0.244332"
+           d="m -26.033,-155.09184 c -7.677203,0.0768 -13.860251,6.32241 -13.859864,13.99999 0.976313,7.86623 5.8121,8.1879 0,14.00001 h 14.000003 c 7.731986,0 14,-6.26802 14,-14.00001 0,-7.73198 -6.268014,-13.99999 -14,-13.99999 -0.04669,-2.4e-4 -0.09345,-2.4e-4 -0.140139,0 z"
            sodipodi:nodetypes="cccsscc" />
       </g>
     </a>
     <a
-       xlink:href="{{site.url}}/profil"
-       id="a229">
+       xlink:href="{{site.url}}/laman"
+       id="a1451">
       <g
-         transform="matrix(0.92307693,0,0,0.92307693,-4.6378983,0.56987174)"
-         id="Profil">
-        <desc
-           id="desc217">Profil</desc>
-        <title
-           id="title215">Profil</title>
+         id="g1434">
         <circle
-           style="fill:#5599ff;stroke-width:0.34246"
-           id="path117"
-           cx="29.101473"
-           cy="7.4083333"
-           r="6.8791666" />
-        <circle
-           cy="4.578166"
-           cx="29.101473"
-           id="circle119"
-           style="fill:#ffffff;stroke-width:0.105372"
-           r="2.1166666" />
-        <rect
-           style="fill:#ffffff;stroke-width:0.12818"
-           id="rect123"
-           width="6.3499999"
-           height="4.2333331"
-           x="25.926474"
-           y="7.7316747"
-           ry="1.0583333" />
+           transform="rotate(90)"
+           r="28"
+           cy="-38.107132"
+           cx="-141.09192"
+           id="circle141"
+           style="fill:#5599ff;stroke-width:1.3939" />
+        <path
+           d="m 25.929864,-144.91552 a 3.8236661,3.8236661 0 0 0 -3.822732,3.82447 3.8236661,3.8236661 0 0 0 3.822732,3.82273 3.8236661,3.8236661 0 0 0 3.824464,-3.82273 3.8236661,3.8236661 0 0 0 -3.824464,-3.82447 z m 12.177268,0 a 3.8236661,3.8236661 0 0 0 -3.824463,3.82447 3.8236661,3.8236661 0 0 0 3.824463,3.82273 3.8236661,3.8236661 0 0 0 3.822732,-3.82273 3.8236661,3.8236661 0 0 0 -3.822732,-3.82447 z m 12.175536,0 a 3.8236661,3.8236661 0 0 0 -3.822732,3.82447 3.8236661,3.8236661 0 0 0 3.822732,3.82273 3.8236661,3.8236661 0 0 0 3.824464,-3.82273 3.8236661,3.8236661 0 0 0 -3.824464,-3.82447 z"
+           style="fill:#ffffff;stroke-width:0.190351"
+           id="circle148" />
       </g>
     </a>
     <a
-       xlink:href="{{site.url}}/laman"
-       id="a237">
+       xlink:href="{{site.url}}"
+       id="a1436">
       <g
-         transform="matrix(0.92307693,0,0,0.92307693,-8.8712343,0.56987174)"
-         id="lainnya">
-        <desc
-           id="desc221">Lainnya</desc>
-        <title
-           id="title219">Lainnya</title>
+         id="g1422">
         <circle
-           r="6.8791666"
-           cy="7.4083333"
-           cx="49.738976"
-           id="circle141"
-           style="fill:#5599ff;stroke-width:0.34246" />
-        <circle
-           style="fill:#ffffff;stroke-width:0.0526862"
-           id="circle148"
-           cx="49.738976"
-           cy="4.0381322"
-           r="1.0583333" />
-        <circle
-           r="1.0583333"
-           cy="7.4083333"
-           cx="49.738976"
-           id="circle148-0"
-           style="fill:#ffffff;stroke-width:0.0526862" />
-        <circle
-           r="1.0583333"
-           cy="10.778534"
-           cx="49.738976"
-           id="circle148-8"
-           style="fill:#ffffff;stroke-width:0.0526862" />
+           r="28"
+           cy="-141.09193"
+           cx="-153.89285"
+           id="path155"
+           style="fill:#5599ff;fill-opacity:1;stroke-width:0.999458" />
+        <path
+           d="m -153.89285,-155.09193 -14,14 v 14 h 28 v -14 z m -3.5,14 h 7 v 7 h -7 z"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:1.2789"
+           id="rect1390" />
       </g>
     </a>
   </g>
