@@ -36,12 +36,7 @@
 {% include header.svg %}
 </header>
 
-<h1>Status</h1>
-<div class="katalog">
-{% for post in site.categories.Status limit:5 %}
-<a href="{{ site.url }}{{ post.url }}"><div><div><img src="{{ post.image }}" alt="{{ post.title }}"/></div><div>{{ post.title }}</div></div></a>
-{% endfor %}
-</div>
+{% include status.html %}
 
 <h1>Artikel</h1>
 <ol>
@@ -57,10 +52,11 @@
 {% endfor %}
 </ol>
 
-{% include chat.html %}
-
 {% include footer.html %}
 
 </div>
+
+{% include chat.html %}
+
 </body>
 </html>
