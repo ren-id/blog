@@ -163,3 +163,7 @@ object-position: center;
 width: 184px;
 height: 184px;
 }
+
+.katalog>a>div>div>p {
+color: #ffffff;
+}
