@@ -27,14 +27,13 @@
 </script>
 </head>
 <body>
-{% include logo.html %}
 <div class="utama">
 {% include header.svg %}
+{% include status.html %}
+<article>
 {{ content }}
-<footer>
-<p><b>Life must be simple.</b></p>
-<p>&copy; Ren</p>
-</footer>
+</article>
+{% include footer.html %}
 </div>
 {% include chat.html %}
 </body>

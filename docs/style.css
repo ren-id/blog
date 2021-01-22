@@ -15,12 +15,11 @@ p, li, table {
 margin: 16px 0 16px 0;
 }
 
-h2, h3, h4 {
+h1, h2, h3, h4 {
 margin: 48px 0 24px 0;
 }
 
 h1 {
-margin: 24px 0 48px 0;
 font-size: 28px;
 }
 
@@ -164,6 +163,7 @@ width: 184px;
 height: 184px;
 }
 
-.katalog>a>div>p {
+.katalog>a>div>div {
 color: #ffffff;
+margin-top: 8px;
 }
