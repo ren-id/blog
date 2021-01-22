@@ -1,5 +1,5 @@
 body {
-background: #ffffff;
+background-color: #ffffff;
 padding: 0 0 0 0;
 margin: 0 0 0 0;
 }
@@ -131,4 +131,35 @@ padding: 0 0 0 32px;
 
 footer {
 margin: 48px 0 48px 0;
+}
+
+.katalog {
+padding: 0 0 0 0;
+margin: 0 0 0 0;
+overflow-x: auto;
+overflow-y: hidden;
+white-space: normal;
+display: flex;
+}
+
+.katalog>a>div {
+padding: 8px 8px 8px 8px;
+margin: 0 8px 0 0;
+width: 200px;
+height: 100%;
+background-color: #000000;
+color: #ffffff;
+font-size: 16px;
+font-family: "Segoe UI", "Arial", "Helvetica Neue", "Roboto", sans-serif;
+white-space: normal;
+overflow: auto;
+box-sizing: border-box;
+line-height: 1.25em;
+}
+
+.katalog>a>div>div>img {
+object-fit: cover;
+object-position: center;
+width: 184px;
+height: 184px;
 }

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="id-ID" dir="ltr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>ren</title>
+<meta name="lang" content="id-ID" />
+<meta name="copyright" content="Reno" />
+<meta name="description" content="Inilah tempat yang nyaman untuk mencurahkan isi hati." />
+<meta name="og:title" content="{{page.title}}" />
+<meta property="og:locale" content="id_ID" />
+<meta name="og:description" content="Inilah tempat yang nyaman untuk mencurahkan isi hati." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{site.url}}" />
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index,follow" />
+<meta name="mobile-web-app-capable" content="yes" />
+<link rel="stylesheet" type="text/css" href="{{site.url}}/style.css" />
+<link rel="manifest" href="{{site.url}}/manifest.json" />
+<link rel="icon" type="image/png" href="{{site.url}}/files/icon16.png" />
+<link rel="shortcut icon" type="image/png" sizes="192x192" href="{{site.url}}/files/icon192.png" />
+<link rel="shortcut icon" type="image/png" sizes="96x96" href="{{site.url}}/files/icon96.png" />
+<link rel="shortcut icon" type="image/png" sizes="48x48" href="{{site.url}}/files/icon48.png" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"{{site.url}}"},"headline":"Tempat curhat melalui tulisan.","dateModified":"2021-01-22","datePublished":"2021-01-22","url":"{{site.url}}","description":"Inilah tempat yang nyaman untuk mencurahkan isi hati.","@context":"https://schema.org"}
+</script>
+</head>
+<body>
+
+<div class="utama">
+
+<header>
+{% include header.svg %}
+</header>
+
+<h1>Status</h1>
+<div class="katalog">
+{% for post in site.categories.Status limit:5 %}
+<a href="{{ site.url }}{{ post.url }}"><div><div><img src="{{ post.image }}" alt="{{ post.title }}"/></div><p>{{ post.title }}</p></div></a>
+{% endfor %}
+</div>
+
+<h1>Stories</h1>
+<ol>
+{% for post in site.categories.Stories limit:20 %}
+<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
+
+<h1>Kisah</h1>
+<ol>
+{% for post in site.categories.Tales limit:20 %}
+<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
+
+{% include chat.html %}
+
+<footer>
+<p><b>Life must be simple.</b></p>
+<p>&copy; ren</p>
+</footer>
+
+</div>
+</body>
+</html>
