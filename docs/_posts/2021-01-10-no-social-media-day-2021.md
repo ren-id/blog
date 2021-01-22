@@ -1,7 +1,8 @@
 ---
 title: No Social Media Day 2021
 description: Hapus media sosialmu. Berhentilah sejenak. Kita akan baik-baik saja tanpa media sosial.
-categories: Stories
+categories: Status
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Young_people_texting_on_smartphones_using_thumbs.JPG/320px-Young_people_texting_on_smartphones_using_thumbs.JPG
 ---
 # No Social Media Day 2021
 
@@ -18,8 +19,6 @@ Tahun 2020 aku pernah menutup seluruh akun media sosialku untuk waktu yang lama 
 Di sela-sela waktu, aku mendapati diriku kembali terlibat dalam penggunaan media sosial yang kurang sehat menurut pertimbanganku sendiri. Aku "tidak suka" posting status dan melihat status di WhatsApp dan Instagram, tapi aku melakukannya. Tindakan adiktif itu tidak sehat untuk jasmani dan rohani, menurutku. Menyita waktu dan sebenarnya sia-sia.
 
 Mataku pasti lelah menatap smartphone dan tablet dalam waktu yang lama, lebih-lebih kalau dilakukan pada malam hari setelah pulang kerja. Pasti bikin susah tidur karena efek _blue light_.
-
-## Farewell
 
 Butuh waktu untuk rehat dan reset kehidupan sosial agar bisa beristirahat, bekerja, dan menikmati waktu santai.
 

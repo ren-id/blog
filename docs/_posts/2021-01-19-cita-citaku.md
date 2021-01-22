@@ -12,7 +12,7 @@ Cita-citaku adalah sebagai berikut.
 
 ## 1. Mendirikan yayasan untuk melestarikan tumbuhan endemik di Kalimantan
 
-Waktu kecil aku sering berpetualang untuk mencari buah-buahan yang tumbur liar di hutan. Selain itu, aku juga mencari kayu bakar, sayur-sayuran, dan bunga-bungaan. Semuanya tersedia secara gratis di hutan.
+Waktu kecil aku sering berpetualang untuk mencari buah-buahan yang tumbuh liar di hutan. Selain itu, aku juga mencari kayu bakar, sayur-sayuran, dan bunga-bungaan. Semuanya tersedia secara gratis di hutan.
 
 Keseimbangan alam semakin terganggu dengan adanya alih fungsi hutan untuk pertambangan dan perkebunan sawit.
 
