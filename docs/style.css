@@ -95,7 +95,7 @@ margin: 0 auto 0 auto;
 padding: 24px 24px 24px 24px;
 }
 
-figure > img, .utama > p > img { max-width: 100%; }
+figure > img, .utama > p > img, article>p>img { max-width: 100%; }
 
 figure {
 margin: 24px 0 24px 0;
