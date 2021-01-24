@@ -1,22 +1,25 @@
-<!-- Chatra {literal} --
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
 <script>
-    (function(d, w, c) {
-        w.ChatraID = 'EPYyeezLFgX7vkDGP';
-        var s = d.createElement('script');
-        w[c] = w[c] || function() {
-            (w[c].q = w[c].q || []).push(arguments);
-        };
-        s.async = true;
-        s.src = 'https://call.chatra.io/chatra.js';
-        if (d.head) d.head.appendChild(s);
-    })(document, window, 'Chatra');
+window.fbAsyncInit = function() {
+FB.init({
+xfbml: true,
+version: 'v9.0'
+});
+};
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/id_ID/sdk/xfbml.customerchat.js';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
 </script>
-<!-- /Chatra {/literal} -->
 
-<!-- This site is converting visitors into subscribers and customers with https://respond.io --
-<script id="respondio__widget" src="https://cdn.respond.io/webchat/widget/widget.js?cId=516fdf4a458715f9b7bef5ed8c7f7944fbb9014453512baf3bf3bbab33e817ea"></script>
-https://respond.io -->
-
-<!-- Start of  Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=10b8e810-4a65-4641-a2d8-3802f646eca9"> </script>
-<!-- End of  Zendesk Widget script -->
+<!-- Your Chat Plugin code -->
+<div class="fb-customerchat"
+attribution=setup_tool
+page_id="103122881532444"
+logged_in_greeting="Hai, aku di sini."
+logged_out_greeting="Hai, aku di sini.">
+</div>
