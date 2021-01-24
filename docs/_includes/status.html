@@ -1,6 +1,11 @@
 <h1>Status</h1>
 <div class="katalog">
-{% for post in site.categories.Status limit:5 %}
-<a href="{{ site.url }}{{ post.url }}"><div><div><img src="{{ post.image }}" alt="{{ post.title }}"/></div><p>{{ post.title }}</p></div></a>
-{% endfor %}
+     {% for post in site.categories.Status limit:10 %}
+     <a href="{{ site.url }}{{ post.url }}">
+          <div class="status">
+               <img src="{{ post.image }}" alt="{{ post.title }}"/>
+               <div class="deskripsi">{{ post.title }}</div>
+          </div>
+     </a>
+     {% endfor %}
 </div>

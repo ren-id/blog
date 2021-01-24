@@ -133,35 +133,33 @@ margin: 48px 0 48px 0;
 }
 
 .katalog {
-padding: 0 0 0 0;
-margin: 0 0 0 0;
-overflow-x: auto;
+overflow-x: scroll;
 overflow-y: hidden;
 white-space: normal;
 display: flex;
 }
 
-.katalog>a>div {
-padding: 8px 8px 8px 8px;
-margin: 0 8px 0 0;
-width: 200px;
+.status {
+margin: 0 16px 0 0;
 height: 100%;
-background-color: #000000;
-color: #ffffff;
 white-space: normal;
 overflow: auto;
 box-sizing: border-box;
-line-height: 1.25em;
 }
 
-.katalog>a>div>div>img {
+.status>img {
 object-fit: cover;
 object-position: center;
-width: 184px;
-height: 184px;
+width: 128px;
+height: 128px;
+border-radius: 50%;
+border: 4px solid #0066FF;
+padding: 2px 2px 2px 2px;
 }
 
-.katalog>a>div>p {
-color: #ffffff;
+.deskripsi {
 margin: 8px 0 0 0;
+text-align: center;
+font-size: 14px !important;
+color: #555555;
 }
