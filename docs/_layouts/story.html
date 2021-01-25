@@ -2,7 +2,11 @@
 <body>
 <div class="utama">
 {% include header.html %}
+{% include status.html %}
+<article>
 {{ content }}
+</article>
+{% include comment.html %}
 {% include footer.html %}
 </div>
 </body>
