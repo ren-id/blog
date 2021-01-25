@@ -1,5 +1,4 @@
 ---
-layout: story
 title: "Susahnya Dapat Teman"
 description: "Boro-boro teman seumur hidup, dapetin teman buat nemenin keseharian aja susah."
 categories: Status
