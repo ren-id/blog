@@ -1,7 +1,7 @@
 ---
 title: Pembaharuan Perangkat Lunak Kehidupan (dari Gelapnya Terang)
 description: Kebiasaan bisa diubah. Er meyakini itu. Jadi, dia berusaha semaksimal mungkin untuk meninggalkan kebiasaan lamanya.
-categories: Tales
+categories: kisah
 ---
 # Pembaharuan Perangkat Lunak Kehidupan
 

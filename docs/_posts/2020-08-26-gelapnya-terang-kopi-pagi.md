@@ -1,7 +1,7 @@
 ---
 title: Kopi Pagi (dari Gelapnya Terang)
 description: Sebelum memulai aktivitas, Er biasanya minum kopi manis terlebih dahulu.
-categories: Tales
+categories: kisah
 ---
 # Kopi Pagi
 

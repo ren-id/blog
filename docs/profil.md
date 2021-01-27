@@ -5,7 +5,7 @@ image: /files/background.png
 ---
 ![Foto Profil Ren]({{ site.url }}/files/background.png)
 
-# Halo dari Ren.
+# Halo
 
 Aku lahir di hutan hujan tropis di Gunung Mas, tumbuh di desa Tumbang Malahoi, dan besar di Palangka Raya.
 

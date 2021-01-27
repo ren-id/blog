@@ -1,7 +1,7 @@
 ---
 title: Sampai Jumpa Adik Kecil (dari Gelapnya Terang)
 description: Berpisah dengan orang yang disayangi itu menyedihkan. Er sangat menyayangi adiknya, Tan. Er harus pergi ke kota meninggalkan Tan di kampung karena dia harus sekolah.
-categories: Tales
+categories: kisah
 ---
 # Sampai Jumpa Adik Kecil
 

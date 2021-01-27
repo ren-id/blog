@@ -1,39 +1,44 @@
 ---
 ---
 {
-"short_name": "Reno",
-"name": "Blog Reno",
-"description": "Blog pribadi milik Reno.",
-"icons": [
-{
-"src": "{{site.url}}/files/icon48.png",
-"type": "image/png",
-"sizes": "48x48"
-},
-{
-"src": "{{site.url}}/files/icon64.png",
-"type": "image/png",
-"sizes": "64x64"
-},
-{
-"src": "{{site.url}}/files/icon96.png",
-"type": "image/png",
-"sizes": "96x96"
-},
-{
-"src": "{{site.url}}/files/icon192.png",
-"type": "image/png",
-"sizes": "192x192"
-},
-{
-"src": "{{site.url}}/files/icon512.png",
-"type": "image/png",
-"sizes": "512x512"
-}
-],
-"start_url": "https://ren.my.id",
-"background_color": "#ffffff",
-"display": "standalone",
-"scope": "/",
-"theme_color": "#000000"
+    "short_name": "Reno",
+    "name": "Blog Reno",
+    "description": "Blog pribadi milik Reno.",
+    "icons": [
+        {
+            "src": "{{site.url}}/files/icon48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "{{site.url}}/files/icon56.png",
+            "type": "image/png",
+            "sizes": "56x56"
+        },
+        {
+            "src": "{{site.url}}/files/icon64.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "{{site.url}}/files/icon96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "{{site.url}}/files/icon192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "{{site.url}}/files/icon512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "https://ren.my.id",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000"
 }
