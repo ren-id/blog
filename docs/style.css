@@ -36,7 +36,11 @@ font-size: 18px;
 }
 
 article {
-margin: 48px 0 48px 0;
+padding: 16px 16px 16px 16px;
+  border: 1px solid #eeeeee;
+  overflow-wrap: break-word;
+position: relative;
+  border-radius: 6px 6px 6px 6px;
 }
 
 p, th, td, li, button, input, figcaption, code {
