@@ -1,6 +1,7 @@
 ---
 title: Cita-citaku
 description: Aku tidak berpikir untuk memiliki segala hal di dunia. Cita-citaku adalah menjaga alam yang diwariskan untukku dan generasi mendatang, serta membantu anak-anak dhuafa.
+categories: cerita
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tioman_Rainforest.JPG/360px-Tioman_Rainforest.JPG
 ---
 # Ini cita-citaku

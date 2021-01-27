@@ -1,6 +1,7 @@
 ---
 title: "Waktu Berlalu Begitu Cepat"
 description: "Apa cuma aku yang merasa waktu berlalu begitu cepat?"
+categories: cerita
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Greenwich_clock.jpg/257px-Greenwich_clock.jpg
 ---
 # Waktu Berlalu Begitu Cepat

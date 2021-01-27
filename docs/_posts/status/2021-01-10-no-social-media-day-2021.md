@@ -1,6 +1,7 @@
 ---
 title: No Social Media Day 2021
 description: Hapus media sosialmu. Berhentilah sejenak. Kita akan baik-baik saja tanpa media sosial.
+categories: cerita
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Young_people_texting_on_smartphones_using_thumbs.JPG/320px-Young_people_texting_on_smartphones_using_thumbs.JPG
 ---
 # No Social Media Day 2021
