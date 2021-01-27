@@ -43,7 +43,7 @@ article {
 margin: 4.8rem 0 4.8rem 0;
 }
 
-p, th, td, li, button, input, nav, figcaption {
+p, th, td, li, button, input, nav, figcaption, code {
 font-size: 1.6rem !important;
 }
 
