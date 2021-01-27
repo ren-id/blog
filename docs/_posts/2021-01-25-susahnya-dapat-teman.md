@@ -18,7 +18,7 @@ Padahal, sebagian besar isi hatiku kucurahkan dalam bentuk tulisan—karena aku 
 
 ## 2. Tidak menanyai agama/kepercayaan saat pertama kenal.
 
-Saat pertama kali bertemu, biasanya aku ditanyai "agamamu apa?" Terus terang aku risih dengan pertanyaan rasis semacam itu. Orang yang menanyai hal semacam itu secara tidak langsung telah "menciptakan tembok penghalang" antara aku dan dirinya. Pertanyaan rasis itu sudah tidak relevan lagi buatku.
+Saat pertama kali bertemu, biasanya aku ditanyai "agamamu apa?" Terus terang aku risih dengan pertanyaan rasis semacam itu. Orang yang menanyai hal semacam itu secara tidak langsung telah "menciptakan tembok penghalang" antara aku dan dirinya.
 
 ## 3. Tidak megang hape kalau lagi ngobrol/duduk bareng.
 
