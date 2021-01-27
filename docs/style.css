@@ -89,10 +89,9 @@ margin: 0 0 0 0;
 border-bottom: 1px solid #eeeeee;
 }
 
-.utama {
+.badan {
 max-width: 600px;
 margin: 0 auto 0 auto;
-padding: 16px 16px 16px 16px;
 }
 
 figure>img, .utama>p>img, article>p>img { max-width: 100%; }
@@ -139,7 +138,7 @@ white-space: normal;
 display: flex;
 }
 
-.status {
+.figure {
 margin: 0 16px 0 0;
 height: 100%;
 white-space: normal;
@@ -147,7 +146,7 @@ overflow: auto;
 box-sizing: border-box;
 }
 
-.status>img {
+.figure>img {
 object-fit: cover;
 object-position: center;
 width: 128px;
@@ -157,7 +156,7 @@ border: 4px solid #0066FF;
 padding: 2px 2px 2px 2px;
 }
 
-.deskripsi {
+.caption {
 margin: 8px 0 0 0;
 text-align: center;
 font-size: 14px !important;
@@ -167,4 +166,8 @@ font-family: "Segoe UI", "Arial", "Helvetica", "Liberation Sans", Roboto, sans-s
 
 .avatar {
 border-radius: 50%;
+}
+
+.padding {
+padding: 16px 16px 16px 16px;
 }
