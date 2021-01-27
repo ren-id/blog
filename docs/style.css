@@ -5,10 +5,6 @@
   text-decoration: none;
 }
 
-html {
-  font-size: 62.5%;
-}
-
 body {
 background-color: #ffffff;
 padding: 0 0 0 0;
@@ -28,23 +24,29 @@ margin: 48px 0 24px 0;
 }
 
 h1 {
-font-size: 2.8rem;
+font-size: 28px;
 }
 
 h2 {
-font-size: 2.4rem;
+font-size: 24px;
 }
 
 h3 {
-font-size: 1.8rem;
+font-size: 18px;
 }
 
 article {
-margin: 4.8rem 0 4.8rem 0;
+margin: 48px 0 48px 0;
 }
 
-p, th, td, li, button, input, nav, figcaption, code {
-font-size: 1.6rem !important;
+p, th, td, li, button, input, figcaption, code {
+font-size: 16px;
+}
+
+@media (max-width: 540px) {
+    p, th, td, li, button, input, figcaption, code {
+        font-size:18px !important;
+    }
 }
 
 a {
@@ -166,8 +168,8 @@ padding: 16px 16px 16px 16px;
 
 .highlighter-rouge {
     background-color: #f9f9f9;
-    border: 1px solid #eee;
-    padding: 0.8rem;
+    border: 1px solid #eeeeee;
+    padding: 8px;
 }
 
 code {
