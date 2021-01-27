@@ -1,7 +1,6 @@
 ---
 title: "Susahnya Dapat Teman"
 description: "Boro-boro teman seumur hidup, dapetin teman buat nemenin keseharian aja susah."
-categories: cerita
 image: https://images.pexels.com/photos/1478685/pexels-photo-1478685.jpeg?auto=compress&cs=tinysrgb&h=200
 ---
 # Susahnya Dapat Teman

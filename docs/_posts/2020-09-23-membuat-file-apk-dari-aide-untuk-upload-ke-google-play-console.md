@@ -1,7 +1,7 @@
 ---
 title: Membuat file APK dari aplikasi AIDE untuk publish ke Google Play Console
 description: Berikut langkah yang benar untuk membuat file APK dari aplikasi AIDE agar dapat di-publish ke Google Play Console.
-categories: Stories
+categories: artikel
 ---
 # Membuat file APK dari aplikasi AIDE untuk publish ke Google Play Console
 

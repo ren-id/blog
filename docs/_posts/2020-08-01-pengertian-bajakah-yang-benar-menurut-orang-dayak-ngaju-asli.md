@@ -1,7 +1,7 @@
 ---
 title: Pengertian Bajakah yang Benar dalam Bahasa Dayak Ngaju
 description: Bajakah adalah batang tumbuhan yang menjalar atau merambat. Sederhananya, batangnya tidak berbentuk pohon.
-categories: Stories
+categories: artikel
 ---
 # Pengertian Bajakah yang Benar dalam Bahasa Dayak Ngaju
 

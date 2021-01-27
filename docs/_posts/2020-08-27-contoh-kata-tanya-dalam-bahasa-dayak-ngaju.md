@@ -1,7 +1,7 @@
 ---
 title: Kata tanya dalam Bahasa Dayak Ngaju
 description: Mau belajar bertanya dalam bahasa Dayak Ngaju? Berikut penggunaan kata tanya dalam dalam bahasa Dayak Ngaju.
-categories: Stories
+categories: artikel
 ---
 # Kata tanya dalam Bahasa Dayak Ngaju
 

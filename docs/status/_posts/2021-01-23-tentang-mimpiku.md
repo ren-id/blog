@@ -1,7 +1,6 @@
 ---
 title: "Tentang Mimpiku"
 description: "Aku punya mimpi menjadi saintis."
-categories: cerita
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/General_Sherman_tree_looking_up.jpg/188px-General_Sherman_tree_looking_up.jpg
 ---
 # Siapa yang bisa menentukan mana yang mimpi dan mana yang bukan?

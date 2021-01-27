@@ -1,7 +1,6 @@
 ---
 title: Membuang yang Tidak Dibutuhkan
 description: Aku menyadari bahwa sebenarnya aku membutuhkan semua hal yang ada di dunia ini. Aku tidak perlu memiliki semuanya. Cukup menyimpan yang benar-benar dibutuhkan saja.
-categories: cerita
 image: https://images.pexels.com/photos/3359003/pexels-photo-3359003.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=200
 ---
 # Membuang Segala yang Tidak Dibutuhkan

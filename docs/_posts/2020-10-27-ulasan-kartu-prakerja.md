@@ -1,7 +1,7 @@
 ---
 title: Apa alasan tidak mengikuti program pelatihan kartu prakerja?
 description: Program pelatihan kartu prakerja boleh kamu ikuti kalau ingin mendapatkan insentif.
-categories: Stories
+categories: artikel
 ---
 # Apa alasan tidak mengikuti program pelatihan kartu prakerja?
 
