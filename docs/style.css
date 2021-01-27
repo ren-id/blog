@@ -1,15 +1,12 @@
-:root {
-  font-size: 62.5%;
-  body {
-    font-size: 1.6rem;
-  }
-}
-
 * {
   box-sizing: border-box;
   font-family: "Segoe UI", "Arial", "Helvetica", "Liberation Sans", Roboto, sans-serif;
   line-height: 1.35em;
   text-decoration: none;
+}
+
+html {
+  font-size: 62.5%;
 }
 
 body {
