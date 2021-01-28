@@ -39,8 +39,7 @@ h3 {
 font-size: 18px;
 }
 
-article {
-padding: 16px 16px 16px 16px;
+.article {
   border: 1px solid #eeeeee;
   overflow-wrap: break-word;
 position: relative;
@@ -97,7 +96,7 @@ border-bottom: 1px solid #eeeeee;
 }
 
 .badan {
-max-width: 600px;
+max-width: 800px;
 margin: 0 auto 0 auto;
 }
 
