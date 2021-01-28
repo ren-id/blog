@@ -161,6 +161,7 @@ color: #555555;
 
 .avatar {
 border-radius: 50%;
+  margin-right: 8px;
 }
 
 .padding {
