@@ -8,7 +8,7 @@
 body {
 background-color: #ffffff;
 padding: 0 0 0 0;
-margin: 0 0 0 0;
+margin: 8px 8px 8px 8px;
 }
 
 h1, h2, h3, p, li, table, figcaption, nav {
@@ -46,10 +46,6 @@ position: relative;
   border-radius: 6px 6px 6px 6px;
 }
 
-p, th, td, li, button, input, figcaption, code {
-font-size: 18px;
-}
-
 a {
 color: #0066ff;
 }
@@ -74,18 +70,6 @@ background: #eeeeee;
 th, td {
 padding: 4px 4px 4px 4px;
 text-align: left;
-}
-
-.hlink > ul {
-list-style-type: none;
-word-spacing: 16px;
-padding: 0 0 0 0;
-margin: 0 0 0 0;
-}
-
-.hlink > ul > li {
-display: inline;
-line-height: 1.5em;
 }
 
 .header {
@@ -155,7 +139,6 @@ padding: 2px 2px 2px 2px;
 .caption {
 margin: 8px 0 0 0;
 text-align: center;
-font-size: 14px !important;
 color: #555555;
 }
 
