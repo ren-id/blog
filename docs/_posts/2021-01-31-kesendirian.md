@@ -1,7 +1,7 @@
 ---
 title: Kesendirian
 description: Manusia bukan spesies yang terancam punah. Jadi, kurangilah berkembang biak.
-categories: status
+categories: cerita
 image: https://images.pexels.com/photos/1317943/pexels-photo-1317943.jpeg?auto=compress&cs=tinysrgb&w=200
 ---
 # Kesendirian
