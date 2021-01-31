@@ -1,6 +1,11 @@
-<h1>Kisah</h1>
-<ol>
 {% for post in site.pages limit:10 %}
-<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+1. {{ post.title }}
 {% endfor %}
-</ol>
+
+{% for page in site.pages %}
+{% if page.layout != nil %}
+{% if page.layout != 'feed' %}
+- {{ site.url }}{{ page.url | remove: 'index.html' }}
+{% endif %}
+{% endif %}
+{% endfor %}
