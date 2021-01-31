@@ -5,7 +5,7 @@
 {% for page in site.pages %}
 {% if page.layout != nil %}
 {% if page.layout != 'feed' %}
-- {{ site.url }}{{ page.url | remove: 'index.html' }}
+- {{ site.url }}{{ page.url | remove: 'index.html' & '404.md' }}
 {% endif %}
 {% endif %}
 {% endfor %}
