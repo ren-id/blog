@@ -11,8 +11,9 @@ font-size: 18px;
 }
 
 body {
-background-color: #ffffff;
+background-color: #f9f9f9;
 color: #000000;
+margin: 8px 8px 8px 8px; 
 }
 
 h1, h2, h3 {
@@ -56,7 +57,7 @@ border-bottom: 1px solid #eeeeee;
 
 .badan {
 margin: 0 auto 0 auto;
-max-width: 600px;
+max-width: 720px;
 }
 
 figure>img, .badan>p>img, article>p>img { max-width: 100%; }
@@ -83,8 +84,8 @@ list-style-type: none;
 padding: 0 0 0 32px;
 }
 
-footer {
-margin: 48px 0 48px 0;
+article, footer {
+margin: 16px 0 16px 0;
 }
 
 .katalog {
@@ -132,3 +133,9 @@ padding: 8px;
 code {
 font-family: monospace !important;
 }
+
+article, .katalog {
+  background-color: #ffffff; 
+  border-radius: 4px 4px 4px 4px; 
+  border: solid 1px #dddddd; 
+  }
