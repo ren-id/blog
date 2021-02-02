@@ -1,5 +1,5 @@
 <div class="galeri">
 {% for post in site.categories.galeri limit:12 %}
-<div class="thumb"><a href="{{site.url}}{{post.url}}"><img src="{{post.image}}" alt="{{post.description}}" /><div class="keterangan">{{post.description}}</div></a></div>
+<div class="thumb"><a href="{{site.url}}{{post.url}}"><img src="{{post.image}}" alt="{{post.title}}" /><div class="keterangan">{{post.title}}</div></a></div>
 {% endfor %}
 </div>
