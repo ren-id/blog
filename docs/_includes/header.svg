@@ -98,7 +98,7 @@
     <a
        transform="matrix(0.85714285,0,0,0.85714285,-22.556109,-21.214067)"
        id="a1451"
-       xlink:href="{{site.url}}/laman">
+       xlink:href="{{site.url}}/pages">
       <g
          id="g1434">
         <circle
