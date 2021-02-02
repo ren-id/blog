@@ -3,8 +3,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
 <channel>
-<title>ren, just ren</title>
-<description>Everything of my thoughts.</description>
+<title>ren</title>
+<description>Life must be simple.</description>
 <link>{{ site.url }}</link>
 <language>id</language>
 <copyright>Reno</copyright>

@@ -25,3 +25,9 @@ Upacara ini wajib dilaksanakan agar Liaw Haring Kaharingan (jiwa) kembali kepada
 Pakanan Sahur Lewu adalah upacara untuk menghormati roh leluhur. Upacara ini biasanya dipimpin oleh Basir atau pemuka agama Kaharingan.
 
 Biasanya upacara ini dilaksanakan untuk memohon perlindungan dari hal-hal buruk.
+
+## Nyangiang
+
+Nyangiang adalah upacara meminta pertolongan dengan bangsa Sangiang untuk menyembuhkan orang yang sakit.
+
+Sangiang akan turun ke bumi melalui perantara orang pilihan.

@@ -31,7 +31,7 @@ color: #0066ff;
 blockquote {
 border-left: 4px solid #0066ff;
 margin: 0 0 0 0;
-background: #e9f4ff;
+background-color: #e9f4ff;
 }
 
 table {
@@ -41,18 +41,12 @@ width: 100%;
 }
 
 thead {
-background: #eeeeee;
+background-color: #eeeeee;
 }
 
 th, td {
 padding: 4px 4px 4px 4px;
 text-align: left;
-}
-
-.header {
-background: #f9f9f955;
-margin: 0 0 0 0;
-border-bottom: 1px solid #eeeeee;
 }
 
 .badan {
@@ -69,7 +63,7 @@ background: #ffffff;
 border: 1px solid #eeeeee;
 }
 
-blockquote, figcaption, header, footer, article, .header, .padding {
+blockquote, figcaption, header, footer, article, .header, .katalog, .padding {
 padding: 16px 16px 16px 16px;
 }
 
@@ -119,11 +113,6 @@ color: #555555;
 font-size: 0.75rem;
 }
 
-.avatar {
-border-radius: 50%;
-margin-right: 8px;
-}
-
 .highlighter-rouge {
 background-color: #f9f9f9;
 border: 1px solid #eeeeee;
@@ -135,7 +124,7 @@ font-family: monospace !important;
 }
 
 article, .katalog {
-  background-color: #ffffff; 
-  border-radius: 4px 4px 4px 4px; 
-  border: solid 1px #dddddd; 
-  }
+background-color: #ffffff; 
+border-radius: 4px 4px 4px 4px; 
+border: solid 1px #dddddd; 
+}

@@ -8,26 +8,22 @@ image: https://images.pexels.com/photos/1478685/pexels-photo-1478685.jpeg?auto=c
 
 Sampai artikel ini terbit, aku masih belum nemuin teman. _There is no one align._ Ya ampun! Padahal aku sudah merasa cukup usia. Aku belum nemuin orang yang seperti berikut.
 
-## 1. Punya minat baca (membaca sesuatu sampai tuntas).
+## Membaca tulisan sampai tuntas.
 
-Ketika nulis status panjang lebar di media sosial, blog, atau di mana pun, kira-kira ada nggak sih yang baca tulisan aku sampai tuntas dan memahami maksudnya? Kalau ada, temenan, yuk!
+Ketika menulis status panjang lebar di media sosial, blog, atau di mana pun, kira-kira ada _nggak_ sih yang baca tulisan aku sampai tuntas dan memahami maksudnya?
 
-Sayang, saat ini tulisanku sering ditolak oleh teman-teman. "Nanti kubaca kalau ada waktu." Dan "waktu" itu tak pernah datang 😔 Aku yakin itu adalah penolakan secara halus ketimbang bilang "males ah!"
+Sayang, saat ini tulisanku sering ditolak. “Nanti kubaca kalau ada waktu.” Dan “waktu” itu _nggak_ pernah datang 😔 Aku yakin itu adalah penolakan secara halus ketimbang bilang “males ah!”
 
-Padahal, sebagian besar isi hatiku kucurahkan dalam bentuk tulisan—karena aku kadang kesulitan bercerita saat bertemu langsung. Ketika aku curhat, aku malah dikritik.
+Padahal, sebagian besar isi hatiku kucurahkan dalam bentuk tulisan kalau kesulitan bercerita saat bertemu langsung. Ketika aku curhat, aku malah dikritik.
 
-## 2. Tidak menanyai agama/kepercayaan saat pertama kenal.
+## Tidak menanyai agama.
 
-Saat pertama kali bertemu, biasanya aku ditanyai "agamamu apa?" Terus terang aku risih dengan pertanyaan rasis semacam itu. Orang yang menanyai hal semacam itu secara tidak langsung telah "menciptakan tembok penghalang" antara aku dan dirinya.
+Saat pertama kali bertemu, biasanya aku ditanyai “agamamu apa?” Terus terang aku risih dengan pertanyaan rasis semacam itu. Orang yang menanyai hal semacam itu secara tidak langsung telah menciptakan tembok penghalang antara aku dan dirinya.
 
-## 3. Tidak megang hape kalau lagi ngobrol/duduk bareng.
+## Tidak megang hape kalau lagi kumpul.
 
-Ada nggak ya yang nggak megang hape kalau lagi jalan bareng? Biasanya sih susah nemuin orang yang nggak bawa hape kemana-mana.
+Ada _nggak_ ya yang _nggak_ pegang hape kalau lagi jalan _bareng_? Biasanya kalau lagi _nongkrong_ pasti pada asyik sendiri sama hape masing-masing.
 
-## 4. Bicara dengan rendah hati.
+## Bicara dengan rendah hati.
 
-Belum nemuin orang yang bicara dengan rendah hati secara tulus. Kalau ada yang ngomong "seperti padi", aku pengen banget temenan sama dia.
-
-Sekarang, aku memang punya banyak teman, tapi bukan teman. Ya, sekadar teman buat basa-basi.
-
-Belum waktunya. Mungkin.
+Belum _nemuin_ orang yang bicara dengan rendah hati secara tulus. Kalau ada yang _ngomong_ “seperti padi”, aku _pengen banget temenan_ sama dia.
