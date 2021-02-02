@@ -63,7 +63,7 @@ background: #ffffff;
 border: 1px solid #eeeeee;
 }
 
-blockquote, figcaption, header, footer, article, .header, .katalog, .padding {
+blockquote, figcaption, header, footer, article, section, .header, .katalog, .padding {
 padding: 16px 16px 16px 16px;
 }
 
