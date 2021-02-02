@@ -8,18 +8,22 @@ description: Inilah tempat yang nyaman untuk mencurahkan isi hati.
 {% include header.html %}
 {% include status.html %}
 {% include galeri.html %}
+<section>
 <h1>Artikel</h1>
 <ol>
 {% for post in site.categories.artikel limit:20 %}
 <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ol>
+</section>
+<section>
 <h1>Kisah</h1>
 <ol>
 {% for post in site.categories.kisah limit:10 %}
 <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ol>
+</section>
 {% include footer.html %}
 </div>
 </body>
