@@ -61,7 +61,7 @@
     <a
        transform="matrix(0.85714285,0,0,0.85714285,-24.841824,-21.214054)"
        id="a1441"
-       xlink:href="https://ren.my.id/profil">
+       xlink:href="{{site.url}}/about">
       <g
          id="g1426">
         <circle
@@ -77,7 +77,7 @@
       </g>
     </a>
     <a
-       xlink:href="file:///contact"
+       xlink:href="{{site.url}}/contact"
        transform="matrix(0.85714285,0,0,0.85714285,-23.698973,-21.214054)"
        id="a1446">
       <g
@@ -98,7 +98,7 @@
     <a
        transform="matrix(0.85714285,0,0,0.85714285,-22.556109,-21.214067)"
        id="a1451"
-       xlink:href="https://ren.my.id/laman">
+       xlink:href="{{site.url}}/laman">
       <g
          id="g1434">
         <circle
@@ -117,7 +117,7 @@
     <a
        transform="matrix(0.85714285,0,0,0.85714285,-25.984694,-21.214054)"
        id="a1436"
-       xlink:href="https://ren.my.id">
+       xlink:href="{{site.url}}">
       <g
          id="g1422">
         <circle
