@@ -58,7 +58,7 @@ margin: 0 auto 0 auto;
 max-width: 720px;
 }
 
-figure>img, p>img, article>img, p>a>img, section>img { max-width: 100%; }
+figure>img, .badan>p>img, article>p>img,.galeri>p>img, .galeri>p>a>img, section>p>img { max-width: 100%; }
 
 figure {
 margin: 24px 0 24px 0;
