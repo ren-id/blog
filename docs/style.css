@@ -196,3 +196,9 @@ header svg {
 margin: 0 auto 0 auto;
 display: block;
 }
+
+.vspace {
+  display: block;
+  width: 100%;
+  height: calc(var(--pd) * 5);
+  }
