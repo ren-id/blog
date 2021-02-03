@@ -190,6 +190,9 @@ width: 100%;
 height: 100%;
 }
 
+header { margin: calc(var(--pd) * 10) 0 calc(var(--pd) * 10) 0; }
+
 header svg {
-margin: 0 auto 0 auto; 
-  }
+margin: 0 auto 0 auto;
+display: block;
+}
