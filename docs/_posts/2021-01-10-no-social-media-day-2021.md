@@ -1,10 +1,10 @@
 ---
-title: No Social Media Day 2021
+title: Hari Tanpa Media Sosial (No Social Media Day) 2021
 description: Hapus media sosialmu. Berhentilah sejenak. Kita akan baik-baik saja tanpa media sosial.
 categories: cerita
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Young_people_texting_on_smartphones_using_thumbs.JPG/320px-Young_people_texting_on_smartphones_using_thumbs.JPG
+image: https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&h=128
 ---
-# No Social Media Day 2021
+# Hari Tanpa Media Sosial (No Social Media Day) 2021
 
 Per 28 Februari 2021, aku akan menutup seluruh akun media sosial selama 6 bulan (mungkin lebih). Seperti tahun sebelumnya, aku bisa dihubungi melalui: SMS, telepon, email, dan VoIP melalui Google Duo.
 
