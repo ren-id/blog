@@ -1,5 +1,6 @@
 :root {
---pd: 6px;
+--pd: 8px;
+--grey1: #eeeeee;
 }
 
 * {
@@ -50,7 +51,7 @@ background-color: #eeeeee;
 }
 
 th, td {
-padding: 4px 4px 4px 4px;
+padding: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
 text-align: left;
 }
 
@@ -69,7 +70,7 @@ border: 1px solid #eeeeee;
 }
 
 blockquote, figcaption, header, footer, article, section, .header, .katalog, .padding {
-padding: 16px 16px 16px 16px;
+padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
 #markdown-toc {
@@ -170,4 +171,12 @@ color: #ffffff;
 font-size: 14px;
 padding: var(--pd);
 background-image: linear-gradient(transparent, #000000);
+}
+
+.menu {
+  border-top: 1px solid var(--grey1);
+}
+.menu div {
+  padding: var(--pd) var(--pd) var(--pd) var(--pd);
+  border-bottom: 1px solid var(--grey1);
 }
