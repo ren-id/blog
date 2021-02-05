@@ -1,5 +1,5 @@
 ---
-title: Toilet Duduk Tidak Cocok
+title: Toilet Duduk Tidak Cocok untuk Orang Indonesia
 description: Kalau kamu sering jongkok di toilet duduk, kamu nggak sendirian!
 categories: cerita
 image: https://images.pexels.com/photos/262005/pexels-photo-262005.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=128
