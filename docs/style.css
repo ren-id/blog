@@ -2,9 +2,9 @@
 --pd: 8px;
 --putih: #FFFFFF;
 --hitam: #000000;
---grey: #F9F9F9;
---grey1: #EEEEEE;
---grey2: #DDDDDD;
+--abu: #F9F9F9;
+--abu1: #EEEEEE;
+--abu2: #DDDDDD;
 --aksen: #0066FF;
 }
 
@@ -17,7 +17,7 @@ font-family: "Segoe UI", "Helvetica Neue", "Liberation Sans", "Roboto", sans-ser
 
 html {
 direction: ltr;
-font-size: calc(10 + var(--pd));
+font-size: 16px;
 }
 
 body {
@@ -43,17 +43,17 @@ color: var(--aksen);
 blockquote {
 border-left: calc(var(--pd) / 2) solid var(--aksen);
 margin: 0 0 0 0;
-background-color: var(--grey);
+background-color: var(--abu);
 }
 
 table {
-border: 1px solid var(--grey2);
+border: 1px solid var(--abu2);
 border-spacing: 0;
 width: 100%;
 }
 
 thead {
-background-color: var(--grey1);
+background-color: var(--abu1);
 }
 
 th, td {
@@ -72,7 +72,7 @@ figure {
 margin: calc(var(--pd) * 2) 0 calc(var(--pd) * 2) 0;
 padding: 0 0 0 0;
 background-color: var(--putih);
-border: 1px solid var(--grey1);
+border: 1px solid var(--abu1);
 }
 
 blockquote, figcaption, header, footer, article, section, .header, .katalog, .padding {
@@ -127,8 +127,8 @@ font-size: 0.75rem;
 }
 
 .highlighter-rouge {
-background-color: var(--grey);
-border: 1px solid var(--grey1);
+background-color: var(--abu);
+border: 1px solid var(--abu1);
 padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
