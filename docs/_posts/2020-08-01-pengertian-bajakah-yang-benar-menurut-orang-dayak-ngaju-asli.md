@@ -7,7 +7,7 @@ categories: artikel
 
 Bajakah adalah batang tumbuhan yang menjalar atau merambat. Sederhananya, batangnya tidak berbentuk pohon. Umumnya menjalar di permukaan tanah atau merambati pohon atau objek di sekitarnya. Jadi, batangnya kacang panjang, labu, mentimun, pare, melon, dll juga bisa disebut sebagai bajakah.
 
-Di hutan hujan tropis di Gunung Mas, Kalimantan Tengah, bajakah dapat dilihat bergelantungan di pohon-pohon. Dango merupakan salah satu spesies dengan bajakah raksasa yang buahnya dapat dimakan. Lamey merupakan salah satu spesies yang bajakahnya mengandung air dalam jumlah banyak.
+Di hutan hujan tropis di Gunung Mas, Kalimantan Tengah, bajakah dapat dilihat bergelantungan di pohon-pohon. [Dango]({{site.url}}/2021/02/02/dango) merupakan salah satu spesies dengan bajakah raksasa yang buahnya dapat dimakan. Lamey merupakan salah satu spesies yang bajakahnya mengandung air dalam jumlah banyak.
 
 Kata bajakah berasal dari bahasa Dayak Ngaju. Banyak orang mengartikan bajakah secara keliru dan mengira bajakah adalah nama tumbuhan, sebagiannya menganggap bajakah sebagai akar tumbuhan.
 
