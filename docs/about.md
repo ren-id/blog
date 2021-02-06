@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Tentang ren"
-image: {{ site.url }}/files/background.png
+image: https://ren.my.id/files/background.png
 ---
 ![Foto Profil Ren]({{ site.url }}/files/background.png)
 
