@@ -1,6 +1,6 @@
 ---
-title: About
-description: Ini adalah profil Ren
+title: "About"
+description: "Tentang ren"
 image: {{ site.url }}/files/background.png
 ---
 ![Foto Profil Ren]({{ site.url }}/files/background.png)

@@ -1,6 +1,11 @@
 :root {
 --pd: 8px;
---grey1: #eeeeee;
+--putih: #FFFFFF;
+--hitam: #000000;
+--grey: #F9F9F9;
+--grey1: #EEEEEE;
+--grey2: #DDDDDD;
+--aksen: #0066FF;
 }
 
 * {
@@ -12,42 +17,43 @@ font-family: "Segoe UI", "Helvetica Neue", "Liberation Sans", "Roboto", sans-ser
 
 html {
 direction: ltr;
-font-size: 18px;
+font-size: calc(10 + var(--pd));
 }
 
 body {
-background-color: #ffffff;
-color: #000000;
+background-color: var(--putih);
+color: var(--hitam);
 margin: 0 0 0 0; 
 padding: 0 0 0 0;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
 font-weight: 600;
+margin: calc(var(--pd) * 2) 0 calc(var(--pd) * 2) 0;
 }
 
 p, ul, ol, li, code, table, blockquote, figure {
-margin: 8px 0 8px 0;
+margin: var(--pd) 0 var(--pd) 0;
 }
 
 a {
-color: #0066ff;
+color: var(--aksen);
 }
 
 blockquote {
-border-left: 4px solid #0066ff;
+border-left: calc(var(--pd) / 2) solid var(--aksen);
 margin: 0 0 0 0;
-background-color: #e9f4ff;
+background-color: var(--grey);
 }
 
 table {
-border: 1px solid #dddddd;
+border: 1px solid var(--grey2);
 border-spacing: 0;
 width: 100%;
 }
 
 thead {
-background-color: #eeeeee;
+background-color: var(--grey1);
 }
 
 th, td {
@@ -63,10 +69,10 @@ max-width: 720px;
 figure>img, .badan>p>img, article>p>img, article>p>a>img, section>p>img { max-width: 100%; }
 
 figure {
-margin: 24px 0 24px 0;
+margin: calc(var(--pd) * 2) 0 calc(var(--pd) * 2) 0;
 padding: 0 0 0 0;
-background: #ffffff;
-border: 1px solid #eeeeee;
+background-color: var(--putih);
+border: 1px solid var(--grey1);
 }
 
 blockquote, figcaption, header, footer, article, section, .header, .katalog, .padding {
@@ -74,7 +80,7 @@ padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
 #markdown-toc {
-margin: calc(8 * var(--pd)) 0 calc(8 * var(--pd)) 0;
+margin: calc(2 * var(--pd)) 0 calc(2 * var(--pd)) 0;
 list-style-type: none;
 padding: 0 0 0 0;
 }
@@ -100,6 +106,7 @@ margin: 0 var(--pd) 0 0;
 height: 100%;
 white-space: normal;
 overflow: auto;
+position: relative;
 }
 
 .figure>img {
@@ -108,8 +115,8 @@ object-position: center;
 width: 128px;
 height: 128px;
 border-radius: 50%;
-border: 4px solid #0066FF;
-padding: 2px 2px 2px 2px;
+border: calc(var(--pd) / 2) solid var(--aksen);
+padding: calc(var(--pd) / 4) calc(var(--pd) / 4) calc(var(--pd) / 4) calc(var(--pd) / 4);
 }
 
 .caption {
@@ -120,9 +127,9 @@ font-size: 0.75rem;
 }
 
 .highlighter-rouge {
-background-color: #f9f9f9;
-border: 1px solid #eeeeee;
-padding: var(--pd);
+background-color: var(--grey);
+border: 1px solid var(--grey1);
+padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
 code {
@@ -167,19 +174,12 @@ bottom: 0;
 right: 0;
 left: 0;
 width: 100%;
-color: #ffffff;
+color: var(--putih);
 font-size: 14px;
 padding: var(--pd);
-background-image: linear-gradient(transparent, #000000);
+background-image: linear-gradient(transparent, var(--hitam));
 }
 
-.menu {
-  border-top: 1px solid var(--grey1);
-}
-.menu div {
-  padding: var(--pd) var(--pd) var(--pd) var(--pd);
-  border-bottom: 1px solid var(--grey1);
-}
 .penghalang {
 position: absolute;
 top: 0;
@@ -190,15 +190,17 @@ width: 100%;
 height: 100%;
 }
 
-header { margin: calc(var(--pd) * 10) 0 calc(var(--pd) * 10) 0; }
+header {
+margin: calc(var(--pd) * 10) 0 calc(var(--pd) * 10) 0;
+}
 
 header svg {
-margin: 0 auto 0 auto;
 display: block;
+margin: 0 auto 0 auto;
 }
 
 .vspace {
-  display: block;
-  width: 100%;
-  height: calc(var(--pd) * 5);
-  }
+display: block;
+width: 100%;
+height: calc(var(--pd) * 5);
+}
