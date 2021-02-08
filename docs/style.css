@@ -139,15 +139,15 @@ font-family: monospace !important;
 .galeri {
 display: flex;
 flex-flow: wrap;
-padding-top: var(--pd);
-padding-left: var(--pd);
+padding-top: 2px;
+padding-left: 2px;
 }
 
 .thumb {
 position: relative;
-width: calc(25% - var(--pd));
-margin-right: var(--pd);
-margin-bottom: var(--pd);
+width: calc(25% - 2px);
+margin-right: 2px;
+margin-bottom: 2px;
 }
 
 .thumb:after {
