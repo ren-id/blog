@@ -4,7 +4,7 @@ description: Hubungi Reno melalui kontak yang tersedia di halaman ini.
 ---
 # Ada yang mau dibicarakan?
 
-![Unduh file kontak]({{ site.url }}/files/card.vcf), atau pindai QR code berikut untuk menyimpan kontak.
+[Unduh file kontak]({{ site.url }}/files/card.vcf), atau pindai QR code berikut untuk menyimpan kontak.
 
 ![Kartu Nama]({{ site.url }}/files/card.png)
 
