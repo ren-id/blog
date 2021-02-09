@@ -12,11 +12,11 @@ Akun yang ditutup di antaranya: WhatsApp, Telegram, Instagram, dan Twitter.
 
 Selama masa tunggu, WhatsApp hanya digunakan untuk keperluan pekerjaan. Chat mungkin lambat dibalas karena aku tidak membawa hape kemana-mana.
 
-## Pertimbangan
-
 Tahun 2020 aku pernah menutup seluruh akun media sosialku untuk waktu yang lama dengan alasan yang sederhana: mengurangi interaksi sosial yang tidak sehat di dunia maya.
 
-Di akhir tahun, aku memutuskan membuat akun WhatsApp baru untuk kepentingan pekerjaan. Kepentingan pekerjaan adalah satu-satunya alasan mengapa aku punya akun WhatsApp karena kebanyakan orang masih bergantung pada WhatsApp untuk berbagi informasi.
+Kebanyakan orang masih bergantung pada WhatsApp untuk berbagi informasi.
+
+Di akhir tahun, aku memutuskan membuat akun WhatsApp baru untuk kepentingan pekerjaan. Pekerjaan adalah satu-satunya alasan mengapa aku punya akun WhatsApp.
 
 Di sela-sela waktu, aku mendapati diriku kembali terlibat dalam penggunaan media sosial yang kurang sehat menurut pertimbanganku sendiri.
 
