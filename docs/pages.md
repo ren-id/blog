@@ -1,6 +1,6 @@
 ---
 title: Daftar Halaman
-description: Ini adalah daftar halaman penting. Mohon jangan bertindak jahat!
+description: Ini adalah daftar halaman penting. Mohon jangan bertindak jahat.
 ---
 # Daftar Halaman
 
