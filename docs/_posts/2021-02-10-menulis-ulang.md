@@ -1,5 +1,5 @@
 ---
-title:"Menulis ulang kehidupan"
+title: "Menulis ulang kehidupan"
 description: "Aku bisa berhenti kapan saja."
 categories: kisah
 date: 2021-02-10 07:30
