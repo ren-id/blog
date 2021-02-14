@@ -211,5 +211,5 @@ height: calc(var(--pd) * 5);
 }
 
 p, li, th, td, code, blockquote, figcaption {
-  font-size: var(--pd);
-  }
+font-size: 16px;
+}
