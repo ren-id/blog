@@ -209,3 +209,7 @@ display: block;
 width: 100%;
 height: calc(var(--pd) * 5);
 }
+
+p, li, th, td, code, blockquote, figcaption {
+  font-size: var(--pd);
+  }
