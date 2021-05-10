@@ -97,6 +97,7 @@ padding: 0 0 0 calc(5 * var(--pd));
 
 article, footer {
 margin-top: var(--pd);
+margin-bottom: calc(var(--pd) * 4);
 }
 
 .katalog {
