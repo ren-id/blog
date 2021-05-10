@@ -1,5 +1,5 @@
 <div class="galeri">
-{% for post in site.categories.galeri limit:32 %}
+{% for post in site.categories.galeri limit:16 %}
 <div class="thumb">
 <a href="{{site.url}}{{post.url}}">
 <img src="{{post.image}}" alt="{{post.title}}" />
