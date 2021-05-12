@@ -1,0 +1,32 @@
+---
+title: ren
+description: My blog is my online home. I do not use social media. Never!
+---
+{% include head.html %}
+<div class="badan">
+{% include header.html %}
+{% include status.html %}
+<div class="vspace"></div>
+{% include galeri.html %}
+<div class="vspace"></div>
+<section>
+<h1>Artikel</h1>
+<ol>
+{% for post in site.categories.artikel limit:20 %}
+<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
+</section>
+<section>
+<h1>Kisah</h1>
+<ol>
+{% for post in site.categories.kisah limit:10 %}
+<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
+</section>
+{% include footer.html %}
+</div>
+{% include chat.html %}
+</body>
+</html>
