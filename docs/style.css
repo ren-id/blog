@@ -218,3 +218,19 @@ font-size: 16px;
 pre {
   overflow: auto;
 }
+
+.pengumuman {
+    background-color: #5386D2;
+    padding: calc(var(--pd) * 2);
+    border-radius: var(--pd);
+    box-shadow: 1px 1px 1px var(--abu2);
+    color: var(--putih);
+}
+
+.tombol_taut_putih {
+    background-color: var(--putih);
+    padding: var(--pd);
+    display: block;
+    text-align: center;
+    border-radius: var(--pd);
+}
