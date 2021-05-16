@@ -1,7 +1,7 @@
 ---
 title: "Menghapus semua orang yang melenceng dari standar hidupku"
 description: "Aku punya filter unik dalam pertemanan. Siapa saja yang tidak sesuai standar hidupku, tentu akan kulupakan."
-categories: pilihan
+categories: pengumuman
 ---
 # Menghapus semua orang yang melenceng dari standar hidupku
 
