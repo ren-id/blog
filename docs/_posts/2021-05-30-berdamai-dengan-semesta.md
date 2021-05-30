@@ -1,7 +1,7 @@
 ---
 title: "Berdamai dengan Semesta"
 description: "Selama ini aku terlalu banyak mengeluh dan menyalahkan Semesta atas kemalangan yang menimpa aku. Kini aku sadar bahwa kalau aku bisa berdamai dengan-Nya, aku bisa tenteram."
-categories: diaries
+categories: diari
 ---
 # Berdamai dengan Semesta 
 
