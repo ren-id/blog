@@ -226,6 +226,6 @@ pre {
     box-shadow: 1px 1px 1px var(--abu2);
 }
 
-.pengumuman a {
+.pengumuman * {
     color: var(--putih);
 }
