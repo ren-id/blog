@@ -220,12 +220,13 @@ pre {
 }
 
 .pengumuman {
-    background-color: #5386D2;
-    padding: calc(var(--pd) * 2);
-    border-radius: var(--pd);
-    box-shadow: 1px 1px 1px var(--abu2);
+background-color: #5386D2;
+padding: calc(var(--pd) * 2);
+border-radius: var(--pd);
+box-shadow: 1px 1px 1px var(--abu2);
+margin: 2px 2px 2px 2px;
 }
 
 .pengumuman * {
-    color: var(--putih);
+color: var(--putih);
 }
