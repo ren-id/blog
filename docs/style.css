@@ -220,7 +220,7 @@ pre {
 }
 
 .pengumuman {
-background-color: #5386D2;
+background-color: var(--aksen);
 padding: calc(var(--pd) * 2);
 border-radius: var(--pd);
 box-shadow: 1px 1px 1px var(--abu2);
