@@ -1,7 +1,8 @@
 ---
 title: Contoh Karya Relief yang Ada di Kota Palangka Raya
 description: Kota Palangka Raya memiliki banyak taman relief yang indah.
-categories: artikel
+categories: galeri
+image: https://i.postimg.cc/Mn4DxKjY/2020-08-06-taman-relief-sumpah-pemuda.jpg
 ---
 # Contoh Karya Relief yang Ada di Kota Palangka Raya
 
