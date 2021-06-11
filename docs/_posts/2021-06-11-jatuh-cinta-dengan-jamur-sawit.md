@@ -14,4 +14,4 @@ Ketika masih muda, jamur sawit berbentuk bulat-bulatan, persis seperti jamur kan
 
 [![2021-05-21-jamur-jangkos.jpg](https://i.postimg.cc/GpHq42dp/2021-05-21-jamur-jangkos.jpg)](https://postimg.cc/7CrgcqCv)
 
-Kebetulah di depan mes aku ada tumpukan janjang kosong kelapa sawit. Setelah beberapa bulan, akhirnya janjang kosong itu membusuk. Janjang kosong membusuk setelah kurang-lebih 2 bulan. Setelah itu, akan muncul bulatan-bulatan berwarna abu yang secara ajaib akan segera menjadi jamur yang lezat. Masa pertumbuhannya cepat. Aku hampir memanennya tiap hari.
+Kebetulan di depan mes aku ada tumpukan janjang kosong kelapa sawit. Setelah beberapa bulan, akhirnya janjang kosong itu membusuk. Janjang kosong membusuk setelah kurang-lebih 2 bulan. Setelah itu, akan muncul bulatan-bulatan berwarna abu yang secara ajaib akan segera menjadi jamur yang lezat. Masa pertumbuhannya cepat. Aku hampir memanennya tiap hari.
