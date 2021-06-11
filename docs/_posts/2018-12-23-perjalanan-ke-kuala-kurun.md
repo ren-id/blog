@@ -6,9 +6,9 @@ image: https://i.postimg.cc/cgpDX3rB/Perjalanan-ke-Kuala-Kurun.jpg
 ---
 # Perjalanan Menegangkan ke Kuala Kurun
 
-[![Perjalanan-ke-Kuala-Kurun.jpg](https://i.postimg.cc/T1wZ2qxF/Perjalanan-ke-Kuala-Kurun.jpg)](https://postimg.cc/cgpDX3rB)
+{{ post.description }}
 
-Setelah bertahun-tahun berselang, akhirnya aku bisa kembali berkunjung ke Kuala Kurun, ibukota kabupaten Gunung Mas.
+[![Perjalanan-ke-Kuala-Kurun.jpg](https://i.postimg.cc/T1wZ2qxF/Perjalanan-ke-Kuala-Kurun.jpg)](https://postimg.cc/cgpDX3rB)
 
 Di penghujung tahun 2018, aku menyisihkan waktu untuk jalan-jalan. Kebetulan, aku punya teman lama yang hingga kini masih setia dan mau menerima telepon dariku. 
 
