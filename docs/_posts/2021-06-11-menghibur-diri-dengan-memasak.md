@@ -2,7 +2,7 @@
 title: "Menghibur Diri dengan Memasak"
 description: "Menghibur diri tidak melulu harus pergi ke tempat wisata. Ada bagian rumah yang dapat menjadi tempat hibura: dapur!"
 categories: galeri
-images: https://i.postimg.cc/WFdkLy5r/bahan-telur-dadar-padang.jpg
+image: https://i.postimg.cc/WFdkLy5r/bahan-telur-dadar-padang.jpg
 ---
 # Menghibur Diri dengan Memasak
 
