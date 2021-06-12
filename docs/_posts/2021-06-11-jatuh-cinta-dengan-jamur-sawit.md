@@ -15,3 +15,9 @@ Ketika masih muda, jamur sawit berbentuk bulat-bulatan, persis seperti jamur kan
 [![2021-05-21-jamur-jangkos.jpg](https://i.postimg.cc/GpHq42dp/2021-05-21-jamur-jangkos.jpg)](https://postimg.cc/7CrgcqCv)
 
 Kebetulan di depan mes aku ada tumpukan janjang kosong kelapa sawit. Setelah beberapa bulan, akhirnya janjang kosong itu membusuk. Janjang kosong membusuk setelah kurang-lebih 2 bulan. Setelah itu, akan muncul bulatan-bulatan berwarna abu yang secara ajaib akan segera menjadi jamur yang lezat. Masa pertumbuhannya cepat. Aku hampir memanennya tiap hari.
+
+# Olahan Jamur Sawit
+
+[![2021-06-12-las-vegan-menu.jpg](https://i.postimg.cc/c1gPf7xY/2021-06-12-las-vegan-menu.jpg)](https://postimg.cc/XXW2bCy7)
+
+Olahan di atas kunamai Las Vegan, karena tidak ada unsur hewani di dalamnya. Dan yang paling penting ada jamur sawit di dalamnya yang membuatnya lezat untuk dimangsa.
