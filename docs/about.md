@@ -9,7 +9,7 @@ image: https://ren.my.id/files/background.png
 - 🇮🇩 I live in Indonesia.
 - 🌐 My primary social media is my blog. It is [here](https://ren.my.id).
 - 🍄 I am a vegetarian.
-- 🏳️‍🌈 I am standing with pride flag.
+- 🏳️‍🌈 I am standing with the flag of pride.
 - 👀 I’m interested in web design.
 - 📫 Send me any message via chat on my [blog](https://ren.my.id).
 
