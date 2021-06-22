@@ -80,7 +80,7 @@ background-color: var(--putih);
 border: 1px solid var(--abu1);
 }
 
-blockquote, figcaption, header, footer, article, section, .header, .katalog, .padding {
+blockquote, figcaption, header, footer, article, section, .header, .katalog, .padding, .comment {
 padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
