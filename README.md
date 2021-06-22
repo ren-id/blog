@@ -1,4 +1,4 @@
-![Tentang]({{ site.url }}/files/about.svg)
+![Tentang](https://ren.my.id/files/about.svg)
 
 # Ini adalah blog sekaligus media sosial pribadi.
 
