@@ -108,7 +108,7 @@ display: flex;
 }
 
 .figure {
-margin: 0 var(--pd) 0 0;
+padding: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
 height: 100%;
 white-space: normal;
 overflow: auto;
@@ -122,7 +122,6 @@ width: 128px;
 height: 128px;
 border-radius: 50%;
 border: calc(var(--pd) / 2) solid var(--aksen);
-padding: calc(var(--pd) / 4) calc(var(--pd) / 4) calc(var(--pd) / 4) calc(var(--pd) / 4);
 }
 
 .caption {
