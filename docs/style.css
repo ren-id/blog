@@ -231,3 +231,5 @@ color: var(--putih);
 }
 
 .pengumuman a { text-decoration: underline; }
+
+.margin-bawah { margin-bottom: calc(var(--pd) * 5); }
