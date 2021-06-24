@@ -122,7 +122,6 @@ width: 128px;
 height: 128px;
 border-radius: 50%;
 border: none;
-box-shadow: 0px 2px 2px var(--abu2);
 }
 
 .caption {
