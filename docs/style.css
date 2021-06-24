@@ -246,3 +246,8 @@ background-color: rgba(0, 0, 0, 0.5);
 }
 
 .margin-bawah { margin-bottom: calc(var(--pd) * 5); }
+
+article img {
+    margin-top: calc(var(--pd) * 2);
+    margin-bottom: calc(var(--pd) * 2);
+}
