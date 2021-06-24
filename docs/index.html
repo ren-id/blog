@@ -8,9 +8,13 @@ description: My blog is my online home. I do not use social media. Never!
 {% include status.html %}
 {% for post in site.categories.diari limit:1 %}
 <div class="pengumuman margin-bawah">
+<a href="{{site.url}}{{post.url}}">
+<img src="{{post.image}}" alt="{{post.title}}" />
+<div class="cover">
 <h1>{{ post.title }}</h1>
 <p>{{ post.description }}</p>
-<a href="{{ site.url }}{{ post.url }}">Baca selengkapnya...</a>
+</div>
+</a>
 </div>
 {% endfor %}
 {% include galeri.html %}
