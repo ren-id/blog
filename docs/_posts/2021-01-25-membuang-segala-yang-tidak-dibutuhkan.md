@@ -2,9 +2,11 @@
 title: Membuang yang Tidak Dibutuhkan
 description: Aku menyadari bahwa sebenarnya aku membutuhkan semua hal yang ada di dunia ini. Aku tidak perlu memiliki semuanya. Cukup menyimpan yang benar-benar dibutuhkan saja.
 categories: cerita
-image: https://images.pexels.com/photos/3359003/pexels-photo-3359003.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=200
+image: https://images.pexels.com/photos/850216/pexels-photo-850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=128
 ---
 # Membuang Segala yang Tidak Dibutuhkan
+
+[![Membuang yang tidak dibutuhkan](https://images.pexels.com/photos/850216/pexels-photo-850216.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=720)](https://www.pexels.com/photo/focus-photo-of-yellow-paper-near-trash-can-850216/)
 
 Setelah membaca beberapa artikel dan buku tentang gaya hidup minimalis, aku merasa tergugah untuk membuang segala sesuatu yang sebenarnya tidak dibutuhkan. Membuang tidak berarti dibuang begitu saja ke tempat sampah, melainkan diberikan ke teman yang membutuhkannya atau didonasikan ke suatu lembaga. Namun demikian, hal-hal yang bukan barang tentu saja membutuhkan cara tersendiri untuk membuangnya.
 
