@@ -219,36 +219,37 @@ pre {
 overflow: auto;
 }
 
-.pengumuman {
-position: relative;
-width: calc(100% - var(--pd));
-margin: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
-}
-
-.pengumuman * {
-color: var(--putih);
-}
-
-.pengumuman a { text-decoration: underline; }
-
-.pengumuman img {
-width: 100%;
-}
-
-.pengumuman .cover {
-position: absolute;
-top: 0;
-bottom: 0;
-right: 0;
-left: 0;
-width: 100%;
-height: 100%;
-background-color: rgba(0, 0, 0, 0.5);
-}
-
 .margin-bawah { margin-bottom: calc(var(--pd) * 5); }
 
 article img {
-    margin-top: calc(var(--pd) * 2);
-    margin-bottom: calc(var(--pd) * 2);
+margin-top: calc(var(--pd) * 2);
+margin-bottom: calc(var(--pd) * 2);
+}
+
+.lemari {
+overflow-x: scroll;
+padding: calc(var(--pd) * 2) 0 calc(var(--pd) * 2) calc(var(--pd) * 2);
+box-sizing: border-box;
+}
+
+.lemari * {
+text-decoration: none;
+}
+
+.rak {
+display: flex;
+}
+
+.laci {
+margin-right: calc(var(--pd) * 2);
+}
+
+.item {
+background-color: var(--aksen);
+color: var(--putih);
+padding: var(--pd) var(--pd) var(--pd) var(--pd);
+border-radius: var(--pd) var(--pd) var(--pd) var(--pd);
+position: relative;
+width: 300px;
+white-space: normal;
 }
