@@ -118,10 +118,11 @@ position: relative;
 .figure>img {
 object-fit: cover;
 object-position: center;
-width: 128px;
-height: 128px;
+width: calc(var(--pd) * 15);
+height: calc(var(--pd) * 15);
 border-radius: 50%;
-border: none;
+border: calc(var(--pd) / 2) solid var(--aksen);
+padding: calc(var(--pd) / 4);
 }
 
 .caption {
