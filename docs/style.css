@@ -252,4 +252,5 @@ border-radius: var(--pd) var(--pd) var(--pd) var(--pd);
 position: relative;
 width: 300px;
 white-space: normal;
+height: 100%;
 }
