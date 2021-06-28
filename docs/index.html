@@ -23,14 +23,24 @@ description: My blog is my online home. I do not use social media. Never!
 </div>
   
 {% include galeri.html %}
+  
 <section>
-<h1>Artikel</h1>
-<ol>
+<div class="lemari margin-bawah">
+<div class="rak">
 {% for post in site.categories.artikel limit:20 %}
-<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+<div class="laci">
+<a href="{{ site.url }}{{ post.url }}">
+<div class="item">
+<h1>{{ post.title }}</h1>
+<p>{{ post.description }}</p>
+</div>
+</a>
+</div>
 {% endfor %}
-</ol>
+</div>
+</div>
 </section>
+  
 {% include footer.html %}
 </div>
 </body>
