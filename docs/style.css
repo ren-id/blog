@@ -228,7 +228,7 @@ margin-bottom: calc(var(--pd) * 2);
 
 .lemari {
 overflow-x: scroll;
-padding: calc(var(--pd) * 2) 0 calc(var(--pd) * 2) calc(var(--pd) * 2);
+padding: calc(var(--pd) / 2) 0 calc(var(--pd) / 2) calc(var(--pd) / 2);
 box-sizing: border-box;
 }
 
@@ -241,13 +241,13 @@ display: flex;
 }
 
 .laci {
-margin-right: calc(var(--pd) * 2);
+margin-right: calc(var(--pd) / 2);
 }
 
 .item {
 background-color: var(--aksen);
 color: var(--putih);
-padding: var(--pd) var(--pd) var(--pd) var(--pd);
+padding: calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2);
 border-radius: var(--pd) var(--pd) var(--pd) var(--pd);
 position: relative;
 width: 300px;
