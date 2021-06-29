@@ -105,6 +105,7 @@ overflow-x: scroll;
 overflow-y: hidden;
 white-space: normal;
 display: flex;
+scrollbar-width: none;
 }
 
 .figure {
@@ -230,6 +231,7 @@ margin-bottom: calc(var(--pd) * 2);
 overflow-x: scroll;
 padding: calc(var(--pd) / 4) calc(var(--pd) / 4) calc(var(--pd) / 4) calc(var(--pd) / 4);
 box-sizing: border-box;
+scrollbar-width: none;
 }
 
 .lemari * {
