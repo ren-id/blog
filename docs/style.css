@@ -39,7 +39,7 @@ h3 {font-size: 20px;}
 h4 {font-size: 16px;}
 
 p, ul, ol, li, code, table, blockquote, figure {
-margin: var(--pd) 0 var(--pd) 0;
+margin: calc(var(--pd) * 2) 0 calc(var(--pd) * 2) 0;
 }
 
 a {
