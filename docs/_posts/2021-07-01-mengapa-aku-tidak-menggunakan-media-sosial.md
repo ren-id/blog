@@ -1,7 +1,7 @@
 ---
 title: "Mengapa aku tidak menggunakan media sosial Facebook, Instagram, dan WhatsApp, serta bagaimana cara berkomunikasi dan mendapatkan informasi tanpa media sosial?"
 description: "Harus diakui bahwa hampir tiap orang yang punya smartphone pasti punya Facebook, Instagram, dan WhatsApp. Media sosial tersebut memang sedang populer. Namun, aku memutuskan untuk menghapusnya untuk beberapa alasan."
-categories: diari,status
+categories: diari, cerita
 image: https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=120
 ---
 # Mengapa aku tidak menggunakan media sosial Facebook, Instagram, dan WhatsApp?
