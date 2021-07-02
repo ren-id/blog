@@ -240,10 +240,6 @@ overflow-x: scroll;
 padding-top: 16px;
 padding-left: 16px;
 padding-bottom: 16px;
-background-color: var(--abu1);
-border-radius: 4px 4px 4px 4px;
-margin-left: 2px;
-margin-right: 2px;
 }
 
 .lemari * {
@@ -268,5 +264,5 @@ width: 360px;
 white-space: normal;
 height: 100%;
 margin-right: 16px;
-box-shadow: 2px 2px 2px #B5B5B5;
+box-shadow: 2px 2px 2px #eeeeee;
 }
