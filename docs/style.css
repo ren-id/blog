@@ -102,13 +102,6 @@ margin-bottom: calc(var(--pd) * 4);
 padding: 16px 16px 16px 16px;
 }
 
-article {
-    border-radius: 4px 4px 4px 4px;
-    margin-left: 2px;
-    margin-right: 2px;
-    background-color: var(--abu);
-}
-
 .katalog {
 overflow-x: scroll;
 overflow-y: hidden;
