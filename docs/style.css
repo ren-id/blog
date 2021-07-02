@@ -81,7 +81,7 @@ background-color: var(--putih);
 border: 1px solid var(--abu1);
 }
 
-blockquote, figcaption, header, footer, article, section, .header, .katalog, .padding, .comment {
+blockquote, figcaption, header, footer, section, .header, .katalog, .padding, .comment {
 padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
@@ -99,6 +99,14 @@ padding: 0 0 0 calc(5 * var(--pd));
 article, footer {
 margin-top: var(--pd);
 margin-bottom: calc(var(--pd) * 4);
+padding: 16px 16px 16px 16px;
+}
+
+article {
+    border-radius: 4px 4px 4px 4px;
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: var(--abu);
 }
 
 .katalog {
@@ -234,6 +242,8 @@ padding-left: 16px;
 padding-bottom: 16px;
 background-color: var(--abu1);
 border-radius: 4px 4px 4px 4px;
+margin-left: 2px;
+margin-right: 2px;
 }
 
 .lemari * {
