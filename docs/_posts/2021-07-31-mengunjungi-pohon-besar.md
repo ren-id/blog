@@ -4,8 +4,8 @@ description: "Sebuah pohon besar menjulang tinggi di hutan sekitar Pundu, Kalima
 categories: galeri
 image: https://i.postimg.cc/yDY5yLyr/giant-tree-1.jpg
 ---
-# A Magestic Giant Tree
+# A Majestic Giant Tree
 
-[![I am standing beside a magestic giant tree.](https://i.postimg.cc/XYwb3hG3/giant-tree-1.jpg)](https://postimg.cc/yDY5yLyr)
+[![I am standing beside a majestic giant tree.](https://i.postimg.cc/XYwb3hG3/giant-tree-1.jpg)](https://postimg.cc/yDY5yLyr)
 
-I am standing beside a magestic giant tree.
+I am standing beside a majestic giant tree.
