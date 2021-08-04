@@ -77,8 +77,12 @@ figure>img, .badan>p>img, article>p>img, article>p>a>img, section>p>img { max-wi
 figure {
 margin: calc(var(--pd) * 2) 0 calc(var(--pd) * 2) 0;
 padding: 0 0 0 0;
-background-color: var(--putih);
-border: 1px solid var(--abu1);
+background-color: var(--abu1);
+text-align: center;
+}
+
+figure img {
+margin: 0 0 0 0;
 }
 
 blockquote, figcaption, header, footer, section, .header, .katalog, .padding, .comment {
