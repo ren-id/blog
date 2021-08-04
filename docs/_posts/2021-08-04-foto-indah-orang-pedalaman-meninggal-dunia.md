@@ -12,6 +12,6 @@ Pada 1 Agustus 2021, aku mengajak teman-temanku ke hutan. Kami mengumpulkan bung
 
 Gaya berfoto berikut terinspirasi dari film Avatar (2009). Kalau pernah menontonnya, kamu bisa melihat gaya ini di waktu 01:11:22 untuk versi _extended_.
 
-[![Foto Indah Orang Pedalaman Meninggal Dunia](https://i.postimg.cc/j2cywsp5/potret-indah-jenazah-orang-pedalaman-meninggal.jpg)](https://postimg.cc/CnZR9VLT)
+[{% include image.html url="https://i.postimg.cc/j2cywsp5/potret-indah-jenazah-orang-pedalaman-meninggal.jpg" description="Foto Indah Orang Pedalaman Meninggal Dunia" %}](https://postimg.cc/CnZR9VLT)
 
 Sebenarnya aku belum puas dengan hasilnya dan aku berencana mengajak mereka mengulanginya hingga mendapatkan hasil yang maksimal.
