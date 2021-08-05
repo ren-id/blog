@@ -82,7 +82,7 @@ text-align: center;
 }
 
 figure img {
-margin: 0 0 0 0;
+max-width: 100%;
 }
 
 blockquote, figcaption, header, footer, section, .header, .katalog, .padding, .comment {
