@@ -2,7 +2,7 @@
 title: "Berdamai dengan Semesta"
 description: "Selama ini aku terlalu banyak mengeluh dan menyalahkan Semesta atas kemalangan yang menimpa aku. Kini aku sadar bahwa kalau aku bisa berdamai dengan-Nya, aku bisa tenteram."
 image: https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=720
-categories: diari
+categories: artikel
 ---
 # Berdamai dengan Semesta 
 
