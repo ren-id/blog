@@ -1,7 +1,7 @@
 ---
 title: "Full Offline Sebulan"
 description: "Selama sebulan ke depan, dimulai dari 5 Juli 2021, aku akan mencoba untuk offline. Aku akan menjadikan diriku sendiri sebagai subjek penelitian. Kira-kira apa yang akan terjadi."
-categories: diari
+categories: artikel
 mood: "bad"
 ---
 # Full Offline Sebulan
