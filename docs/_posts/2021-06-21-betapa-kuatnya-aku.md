@@ -2,7 +2,7 @@
 title: "Betapa Kuatnya Aku"
 description: "Yang mampu menanggung beban Semesta. Yang diam-diam terisak bersama malam."
 image: https://images.pexels.com/photos/847400/pexels-photo-847400.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=720
-categories: diari
+categories: artikel
 ---
 # Betapa Kuatnya Aku
 
