@@ -268,3 +268,18 @@ height: 100%;
 margin-right: 16px;
 box-shadow: 2px 2px 2px #eeeeee;
 }
+
+.search-box {
+    padding: 2px 2px 2px 2px;
+}
+
+#search-input {
+    max-width: 320px;
+    border: none;
+    background-color: var(--abu2);
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px 4px 4px 4px;
+    margin: var(--pd) auto var(--pd) auto;
+    outline: none;
+    text-align: center;
+}
