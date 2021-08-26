@@ -11,3 +11,4 @@ Aku menggunakan blog ini untuk menggantikan media sosial umum seperti Facebook, 
 * stackoverflow.com
 * Jekyll
 * w3schools.com
+* Simple Search Jekyll by [Christian Fei](https://github.com/christian-fei/Simple-Jekyll-Search)
