@@ -11,3 +11,4 @@ image: https://images.pexels.com/photos/1095601/pexels-photo-1095601.jpeg?auto=c
 Seperti biasa, aku menyesal sekaligus bersyukur telah tumbuh dewasa. Aku menyesal karena tidak bisa bertemu lagi dengan orang-orang yang kusayang. Aku bersyukur atas pencapaian-pencapaianku.
 
 Tiap kali hari berlalu, aku merasa seperti kehilangan. Aku selalu merindukan kejadian-kejadian indah yang barusan terjadi. Aku akan selalu merindukan hari ini.
+

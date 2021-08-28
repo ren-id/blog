@@ -238,10 +238,8 @@ margin-bottom: calc(var(--pd) * 2);
 }
 
 .lemari {
-overflow-x: scroll;
-padding-top: 16px;
-padding-left: 16px;
-padding-bottom: 16px;
+padding-top: 2px;
+padding-left: 2px;
 }
 
 .lemari * {
@@ -253,6 +251,10 @@ display: flex;
 }
 
 .laci {
+position: relative;
+width: calc(50% - 2px);
+margin-right: 2px;
+margin-bottom: 2px;
 }
 
 .item {
@@ -262,10 +264,8 @@ color: var(--putih);
 border-radius: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
 padding: calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2);
 position: relative;
-width: 360px;
 white-space: normal;
 height: 100%;
-margin-right: 16px;
 box-shadow: 2px 2px 2px #eeeeee;
 }
 
