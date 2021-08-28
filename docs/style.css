@@ -248,6 +248,7 @@ text-decoration: none;
 
 .rak {
 display: flex;
+flex-wrap: wrap;
 }
 
 .laci {
