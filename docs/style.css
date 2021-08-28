@@ -270,12 +270,17 @@ height: 100%;
 box-shadow: 2px 2px 2px #eeeeee;
 }
 
-.search-box {
+.search-container {
     padding: 2px 2px 2px 2px;
 }
 
+.search-box {
+    max-width: 480px;
+    margin: 0 auto 0 auto;
+}
+
 #search-input {
-    max-width: 320px;
+    width: 100%;
     border: none;
     background-color: var(--abu2);
     padding: 5px 5px 5px 5px;
@@ -284,3 +289,4 @@ box-shadow: 2px 2px 2px #eeeeee;
     outline: none;
     text-align: center;
 }
+
