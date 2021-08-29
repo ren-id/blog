@@ -275,7 +275,7 @@ box-shadow: 2px 2px 2px #eeeeee;
 }
 
 .search-box {
-    max-width: 400px;
+    max-width: 360px;
     margin: 0 auto 0 auto;
 }
 
@@ -294,12 +294,12 @@ box-shadow: 2px 2px 2px #eeeeee;
     list-style: none;
     background-color: #f9f9f9;
     border-radius: 4px 4px 4px 4px;
-    padding: 0 0 0 0;
+    padding: 8px 0 8px 0;
     box-shadow: 2px 2px 2px #dddddd57;
 }
 
 #results-container li {
-    padding: 16px 16px 16px 16px;
+    padding: 8px 16px 8px 16px;
     margin: 0 0 0 0;
 }
 
