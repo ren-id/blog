@@ -9,7 +9,7 @@ description: My blog is my online home. I do not use social media. Never!
 <div class="search-box">
 <input type="text" id="search-input" placeholder="Simple search...">
 </div>
-<div class="search-results">
+<div id="search-results">
 <ul id="results-container"></ul>
 </div>
 </div>
@@ -35,7 +35,14 @@ description: My blog is my online home. I do not use social media. Never!
 {% include footer.html %}
 </div>
 <script src="{{site.url}}/files/jquery-3.6.0.min.js"></script>
-<script> $(document).ready(function() { $("#search-input").on("blur", function() { $(".search-results").fadeOut("medium"); }); $("#search-input").on("focus", function() { $(".search-results").show(); }); });</script>
+<script> 
+if(document.getElementById("search-input").value=null) {
+    document.getElementById("search-results").style.display="none";
+}
+else {
+    document.getElementById("search-results").style.display="block";
+}
+</script>
 <script src="{{site.url}}/files/search-script.js" type="text/javascript"></script>
 <script> SimpleJekyllSearch({ searchInput: document.getElementById("search-input"), resultsContainer: document.getElementById("results-container"), searchResultTemplate: '<a href="{{site.url}}{url}"><li>{title}</li></a>', noResultsText: "<li><p>No results found!</p></li>", json: "{{site.url}}/search.json" });</script>
 </body>
