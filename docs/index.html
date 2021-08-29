@@ -35,7 +35,7 @@ description: My blog is my online home. I do not use social media. Never!
 {% include footer.html %}
 </div>
 <script src="{{site.url}}/files/jquery-3.6.0.min.js" type="text/javascript"></script>
-<script> $(document).ready(function() { $("#search-input").on("blur", function() { $(".search-results").fadeOut("medium"); }); $("#search-input").on("focus", function() { $(".search-results").show(); }); });</script>
+<script> $(document).ready(function() { $("#search-input").on("blur", function() { $("#search-results").fadeOut("medium"); }); $("#search-input").on("focus", function() { $("#search-results").show(); }); });</script>
 <script src="{{site.url}}/files/search-script.js" type="text/javascript"></script>
 <script> SimpleJekyllSearch({ searchInput: document.getElementById("search-input"), resultsContainer: document.getElementById("results-container"), searchResultTemplate: '<a href="{{site.url}}{url}"><li>{title}</li></a>', noResultsText: "<li><p>No results found!</p></li>", json: "{{site.url}}/search.json" });</script>
 </body>
