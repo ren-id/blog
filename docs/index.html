@@ -36,16 +36,20 @@ description: My blog is my online home. I do not use social media. Never!
 </div>
 <script src="{{site.url}}/files/jquery-3.6.0.min.js"></script>
 <script> 
-document.getElementById("search-input").onfocus {
-if(document.getElementById("search-input").value == null) {
-    document.getElementById("search-results").style.display="none";
-}
-else {
-    document.getElementById("search-results").style.display="block";
+var cari = document.getElementById("search-input").value;
+var bidangcari = document.getElementById("search-input");
+var bidanghasil = document.getElementById("search-results");
+
+if(!cari) { bidanghasil.style.display="none"; }
+else { bidanghasil.style.display="block"; };
+
+bidangcari.onfocus {
+if(!cari) { bidanghasil.style.display="none"; }
+else { bidanghasil.style.display="block"; };
 };
-}
-document.getElementById("search-input").onblur {
-document.getElementById("search-results").style.display="none";
+
+bidangcari.onblur {
+bidanghasil.style.display="none";
 }
 </script>
 <script src="{{site.url}}/files/search-script.js" type="text/javascript"></script>
