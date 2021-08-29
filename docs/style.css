@@ -291,10 +291,17 @@ box-shadow: 2px 2px 2px #eeeeee;
 }
 
 #results-container {
-    list-style: none;
-    background-color: #f9f9f9;
-    padding: 0 0 0 0;
-    box-shadow: 2px 2px 2px #dddddd57;
+list-style: none;
+background-color: #f9f9f9;
+padding: 8px 0 8px 0;
+box-shadow: 0 2px 16px #00000025;
+position: absolute !important;
+max-width: 600px !important;
+z-index: 99 !important;
+left: 0;
+right: 0;
+margin: auto !important;
+border-radius: 4px 4px 4px 4px;
 }
 
 #results-container li {
