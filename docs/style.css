@@ -247,15 +247,10 @@ text-decoration: none;
 }
 
 .rak {
-display: flex;
-flex-wrap: wrap;
 }
 
 .laci {
-position: relative;
-width: calc(50% - 2px);
-margin-right: 2px;
-margin-bottom: 2px;
+margin-bottom: 6px;
 }
 
 .item {
@@ -264,9 +259,7 @@ background-image: linear-gradient(to bottom right, #3800ff, #9700ff);
 color: var(--putih);
 border-radius: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
 padding: calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2);
-position: relative;
 white-space: normal;
-height: 100%;
 box-shadow: 2px 2px 2px #eeeeee;
 }
 
