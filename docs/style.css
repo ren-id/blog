@@ -160,6 +160,15 @@ margin-right: 2px;
 margin-bottom: 2px;
 }
 
+@media only screen and (orientation: landscape) {
+.thumb {
+position: relative;
+width: calc(50% - 2px);
+margin-right: 2px;
+margin-bottom: 2px;
+}
+}
+
 .thumb:after {
 content:"";
 display: block;
