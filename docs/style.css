@@ -126,7 +126,6 @@ object-position: center;
 width: 96px;
 height: 96px;
 border-radius: 50%;
-padding: calc(var(--pd) / 4);
 }
 
 .caption {
