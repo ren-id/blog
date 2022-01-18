@@ -118,6 +118,7 @@ white-space: normal;
 .figure {
 padding: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
 white-space: normal;
+position:relative;
 }
 
 .figure>img {
