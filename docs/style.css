@@ -90,7 +90,7 @@ margin-top: 0;
 margin-bottom: 0;
 }
 
-blockquote, figcaption, header, footer, section, .header, .katalog, .padding, .comment {
+blockquote, figcaption, header, footer, section, .header, .padding, .comment {
 padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
@@ -245,28 +245,22 @@ padding-left: 2px;
 }
 
 .lemari * {
-text-decoration: none;
 }
 
 .rak {
 }
 
 .laci {
-margin-bottom: 6px;
 }
 
 .item {
-background-color: var(--aksen);
-background-image: linear-gradient(to bottom right, #3800ff, #9700ff);
-color: var(--putih);
-border-radius: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
-padding: calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2);
-white-space: normal;
-box-shadow: 2px 2px 2px #eeeeee;
+padding: 2px 2px 2px 2px;
+border-bottom: 1px solid #dddddd;
 }
 
 .search-container {
 padding: 2px 2px 2px 2px;
+  position: relative;
 }
 
 .search-box, #search-results {
@@ -281,9 +275,9 @@ margin: 0 auto 0 auto;
 width: 100%;
 border: none;
 background-color: var(--abu1);
-padding: 5px 5px 5px 5px;
+padding: 6px 6px 6px 6px;
 border-radius: 4px 4px 4px 4px;
-margin: var(--pd) auto var(--pd) auto;
+margin: 0 0 0 0;
 outline: none;
 text-align: center;
 font-size: 16px;
@@ -330,7 +324,7 @@ left: 0;
 }
 
 .panel{overflow-y:auto;}
-.left-panel{background-color:#eeeeee;flex-grow:0;flex-shrink:0;flex-basis:auto;}
+.left-panel{background-color:#000000;flex-grow:0;flex-shrink:0;flex-basis:auto;}
 .right-panel{background-color:#ffffff;flex-grow:1;flex-shrink:1;flex-basis:auto;}
 
 .container{}
