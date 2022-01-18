@@ -112,17 +112,12 @@ padding: 16px 16px 16px 16px;
 }
 
 .katalog {
-overflow-x: scroll;
-overflow-y: hidden;
 white-space: normal;
-display: flex;
 }
 
 .figure {
 padding: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
 white-space: normal;
-overflow: auto;
-position: relative;
 }
 
 .figure>img {
@@ -131,7 +126,6 @@ object-position: center;
 width: 96px;
 height: 96px;
 border-radius: 50%;
-border: calc(var(--pd) / 2) solid var(--aksen);
 padding: calc(var(--pd) / 4);
 }
 
@@ -328,8 +322,8 @@ left: 0;
 
 .panel{overflow-y:auto;}
 .left-panel{background-color:#eeeeee;flex-grow:0;flex-shrink:0;flex-basis:auto;}
-.right-panel{background-color:#ffffff;flex-grow:1;flex-shrink:0;flex-basis:auto;}
+.right-panel{background-color:#ffffff;flex-grow:1;flex-shrink:1;flex-basis:auto;}
 
-.container{padding:8px 8px 8px 8px;}
+.container{}
 .left-container{}
 .right-container{}
