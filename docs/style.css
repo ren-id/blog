@@ -120,7 +120,6 @@ display: flex;
 
 .figure {
 padding: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
-height: 100%;
 white-space: normal;
 overflow: auto;
 position: relative;
@@ -129,8 +128,8 @@ position: relative;
 .figure>img {
 object-fit: cover;
 object-position: center;
-width: calc(var(--pd) * 15);
-height: calc(var(--pd) * 15);
+width: 96px;
+height: 96px;
 border-radius: 50%;
 border: calc(var(--pd) / 2) solid var(--aksen);
 padding: calc(var(--pd) / 4);
@@ -317,3 +316,20 @@ margin-bottom: 8px;
 white-space: normal;
 }
 
+.wrapper{
+display: flex;
+flex-wrap: nowrap;
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+}
+
+.panel{overflow-y:auto;}
+.left-panel{background-color:#eeeeee;flex-grow:0;flex-shrink:0;flex-basis:auto;}
+.right-panel{background-color:#ffffff;flex-grow:1;flex-shrink:0;flex-basis:auto;}
+
+.container{padding:8px 8px 8px 8px;}
+.left-container{}
+.right-container{}
