@@ -5,19 +5,22 @@ description: My blog is my online home. I do not use social media. Never!
 {% include head.html %}
 
 <div class="wrapper">
-<div class="panel left-panel"><div class="container left-container">{% include status.html %}</div></div>
-<div class="panel right-panel">
-  <div class="container right-container">
   
-    <div class="badan">
-<div class="search-container margin-bawah">
+  <div class="search-container margin-bawah">
 <div class="search-box">
-<input type="text" id="search-input" placeholder="Simple search...">
+<input type="text" id="search-input" placeholder="Cari">
 </div>
 <div id="search-results">
 <ul id="results-container"></ul>
 </div>
 </div>
+  
+<div class="badan"><div class="wrapper katalog">{% include status.html %}</div></div>
+  
+<div class="panel right-panel">
+  <div class="container right-container">
+  
+    <div class="badan">
 
 {% include galeri.html %}
   
