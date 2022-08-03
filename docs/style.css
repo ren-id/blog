@@ -234,9 +234,11 @@ pre {
 overflow: auto;
 }
 
-. {
+.overflow-x-auto {
   overflow-x: auto;
 }
+
+.margin-atas { margin-top: calc(var(--pd) * 5); }
 
 .margin-bawah { margin-bottom: calc(var(--pd) * 5); }
 
