@@ -324,7 +324,6 @@ white-space: normal;
 .wrapper{
 display: flex;
 flex-wrap: nowrap;
-position: absolute;
 top: 0;
 right: 0;
 bottom: 0;
