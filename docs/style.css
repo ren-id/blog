@@ -264,6 +264,7 @@ padding-left: 2px;
 .item {
 padding: 2px 2px 2px 2px;
 border-bottom: 1px solid #dddddd;
+color: #000000;
 }
 
 .search-container {
