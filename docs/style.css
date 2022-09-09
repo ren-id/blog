@@ -364,9 +364,11 @@ left: 0;
 
 .notifikasi {
     background-color: var(--aksen);
-    color: #ffffff;
     text-align: center;
     padding: 6px 6px 6px 6px;
+}
+.notifikasi * {   
+    color: #ffffff;
 }
 
 .business-container {
