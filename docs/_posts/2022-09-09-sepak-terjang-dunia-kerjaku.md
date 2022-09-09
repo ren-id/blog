@@ -20,6 +20,8 @@ Perusahaan ini bergerak di bidang pengadaan barang dan jasa. Bisa dibilang kontr
 
 Singkat cerita, di penghujung tahun pada tahun ke-3 aku bekerja di perusahaan itu, aku diajak jalan-jalan ke Bali bareng keluarga besarnya. Aku menjadi satu-satunya orang yang tidak punya hubungan darah sama sekali di rombongan itu. Ini adalah salah satu momen paling indah karena menjadi pengalaman pertama aku naik pesawat terbang, pertama kali keluar pulau, dan pertama kali melihat pantai dan laut. 
 
+{% include image.html url="https://drive.google.com/file/d/12m-EXHAP6loinnRiSHO1BQtN_Xzcge9B/view?usp=sharing" description="Pertama kali santai di pantai di Bali." src="https://drive.google.com/file/d/12m-EXHAP6loinnRiSHO1BQtN_Xzcge9B/view?usp=sharing" credit_title="Reno" credit_url="https://drive.google.com/file/d/12m-EXHAP6loinnRiSHO1BQtN_Xzcge9B/view?usp=sharing" figure_title="Reno dan keluarga besar perusahaan sedang bersantai di Pantai Kuta, Bali." figure_url="https://drive.google.com/file/d/12m-EXHAP6loinnRiSHO1BQtN_Xzcge9B/view?usp=sharing" %}
+
 Satu-satunya alasan aku mengundurkan diri adalah karena aku ingin karir aku berkembang (plus gaji yang lebih besar). Belakangan aku menyadari bahwa harapan tersebut hanyalah halusinasi _anak baru gede_ pada umumnya. 
 
 ## Selamat datang di Indomaret, selamat belanja!
