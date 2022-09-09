@@ -10,8 +10,6 @@ Aku tidak berasal dari keluarga berada. Oleh karena itu, aku berjuang keras untu
 
 Setelah lulus SMA, aku mulai gencar sana-sini mencari pekerjaan. Berkas lamaran ditebar ke seluruh penjuru kota. Ide ini muncul dengan harapan segera bisa mandiri. "Mana yang nyangkut duluan (panggilan untuk wawancara), itu yang diambil." 
 
-{% include image.html url="https://images.pexels.com/photos/4820685/pexels-photo-4820685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" description="Ilustrasi orang sedang bekerja." src="https://images.pexels.com/photos/4820685/pexels-photo-4820685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" credit_title="cottonbro" credit_url="https://www.pexels.com/@cottonbro/" figure_title="Man in Gray Long Sleeve Shirt and Black Pants Holding Brown Wooden Cart" figure_url="https://www.pexels.com/photo/man-in-gray-long-sleeve-shirt-and-black-pants-holding-brown-wooden-cart-4820685/" %}
-
 ## Pekerjaan Pertama
 
 Pekerjaan pertama datang dari perusahaan swasta milik salah satu keluarga terpandang di Palangka Raya. Karena perusahaan ini menggunakan sistem kekeluargaan, aku pun diperlakukan seperti keluarga. Jadi, direktur perusahaan kupanggil "Tambi Lily": "Tambi" berarti _nenek_ dan "Lily" adalah nama panggilan nenek. Aku bekerja di bagian administrasi. 
@@ -31,6 +29,8 @@ Di penghujung tahun ke-4 bekerja di perusahaan milik keluarga Tambi Lily, aku se
 Keesokan harinya aku diminta berangkat ke Banjarmasin untuk _training_ selama satu minggu. Hal ini membuat aku gelabakan karena aku harus mencari alasan bagaimana caranya untuk pamit dengan Tambi Lily. Pada akhirnya, aku pamit dengan cara yang kurang pantas: semacam _tidak tahu terima kasih_, _tidak tahu diuntung_. Aku menyadari itu. Andai dia masih ada, aku akan kembali kepada Tambi Lily dan meminta maaf serta Kasihnya. 
 
 Jumlah kami yang _training_ di Banjarmasin waktu itu sekitar 20 orang. Meskipun tempat tidur laki-laki dan perempuan terpisah, kami tetap harus tidur bersesakan karena ruangannya sempit. Biaya makan selama _training_ pun tidak ditanggung. 
+
+{% include image.html url="https://rnxidx.files.wordpress.com/2022/09/training_di_banjarmasin.jpg" description="Pulang training" src="https://rnxidx.files.wordpress.com/2022/09/training_di_banjarmasin.jpg" credit_title="Reno" credit_url="https://rnxidx.files.wordpress.com/2022/09/training_di_banjarmasin.jpg" figure_title="Reno dan kawan-kawan pulang dari Training Center." figure_url="https://rnxidx.files.wordpress.com/2022/09/training_di_banjarmasin.jpg" %}
 
 Setelah masa _training_ selesai, kami diberangkatkan kembali ke Palangka Raya. Kali ini kami diberi "uang jajan" selama perjalanan. Kami telah dibekali dengan surat tugas yang nantinya ditunjukkan ke kepala toko di mana kami ditempatkan. 
 
@@ -64,6 +64,8 @@ The Nielsen Company Indonesia. Inilah wadah kerja ternyaman sejauh pengalamanku.
 
 Perjalanan terjauh yang paling berkesan adalah saat berkunjung ke Puruk Cahu. Tim kami menggunakan motor. Kondisi jalan dari Muara Teweh menuju Puruk Cahu sangatlah menegangkan. Jalannya bagaikan "ular" dan naik-turun bukit yang tidak ada putus-putusnya. Sayang sekali, waktu itu aku tidak kepikiran sama sekali untuk mendokumentasikan perjalanan kami karena terlalu fokus dengan perjalanan. 
 
+{% include image.html url="https://rnxidx.files.wordpress.com/2022/09/tiba_di_puruk_cahu.jpg" description="Tiba di Puruk Cahu" src="https://rnxidx.files.wordpress.com/2022/09/tiba_di_puruk_cahu.jpg" credit_title="Reno" credit_url="https://rnxidx.files.wordpress.com/2022/09/tiba_di_puruk_cahu.jpg" figure_title="Puruk Cahu: Kota Emas" figure_url="https://rnxidx.files.wordpress.com/2022/09/tiba_di_puruk_cahu.jpg" %}
+
 Pada akhir tahun, kami diajak liburan ke pantai dan perbukitan di Kalimantan Selatan. Liburan ini sangat mengesankan. Sungguh. Dan ini menjadi momen terakhir aku di Nielsen. 
 
 Setelah beberapa bulan, waktunya _idle_ tiba. Kami tidak mendapat _project_ hingga berminggu-minggu, yang berarti kami juga tidak akan dibayar jika tidak ada yang dikerjakan. Cukup _fair_. 
@@ -75,6 +77,8 @@ Untuk menghindari kebuntuan ekonomi--karena aku harus membayar angsuran rumah da
 _Finally_, aku mendapat pekerjaan tetap. Aku direkomendasikan oleh salah satu mantan _freelancer_ di Nielsen.
 
 Ini merupakan yang pertama kalinya aku bekerja di tempat mewah, tempat nongkrongnya orang-orang "berduit". Kesan pertamanya adalah, "Wow! ini tempat mahal cuy." 
+
+{% include image.html url="https://rnxidx.files.wordpress.com/2022/09/foto_bareng_putra_dan_putri.jpg" description="Foto Bareng" src="https://rnxidx.files.wordpress.com/2022/09/foto_bareng_putra_dan_putri.jpg" credit_title="Reno" credit_url="https://rnxidx.files.wordpress.com/2022/09/foto_bareng_putra_dan_putri.jpg" figure_title="Foto bareng putra dan putri Kalimantan Tengah." figure_url="https://rnxidx.files.wordpress.com/2022/09/foto_bareng_putra_dan_putri.jpg" %}
 
 Untuk pertama kalinya, aku merasa _pede_ dan bangga menjadi karyawan. Ini karena tamu-tamu yang datang secara loyal adalah orang-orang berkelas. Aku berkomunikasi dengan orang-orang berdompet tebal, termasuk orang-orang berpangkat, tamu dari "Timur" dan "Barat", dan selebriti. 
 
