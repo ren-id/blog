@@ -4,7 +4,7 @@ description: "Aku tidak berasal dari keluarga berada. Oleh karena itu, aku berju
 categories: artikel
 date: 2022-09-09
 ---
-# Sepak Terjang Dunia Kerjaku
+# Sepak Terjang di Dunia Kerja
 
 Aku tidak berasal dari keluarga berada. Oleh karena itu, aku berjuang keras untuk bertahan hidup dan melanjutkan pendidikan tinggi. Kesadaran inilah yang mendorong aku untuk tahan banting, meskipun sebenarnya aku termasuk orang yang rapuh. 
 
