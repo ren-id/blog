@@ -212,7 +212,7 @@ height: 100%;
 }
 
 header {
-margin: calc(var(--pd) * 10) 0 calc(var(--pd) * 10) 0;
+margin: 0 0 0 0;
 }
 
 header svg {
@@ -360,4 +360,11 @@ left: 0;
   border-radius: 50%;
   border: 4px solid #ff2299;
   padding: 2px;
+}
+
+.notifikasi {
+    background-color: var(--aksen);
+    color: #ffffff;
+    text-align: center;
+    padding: 6px 6px 6px 6px;
 }
