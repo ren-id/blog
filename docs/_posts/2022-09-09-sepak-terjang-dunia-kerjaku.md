@@ -8,6 +8,8 @@ date: 2022-09-09
 
 Aku tidak berasal dari keluarga berada. Oleh karena itu, aku berjuang keras untuk bertahan hidup dan melanjutkan pendidikan tinggi. Kesadaran inilah yang mendorong aku untuk tahan banting, meskipun sebenarnya aku termasuk orang yang rapuh. 
 
+{% include image.html url="https://images.pexels.com/photos/4820685/pexels-photo-4820685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" description="Ilustrasi orang sedang bekerja." src="https://images.pexels.com/photos/4820685/pexels-photo-4820685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" credit_title="cottonbro" credit_url="https://www.pexels.com/@cottonbro/" figure_title="Man in Gray Long Sleeve Shirt and Black Pants Holding Brown Wooden Cart" figure_url="https://www.pexels.com/photo/man-in-gray-long-sleeve-shirt-and-black-pants-holding-brown-wooden-cart-4820685/" %}
+
 Setelah lulus SMA, aku mulai gencar sana-sini mencari pekerjaan. Berkas lamaran ditebar ke seluruh penjuru kota. Ide ini muncul dengan harapan segera bisa mandiri. "Mana yang nyangkut duluan (panggilan untuk wawancara), itu yang diambil."
 
 ## Pekerjaan Pertama
