@@ -352,7 +352,7 @@ left: 0;
 
 .profile-picture-container {
   width: 128px;
-  margin: 0 auto;
+  margin: 0 auto 0 auto;
 }
 
 .profile-picture {
@@ -367,4 +367,16 @@ left: 0;
     color: #ffffff;
     text-align: center;
     padding: 6px 6px 6px 6px;
+}
+
+.business-container {
+    padding: 6px 6px 6px 6px;
+}
+.business-card {
+    padding: 16px 16px 16px 16px;
+    background-color: #22ddaa;
+    color: #ffffff;
+    text-align: center;
+    margin: 0 auto 0 auto;
+    max-width: 480px;
 }
