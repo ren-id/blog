@@ -6,7 +6,7 @@
 <article>
 {{ content }}
 <div class="informasi">Published on {{ page.date }}</div>
-<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="100%" data-numposts="5"></div>
+<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-width="100%" data-numposts="5"></div>
 </article>
 {% include footer.html %}
 </div>
