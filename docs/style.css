@@ -366,6 +366,9 @@ left: 0;
     background-color: var(--aksen);
     text-align: center;
     padding: 6px 6px 6px 6px;
+    position: sticky;
+top: 0;
+z-index: 1;
 }
 .notifikasi * {   
     color: #ffffff;
