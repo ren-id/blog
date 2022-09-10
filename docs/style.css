@@ -21,7 +21,7 @@ font-size: 16px;
 }
 
 body {
-background-color: var(--putih);
+background-color: #eeeeee;
 color: var(--hitam);
 margin: 0 0 0 0; 
 padding: 0 0 0 0;
@@ -68,8 +68,9 @@ text-align: left;
 }
 
 .badan {
-margin: 0 auto 0 auto;
-max-width: 720px;
+margin: 8px auto 8px auto;
+max-width: 500px;
+padding: 4px 4px 4px 4px;
 }
 
 .badan>p>img, article>p>img, article>p>a>img, section>p>img { max-width: 100%; }
@@ -109,6 +110,10 @@ article, footer {
 margin-top: var(--pd);
 margin-bottom: calc(var(--pd) * 4);
 padding: 16px 16px 16px 16px;
+background-color: #fff;
+border: 1px solid #ccc;
+box-shadow: 2px 2px 4px #0000000d;
+border-radius: 5px 5px 5px 5px;
 }
 
 .katalog {
@@ -367,8 +372,9 @@ left: 0;
     text-align: center;
     padding: 6px 6px 6px 6px;
     position: sticky;
-top: 0;
-z-index: 1;
+    top: 0;
+    z-index: 1;
+    font-weight: bold;
 }
 .notifikasi * {   
     color: #ffffff;
