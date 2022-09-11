@@ -258,7 +258,7 @@ margin-bottom: calc(var(--pd) * 2);
 .lemari * {
 }
 
-.rak, .galeri, .cerita, article, footer {
+.rak, .galeri, .cerita, article, footer, section {
     background-color: #ffffff;
     border: 1px solid #cccccc;
     border-radius: 5px 5px 5px 5px;
