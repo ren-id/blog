@@ -372,7 +372,7 @@ left: 0;
 }
 
 .notifikasi {
-    background-color: #ffffffca;
+    background-color: #ff6600ca;
     text-align: center;
     padding: 6px 6px 6px 6px;
     position: sticky;
@@ -380,10 +380,9 @@ left: 0;
     z-index: 1;
     font-weight: bold;
     backdrop-filter: saturate(180%) blur(20px);
-    border-bottom: 1px solid #ccccccaa;
 }
 .notifikasi * {   
-    color: #000000;
+    color: #ffffff;
 }
 
 .business-container {
