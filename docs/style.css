@@ -265,15 +265,15 @@ margin-bottom: calc(var(--pd) * 2);
 }
 
 .laci {
+    border-bottom: 1px solid #dddddd;
+}
+.laci:last-child {
+    border-bottom: none;
 }
 
 .item {
 padding: 16px 16px 16px 16px;
-border-bottom: 1px solid #dddddd;
 color: #000000;
-}
-.item:last-child {
-    border-bottom: none;
 }
 
 .search-container {
