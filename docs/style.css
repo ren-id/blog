@@ -12,7 +12,7 @@
 box-sizing: border-box;
 text-decoration: none;
 line-height: 1.5em;
-font-family: "Segoe UI", "Helvetica Neue", "Liberation Sans", "Roboto", sans-serif;
+font-family: "Segoe UI", "Helvetica Neue", "Ubuntu", "Liberation Sans", "Roboto", sans-serif;
 }
 
 html {
@@ -31,6 +31,9 @@ h1, h2, h3, h4 {
 font-weight: 600;
 margin: calc(var(--pd) * 3) 0 calc(var(--pd) * 3) 0;
 line-height: 1.2em;
+}
+h1:first-child, h2:first-child, h3:first-child, h4:first-child {
+    margin-top: 0;
 }
 
 h1 {font-size: 28px;}
@@ -110,10 +113,6 @@ article, footer {
 margin-top: var(--pd);
 margin-bottom: calc(var(--pd) * 4);
 padding: 16px 16px 16px 16px;
-background-color: #fff;
-border: 1px solid #ccc;
-box-shadow: 2px 2px 4px #0000000d;
-border-radius: 5px 5px 5px 5px;
 }
 
 .katalog {
@@ -156,8 +155,8 @@ font-family: monospace !important;
 .galeri {
 display: flex;
 flex-flow: wrap;
-padding-top: 2px;
-padding-left: 2px;
+padding-top: 4px;
+padding-left: 4px;
 }
 
 .thumb {
@@ -260,16 +259,22 @@ padding-left: 2px;
 .lemari * {
 }
 
-.rak {
+.rak, .galeri, .cerita, article, footer {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 5px 5px 5px 5px;
 }
 
 .laci {
 }
 
 .item {
-padding: 2px 2px 2px 2px;
+padding: 16px 16px 16px 16px;
 border-bottom: 1px solid #dddddd;
 color: #000000;
+}
+.item:last-child {
+    border-bottom: none;
 }
 
 .search-container {
@@ -292,7 +297,7 @@ margin: 0 auto 0 auto;
 #search-input {
 width: 100%;
 border: none;
-background-color: var(--abu1);
+background-color: var(--abu2);
 padding: 6px 6px 6px 6px;
 border-radius: 4px 4px 4px 4px;
 margin: 0 0 0 0;
