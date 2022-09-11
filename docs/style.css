@@ -252,8 +252,7 @@ margin-bottom: calc(var(--pd) * 2);
 }
 
 .lemari {
-padding-top: 2px;
-padding-left: 2px;
+    padding: 0 0 0 0;
 }
 
 .lemari * {
