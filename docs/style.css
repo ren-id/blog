@@ -94,7 +94,7 @@ margin-top: 0;
 margin-bottom: 0;
 }
 
-blockquote, figcaption, header, footer, section, .header, .padding, .comment {
+blockquote, figcaption, header, footer, .header, .padding, .comment {
 padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
@@ -109,7 +109,7 @@ list-style-type: none;
 padding: 0 0 0 calc(5 * var(--pd));
 }
 
-article, footer {
+article, footer, section {
 margin-top: var(--pd);
 margin-bottom: calc(var(--pd) * 4);
 padding: 16px 16px 16px 16px;
