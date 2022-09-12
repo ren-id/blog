@@ -161,17 +161,18 @@ padding-left: 4px;
 
 .thumb {
 position: relative;
-width: calc(25% - 4px);
 margin-right: 4px;
 margin-bottom: 4px;
 }
 
+@media only screen and (orientation: landscape) {
+.thumb {
+width: calc(25% - 4px);
+    }
+}
 @media only screen and (orientation: portrait) {
 .thumb {
-position: relative;
-width: calc(50% - 2px);
-margin-right: 2px;
-margin-bottom: 2px;
+width: calc(50% - 4px);
 }
 }
 
@@ -277,8 +278,8 @@ color: #000000;
 }
 
 .search-container {
-padding: 2px 2px 2px 2px;
-  position: relative;
+    padding: 2px 2px 2px 2px;
+    position: relative;
 }
 
 .search-box, #search-results {
