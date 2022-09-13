@@ -112,6 +112,8 @@ padding: 0 0 0 calc(5 * var(--pd));
 article, footer, section {
 margin-top: var(--pd);
 margin-bottom: calc(var(--pd) * 4);
+}
+article, footer, section, .katalog {
 padding: 16px 16px 16px 16px;
 }
 
@@ -120,7 +122,7 @@ white-space: normal;
 }
 
 .figure {
-padding: calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2) calc(var(--pd) / 2);
+padding: 6px 6px 6px 6px;
 white-space: normal;
 position:relative;
 }
@@ -131,8 +133,11 @@ position:relative;
     width: 96px;
     height: 96px;
     border-radius: 50%;
-    border: 3px solid var(--aksen);
-    padding: 2px;
+    border: 1px solid #eeeeee;
+}
+
+.figure>img:hover {
+outline: 16px solid #0066FFA3;
 }
 
 .caption {
@@ -304,6 +309,9 @@ margin: 0 0 0 0;
 outline: none;
 text-align: center;
 font-size: 16px;
+}
+#search-input:active {
+outline: 6px solid #0066FFA3;
 }
 
 #search-results {
