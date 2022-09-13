@@ -136,10 +136,6 @@ position:relative;
     border: 1px solid #eeeeee;
 }
 
-.figure>img:hover {
-outline: 16px solid #0066FFA3;
-}
-
 .caption {
 margin: var(--pd) 0 0 0;
 text-align: center;
@@ -276,6 +272,9 @@ margin-bottom: calc(var(--pd) * 2);
 .laci:last-child {
     border-bottom: none;
 }
+.laci:hover {
+    outline: 6px solid #99ccff94;
+}
 
 .item {
 padding: 16px 16px 16px 16px;
@@ -310,7 +309,8 @@ outline: none;
 text-align: center;
 font-size: 16px;
 }
-#search-input:active {
+#search-input:focus {
+background-color: #ffffff;
 outline: 6px solid #0066FFA3;
 }
 
