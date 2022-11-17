@@ -1,7 +1,7 @@
 ---
 title: "Sepak Terjang Dunia Kerjaku"
 description: "Aku tidak berasal dari keluarga berada. Oleh karena itu, aku berjuang keras untuk bertahan hidup dan melanjutkan pendidikan tinggi."
-categories: artikel
+categories: disabled
 date: 2022-09-09
 ---
 # Sepak Terjang di Dunia Kerja
