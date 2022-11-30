@@ -1,7 +1,7 @@
 ---
 title: "Bersikap Bodoamat"
 description: "Sejak kehadiranku di dunia ini, aku selalu merasa seperti orang yang diabaikan. Kalau Tuhan masih ada, bahkan Dia pun mengabaikan aku."
-categories: artikel
+categories: disabled
 image: https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=120
 ---
 # Bersikap _Bodoamat_
