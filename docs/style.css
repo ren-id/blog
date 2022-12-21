@@ -376,8 +376,8 @@ left: 0;
 .profile-picture {
   width: 100%;
   border-radius: 50%;
-  border: 4px solid #ff2299;
-  padding: 2px;
+  border: none;
+  padding: 0 0 0 0;
 }
 
 .notifikasi {
