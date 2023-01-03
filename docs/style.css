@@ -166,12 +166,12 @@ margin-right: 4px;
 margin-bottom: 4px;
 }
 
-@media only screen and (orientation: landscape) {
+@media only screen and (min-width: 321px) {
 .thumb {
 width: calc(25% - 4px);
     }
 }
-@media only screen and (orientation: portrait) {
+@media only screen and (max-width: 320px) {
 .thumb {
 width: calc(50% - 4px);
 }
