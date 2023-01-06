@@ -257,9 +257,6 @@ margin-bottom: calc(var(--pd) * 2);
     padding: 0 0 0 0;
 }
 
-.lemari * {
-}
-
 .rak, .galeri, .cerita, article, footer, section {
     background-color: #ffffff;
     border: 1px solid #cccccc;
@@ -357,10 +354,6 @@ left: 0;
 .left-panel{background-color:#000000;flex-grow:0;flex-shrink:0;flex-basis:auto;}
 .right-panel{background-color:#ffffff;flex-grow:1;flex-shrink:1;flex-basis:auto;}
 
-.container{}
-.left-container{}
-.right-container{}
-
 .informasi {
     background-color: #eeeeee;
     border-left: 4px solid var(--aksen);
@@ -372,11 +365,15 @@ left: 0;
   margin: 0 auto 0 auto;
 }
 
+.profile-container {
+    margin: 8px 0 16px 0;
+}
+
 .profile-picture {
-  width: 100%;
-  border-radius: 50%;
   border: none;
   padding: 0 0 0 0;
+  margin: 0 auto 0 auto;
+  display: block;
 }
 
 .notifikasi {
