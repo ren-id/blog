@@ -362,7 +362,7 @@ left: 0;
 }
 
 .profile-picture-container {
-  margin: 0 auto 0 auto;
+  width: 48px;
 }
 
 .profile-container {
@@ -380,6 +380,7 @@ left: 0;
   margin: 0 0 0 0;
   display: block;
   line-height: 0;
+  width: 100%;
 
 }
 

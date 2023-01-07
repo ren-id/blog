@@ -1,15 +1,17 @@
 {% include head.html %}
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v14.0" nonce="SetARrLr"></script>
-<div class="badan">
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v14.0"
+    nonce="SetARrLr"></script>
 {% include profile.html %}
-{% include header.html %}
-<article>
-{{ content }}
-<div class="informasi">Published on {{ page.date }}</div>
-<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-width="100%" data-numposts="5"></div>
-</article>
-{% include footer.html %}
+<div class="badan">
+    {% include header.html %}
+    <article>
+        {{ content }}
+        <div class="informasi">Published on {{ page.date }}</div>
+        <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-width="100%" data-numposts="5"></div>
+    </article>
+    {% include footer.html %}
 </div>
 </body>
+
 </html>
