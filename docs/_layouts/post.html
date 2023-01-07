@@ -1,10 +1,11 @@
 {% include head.html %}
+
+{% include header.html %}
+
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v14.0"
     nonce="SetARrLr"></script>
-{% include profile.html %}
 <div class="badan">
-    {% include header.html %}
     <article>
         {{ content }}
         <div class="informasi">Published on {{ page.date }}</div>
