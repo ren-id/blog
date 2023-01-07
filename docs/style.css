@@ -448,7 +448,7 @@ section {
 }
 
 .profile-picture-container {
-    width: 32px;
+    width: 36px;
 }
 
 .profile-picture {
@@ -494,4 +494,13 @@ section {
     padding: 8px 8px 8px 8px;
     margin: 0 auto 0 auto;
     max-width: 360px;
+}
+
+.header-menu {
+    padding: 6px 6px 6px 6px;
+}
+
+.header-menu a {
+    font-size: 14px;
+    margin-right: 12px;
 }
