@@ -227,6 +227,16 @@ code {
     margin-bottom: 4px;
 }
 
+.menu {
+    display: none;
+}
+
+@media only screen and (min-width: 600px) {
+    .menu {
+        display: block;
+    }
+}
+
 @media only screen and (min-width: 321px) {
     .thumb {
         width: calc(25% - 4px);
