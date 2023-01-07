@@ -361,7 +361,7 @@ article img {
 .search-container {
     padding: 2px 2px 2px 2px;
     position: relative;
-    width: 160px;
+    width: 180px;
 }
 
 .search-box {
@@ -383,6 +383,7 @@ article img {
     font-size: 14px;
     border: 1px solid #eeeeee;
     border-radius: 4px 4px 4px 4px;
+    box-shadow: none;
 }
 
 #search-input:focus {
