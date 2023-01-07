@@ -136,11 +136,12 @@ footer,
 .header {
     position: sticky;
     top: 0;
-    border-bottom: 1px solid #eeeeee;
+    border-bottom: 1px;
     background-color: rgba(255, 255, 255, 0.85);
     backdrop-filter: blur(12px);
     z-index: 999;
 }
+
 .header-container {
     display: flex;
     flex-direction: row;
@@ -168,8 +169,7 @@ section {
 
 article,
 footer,
-section,
-.katalog {
+section {
     padding: 16px 16px 16px 16px;
 }
 
@@ -325,18 +325,30 @@ article img {
 }
 
 .rak,
-.galeri,
 .cerita,
 article,
-footer,
-section {
-    background-color: #ffffff;
-    border: 1px solid #cccccc;
+section,
+#search-input {
     border-radius: 5px 5px 5px 5px;
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
 }
 
+.rak,
+.cerita,
+article,
+section,
+.header,
+.laci,
+#search-input {
+    border-style: solid;
+}
+
+.header,
 .laci {
-    border-bottom: 1px solid #dddddd;
+    border-bottom: 1px;
 }
 
 .laci:last-child {
@@ -344,7 +356,7 @@ section {
 }
 
 .laci:hover {
-    outline: 6px solid #99ccff94;
+    color: #99ccff;
 }
 
 .item {
@@ -355,10 +367,6 @@ section {
 .search-container {
     padding: 2px 2px 2px 2px;
     position: relative;
-}
-
-.search-box,
-#search-results {
     max-width: 320px;
 }
 
@@ -372,10 +380,8 @@ section {
 
 #search-input {
     width: 100%;
-    border: 1px solid #eeeeee;
     background-color: #ffffff;
     padding: 3px 3px 3px 3px;
-    border-radius: 4px 4px 4px 4px;
     margin: 0 0 0 0;
     outline: none;
     text-align: center;
@@ -419,10 +425,8 @@ section {
 .wrapper {
     display: flex;
     flex-wrap: nowrap;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+    flex-direction: row;
+    align-items: center;
 }
 
 .panel {
@@ -505,5 +509,10 @@ section {
 
 .header-menu a {
     font-size: 14px;
-    margin-right: 16px;
+    margin-right: 14px;
+}
+
+.header-menu a:first-child {
+    font-size: 14px;
+    margin-right: 14px;
 }
