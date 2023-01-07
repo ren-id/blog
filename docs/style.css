@@ -98,8 +98,6 @@ td {
 
 .badan {
     margin: 8px auto 8px auto;
-    max-width: 500px;
-    padding: 4px 4px 4px 4px;
 }
 
 .badan>p>img,
@@ -191,6 +189,8 @@ section {
     height: 96px;
     border-radius: 50%;
     border: 1px solid #eeeeee;
+    display: block;
+    line-height: 0;
 }
 
 .caption {
@@ -215,11 +215,12 @@ code {
     flex-flow: wrap;
     padding-top: 4px;
     padding-left: 4px;
+    max-width: 500px;
+    margin: 0 auto 0 auto;
 }
 
 .cerita {
-    border: 1px solid #eeeeee;
-    border-radius: 5px 5px 5px 5px;
+    background-color: #ffffff;
 }
 
 .thumb {
@@ -250,6 +251,12 @@ code {
 @media only screen and (max-width: 320px) {
     .thumb {
         width: calc(50% - 4px);
+    }
+    .search-container {
+        width: 200px;
+    }
+    #search-input {
+        font-size: 16px;
     }
 }
 
@@ -361,7 +368,6 @@ article img {
 .search-container {
     padding: 2px 2px 2px 2px;
     position: relative;
-    width: 180px;
 }
 
 .search-box {
