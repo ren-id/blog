@@ -143,6 +143,9 @@ footer,
 }
 .header-container {
     display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 
 #markdown-toc {
@@ -502,5 +505,5 @@ section {
 
 .header-menu a {
     font-size: 14px;
-    margin-right: 12px;
+    margin-right: 16px;
 }
