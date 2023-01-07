@@ -136,7 +136,7 @@ footer,
 .header {
     position: sticky;
     top: 0;
-    border-bottom: 1px;
+    border-bottom: 1px solid #eeeeee;
     background-color: rgba(255, 255, 255, 0.85);
     backdrop-filter: blur(12px);
     z-index: 999;
@@ -214,6 +214,11 @@ code {
     flex-flow: wrap;
     padding-top: 4px;
     padding-left: 4px;
+}
+
+.cerita {
+    border: 1px solid #eeeeee;
+    border-radius: 5px 5px 5px 5px;
 }
 
 .thumb {
@@ -324,35 +329,10 @@ article img {
     padding: 0 0 0 0;
 }
 
-.rak,
-.cerita,
-article,
-section,
-#search-input {
-    border-radius: 5px 5px 5px 5px;
-    border-top: 1px;
-    border-right: 1px;
-    border-bottom: 1px;
-    border-left: 1px;
-}
-
-.rak,
-.cerita,
-article,
-section,
-.header,
-.laci,
-#search-input {
-    border-style: solid;
-}
-
-.header,
 .laci {
-    border-bottom: 1px;
-}
-
-.laci:last-child {
-    border-bottom: none;
+    border: 1px solid #eeeeee;
+    margin-bottom: 16px;
+    border-radius: 5px;
 }
 
 .laci:hover {
@@ -386,6 +366,8 @@ section,
     outline: none;
     text-align: center;
     font-size: 14px;
+    border: 1px solid #eeeeee;
+    border-radius: 4px 4px 4px 4px;
 }
 
 #search-input:focus {
