@@ -353,6 +353,8 @@ article img {
 
 .lemari {
     padding: 0 0 0 0;
+    max-width: 500px;
+    margin: 0 auto 0 auto;
 }
 
 .laci {
