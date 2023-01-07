@@ -236,6 +236,9 @@ code {
     .menu {
         display: block;
     }
+    .search-container {
+        width: 320px;
+    }
 }
 
 @media only screen and (min-width: 321px) {
