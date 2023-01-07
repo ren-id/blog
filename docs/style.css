@@ -391,7 +391,7 @@ article img {
 
 #search-results {
     position: absolute !important;
-    z-index: 9 !important;
+    z-index: 998 !important;
     left: 0;
     right: 0;
     margin: auto !important;
