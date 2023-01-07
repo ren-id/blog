@@ -361,7 +361,7 @@ article img {
 .search-container {
     padding: 2px 2px 2px 2px;
     position: relative;
-    max-width: 320px;
+    width: 160px;
 }
 
 .search-box {
@@ -375,6 +375,7 @@ article img {
 #search-input {
     width: 100%;
     background-color: #ffffff;
+    background-image: none;
     padding: 3px 3px 3px 3px;
     margin: 0 0 0 0;
     outline: none;
