@@ -131,7 +131,7 @@ footer,
     padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
-article {
+article, section {
     max-width: 500px;
     margin: 0 auto 0 auto;
 }
