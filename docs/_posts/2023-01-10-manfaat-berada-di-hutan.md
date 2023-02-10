@@ -6,6 +6,8 @@ date: 2023-02-10
 ---
 # Menikmati Keindahan Alam dan Meresapi Kedamaian di Hutan untuk Menenangkan Pikiran
 
+{% include image.html url="https://images.pexels.com/photos/15075318/pexels-photo-15075318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" description="Hutan tropis di sekitar Bukit Tangkiling, Kalimantan Tengah" src="https://images.pexels.com/photos/15075318/pexels-photo-15075318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" credit_title="Reno" credit_url="https://www.instagram.com/ren.my.id" figure_title="Hutan Tropis di Kalimantan Tengah" figure_url="[https://www.instagram.com/echosujarwanto](https://images.pexels.com/photos/15075318/pexels-photo-15075318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)" %}
+
 Berada di hutan dapat menjadi pengalaman yang sangat menenangkan bagi pikiran dan tubuh. Keindahan alam dan suasana tenang yang dapat ditemukan di hutan dapat membantu membuat pikiran dan tubuh merasa rileks dan terisi energi. Pemandangan hijau daun-daun dan suara burung yang berkicau dapat membantu membuat pikiran berpikir positif dan membantu melepaskan tekanan.
 
 Studi telah menunjukkan bahwa berada di hutan dapat membantu menurunkan stres dan meningkatkan kesehatan mental. Terlibat dalam aktivitas seperti berjalan, berolahraga, atau berkumpul dengan keluarga dan teman di hutan dapat membantu membuat pikiran fokus dan mengurangi kecemasan. Kontak dengan alam dan lingkungan yang indah dapat membantu menstimulasi sistem saraf dan membuat pikiran merasa lebih segar dan terisi energi.
