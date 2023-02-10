@@ -360,7 +360,8 @@ article img {
 .laci {
     border: 1px solid #eeeeee;
     margin-bottom: 16px;
-    border-radius: 5px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #f9f9f9;
 }
 
 .laci:hover {
