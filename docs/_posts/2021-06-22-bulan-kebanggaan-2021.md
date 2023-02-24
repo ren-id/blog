@@ -1,7 +1,7 @@
 ---
 title: "Bulan Kebanggaan (Pride Month) 2021"
 description: "Hingga hari ini, aku masih belum memberitahu siapapun tentang orientasi seksualku. Aku masih takut karena orang-orang di sekitarku, sejauh yang kuketahui, masih memandang LGBTQ sebagai penyakit dan harus dihindari."
-categories: cerita
+categories: disable
 image: https://images.pexels.com/photos/1280638/pexels-photo-1280638.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=128
 ---
 # Bulan Kebanggaan (Pride Month) 2021
