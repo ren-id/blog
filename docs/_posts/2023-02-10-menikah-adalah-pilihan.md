@@ -1,7 +1,7 @@
 ---
 title: "Menikah adalah pilihan. Generasi tua tolong jangan paksakan preferensi kolot itu lagi!"
 description: "Menyoal tentang pilihan hidup, seringkali generasi tua suka memaksakan pandangan mereka ke orang yang lebih muda, termasuk persoalan menikah. Generasi yang lebih muda hampir-hampir selalu terprovokasi dengan pertanyaan seperti, 'Kapan kamu akan menikah?' Itu adalah pertanyaan menggelikan, yang kalau boleh, dibalas dengan pertanyaan, 'Kapan bapak/ibu akan mati?'"
-categories: artikel
+categories: disable
 date: 2023-02-10
 ---
 # Menikah adalah pilihan. Generasi tua tolong jangan paksakan preferensi kolot itu lagi!
