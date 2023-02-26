@@ -1,6 +1,7 @@
+---
 title: "Mengapa Produk Minimalis Seringkali Harganya Lebih Mahal?"
 description: "Produk minimalis seperti produk-produk Apple seringkali memiliki harga yang lebih mahal dibandingkan dengan produk serupa dari merek lain. Hal ini disebabkan oleh beberapa faktor seperti desain yang kompleks, merek yang terkenal, penggunaan material berkualitas tinggi, biaya riset dan pengembangan, faktor ekonomi, dan teknologi canggih."
-categories: article
+categories: artikel
 date: 2023-02-27
 ---
 # Mengapa Produk Minimalis Seringkali Harganya Lebih Mahal?
