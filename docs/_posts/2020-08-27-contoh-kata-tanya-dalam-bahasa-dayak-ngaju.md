@@ -30,12 +30,14 @@ Berikut kata tanya dalam Bahasa Dayak Ngaju beserta contoh kalimatnya. Kamu bisa
 | Narai gawim? | Apa yang kamu kerjakan? |
 | Narai aran lewum? | Apa nama kampungmu? |
 
-## 4. Melai kueh (Di mana)
+## 4. Kueh (Mana)
 
 | Ngaju | Indonesia |
 | --- | --- |
 | Melai kueh ikau mili tanteluh? | Di mana kamu membeli telur? |
 | Melai kueh ikau sakula? | Di mana kamu sekolah? |
+| Kan kueh ikau nanjung? | Ke mana kamu pergi? |
+| Bara kueh iye dumah? | Dari mana dia datang? |
 
 Alternatif lainnya bisa menggunakan kata "Huang kueh?"
 
