@@ -45,6 +45,8 @@ Alternatif lainnya bisa menggunakan kata "Huang kueh?"
 | --- | --- |
 | Kilenampi manampa wadai je mangat? | Bagaimana cara membuat kue yang enak? |
 
+Kadang ditulis "Kenampi?"
+
 ## 6. Buhen (Kenapa)
 
 | Ngaju | Indonesia |
@@ -52,7 +54,7 @@ Alternatif lainnya bisa menggunakan kata "Huang kueh?"
 | Buhen ikau dia maku kuman dahuyan? | Kenapa kamu tidak mau makan durian? |
 | Buhen andim dia maku tiruh? | Kenapa adikmu tidak mau tidur? |
 
-Kadang juga ditulis "Mbuhen?"
+Kadang ditulis "Mbuhen?"
 
 ## 7. Pire (Berapa)
 
