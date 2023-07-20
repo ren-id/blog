@@ -131,7 +131,8 @@ footer,
     padding: var(--pd) var(--pd) var(--pd) var(--pd);
 }
 
-article, section {
+article,
+section {
     max-width: 500px;
     margin: 0 auto 0 auto;
 }
@@ -149,8 +150,11 @@ article, section {
 .header-container {
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
     align-items: center;
+    padding: 4px 4px 4px 4px;
 }
 
 #markdown-toc {
@@ -226,6 +230,7 @@ code {
 
 .cerita {
     background-color: #ffffff;
+    border-bottom: 1px solid #eeeeee;
 }
 
 .thumb {
@@ -242,6 +247,7 @@ code {
     .menu {
         display: block;
     }
+
     .search-container {
         width: 320px;
     }
@@ -257,9 +263,11 @@ code {
     .thumb {
         width: calc(50% - 4px);
     }
+
     .search-container {
         width: 200px;
     }
+
     #search-input {
         font-size: 16px;
     }
@@ -355,6 +363,10 @@ article img {
     padding: 0 0 0 0;
     max-width: 500px;
     margin: 0 auto 0 auto;
+}
+
+.rak {
+    padding: 4px 4px 4px 4px;
 }
 
 .laci {
