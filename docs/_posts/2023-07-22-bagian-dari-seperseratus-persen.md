@@ -9,7 +9,7 @@ categories: artikel
 
 Di tengah hiruk-pikuk dunia maya yang dipenuhi dengan gairah media sosial, Ren adalah bagian dari 0,01% populasi yang masih setia dengan dunia menulis dan membaca. Ren lebih memilih menulis di blog karena di media sosial rentan terhadap perundungan, cibiran, sindir-menyindir dalam hal yang negatif, dan berbagai distraksi. Ketika ada yang tersinggung di media sosial, umumnya dapat menimbulkan masalah yang serius di dunia nyata.
 
-1.
+1. 
 {:toc}
 
 ## Si Blogger yang Kian Langka
