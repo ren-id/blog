@@ -3,17 +3,13 @@ layout: single
 title: Open to Work
 description: I am looking for job now. I need your help!
 ---
-# Open to work
+# Open to Work
 
-Thank you very much for taking your time to read this page. I really appreciate it.
+Hello and thank you for visiting my website! I’m delighted that you’ve taken the time to learn more about me.
 
-It would be easy for someone that has bachelor title with many connection. But for me, who graduated from high school with minimal connection, it is very challenging to find a job.
+I am a highly motivated individual, open to exciting opportunities in the professional world. Despite not having a bachelor’s degree and extensive connections, I have garnered valuable experience in a diverse range of industries, including contracting, retail, telecommunications, research, and laboratory work.
 
-If you have any faith to help, please kindly send me email (i@ren.my.id) or call me by phone (+6281258284641).
-
-## Experiences
-
-I have been working in multiple companies with various fields: contractor, retail, telecommunication, café, research, and laboratory.
+# Experiences
 
 - 2012-2016: Administration at CV Pembaharuan Jaya (Contractor)
 - 2016-2017: Crew at PT Albany Corona Lestari (Indomaret)
@@ -23,8 +19,13 @@ I have been working in multiple companies with various fields: contractor, retai
 - 2020-2021: Freelancer at PT Fast Food Indonesia, Tbk (KFC)
 - 2021-2022: Administration at PT Windu Nabatindo Lestari (Analytical Laboratory)
 
-## I am an autodidact
+# Learning
+Learning is my passion, and I proudly embrace the title of an autodidact. I have taught myself various skills, including HTML, CSS, Microsoft Office, OpenOffice, and LibreOffice. The vast resources of the internet, coupled with my unyielding curiosity, empower me to seek knowledge and stay informed.
 
-I am learning HTML, CSS, Microsoft Office, OpenOffice, and LibreOffice by myself. I think Google Search empower me to get any information that I need. Internet is another world and I am always curious about anything.
+If you have any exciting opportunities or would like to discuss potential collaborations, please don’t hesitate to contact me. Feel free to reach out via email at i@ren.my.id or by phone at +6281258284641.
 
-Send message on [WhatsApp](https://wa.me/6281258284641) or [Telegram](https://t.me/reno_id).
+Thank you once again for stopping by. I look forward to the possibility of connecting and contributing my skills to new ventures!
+
+Warm regards,
+
+Reno
