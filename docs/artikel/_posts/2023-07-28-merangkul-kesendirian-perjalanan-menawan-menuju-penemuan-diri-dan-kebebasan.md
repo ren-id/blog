@@ -40,7 +40,7 @@ Ah, daya tarik wanderlust - simfoni jiwa nomaden. Di dalam kesendirian, kita men
 
 Mulai dari berjalan-jalan di pasar ramai di Marrakech hingga bermeditasi di puncak gunung berkabut di Tibet, setiap perjalanan adalah kesempatan untuk memperdalam hubungan kita dengan dunia dan dengan diri sendiri. Jadi, biarkan wanderlust menjadi kompasmu, membimbingmu menuju tempat-tempat yang belum terjamah dan pengalaman yang tak terlupakan.
 
-## Kesimpulan:
+## Kesimpulan
 
 Saat kami berpamitan dari perjalanan bahagia ini, ingatlah bahwa kesendirian bukanlah pulau sepi, tetapi oasis penemuan diri. Ini adalah undangan untuk merayakan keaslianmu, terlibat dalam percakapan-pemikiran yang mendalam, dan membebaskan diri dari belenggu norma sosial.
 
