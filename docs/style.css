@@ -407,13 +407,18 @@ textarea,
     padding: 3px 3px 3px 3px;
     margin: 0 0 0 0;
     outline: none;
-    text-align: center;
     font-size: 14px;
     border: 1px solid #eeeeee;
     border-radius: 4px 4px 4px 4px;
     box-shadow: none;
 }
 
+#search-input {
+    text-align: center;
+}
+
+input,
+textarea,
 #search-input:focus {
     border-color: #cccccc;
 }
