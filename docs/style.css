@@ -417,8 +417,8 @@ textarea,
     text-align: center;
 }
 
-input,
-textarea,
+input:focus,
+textarea:focus,
 #search-input:focus {
     border-color: #cccccc;
 }
