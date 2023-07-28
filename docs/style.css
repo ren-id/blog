@@ -453,6 +453,10 @@ textarea:focus,
     white-space: normal;
 }
 
+textarea {
+    line-height: 4;
+}
+
 .wrapper {
     display: flex;
     flex-wrap: nowrap;
