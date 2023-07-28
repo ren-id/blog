@@ -404,6 +404,13 @@ article img {
 
 input,
 textarea,
+button,
+option {
+    font-size: 16px;
+}
+
+input,
+textarea,
 #search-input {
     width: 100%;
     background-color: #ffffff;
