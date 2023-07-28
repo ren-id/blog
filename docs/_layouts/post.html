@@ -1,15 +1,30 @@
 {% include head.html %}
 
 {% include header.html %}
-
+<!-- Skrip untuk komentar Facebook
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v14.0"
     nonce="SetARrLr"></script>
+    -->
 <div class="badan">
     <article>
         {{ content }}
         <div class="informasi">Published on {{ page.date }}</div>
-        <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-width="100%" data-numposts="5"></div>
+        <div>Berikan tanggapan melalui email ke </div>
+        <!-- modify this form HTML and place wherever you want your form -->
+        <form action="https://formspree.io/f/mjvqgbpa" method="POST">
+            <label>
+                Email:
+                <input type="email" name="email">
+            </label>
+            <label>
+                Message:
+                <textarea name="message"></textarea>
+            </label>
+            <!-- your other form fields go here -->
+            <button type="submit">Send</button>
+        </form>
+        <!-- <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-width="100%" data-numposts="5"></div> -->
     </article>
     {% include footer.html %}
 </div>
