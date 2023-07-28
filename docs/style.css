@@ -398,6 +398,8 @@ article img {
     margin: 0 0 0 0;
 }
 
+input,
+textarea,
 #search-input {
     width: 100%;
     background-color: #ffffff;
@@ -540,4 +542,14 @@ article img {
 .header-menu a:first-child {
     font-size: 14px;
     margin-right: 14px;
+}
+
+button {
+    width: 100%;
+    background: #0066ff;
+    color: #ffffff;
+    border: none;
+    padding: 8px 8px 8px 8px;
+    margin: 8px auto 8px auto;
+    border-radius: 8px 8px 8px 8px;
 }

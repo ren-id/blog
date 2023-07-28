@@ -10,17 +10,13 @@
     <article>
         {{ content }}
         <div class="informasi">Published on {{ page.date }}</div>
-        <div>Berikan tanggapan melalui email ke </div>
+        <p>Berikan tanggapan melalui email rahasia.</p>
         <!-- modify this form HTML and place wherever you want your form -->
         <form action="https://formspree.io/f/mjvqgbpa" method="POST">
-            <label>
-                Email:
-                <input type="email" name="email">
-            </label>
-            <label>
-                Message:
-                <textarea name="message"></textarea>
-            </label>
+            <label>Your Email:</label>
+            <input type="email" name="email">
+            <label>Your Message:</label>
+            <textarea name="message"></textarea>
             <!-- your other form fields go here -->
             <button type="submit">Send</button>
         </form>
