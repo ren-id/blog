@@ -354,6 +354,10 @@ pre {
     margin-bottom: calc(var(--pd) * 5);
 }
 
+.mb-1 {
+    margin-bottom: 8px;
+}
+
 article img {
     margin-top: calc(var(--pd) * 2);
     margin-bottom: calc(var(--pd) * 2);
@@ -451,10 +455,6 @@ textarea:focus,
 #results-container li:hover {
     margin-bottom: 8px;
     white-space: normal;
-}
-
-textarea {
-    line-height: 3;
 }
 
 .wrapper {
@@ -559,6 +559,5 @@ button {
     color: #ffffff;
     border: none;
     padding: 8px 8px 8px 8px;
-    margin: 8px auto 8px auto;
     border-radius: 8px 8px 8px 8px;
 }
