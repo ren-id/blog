@@ -490,18 +490,18 @@ textarea:focus,
 }
 
 .profile-picture-container {
-    width: 36px;
+    width: 48px;
     margin-right: 12px;
 }
 
 .profile-picture {
-    border: none;
-    padding: 0 0 0 0;
+    border: 2px solid;
+    padding: 2px 2px 2px 2px;
     margin: 0 0 0 0;
     display: block;
     line-height: 0;
     width: 100%;
-
+    border-radius: 50%;
 }
 
 .notifikasi {
