@@ -390,7 +390,6 @@ article img {
 }
 
 .search-container {
-    padding: 2px 2px 2px 2px;
     position: relative;
 }
 
@@ -404,23 +403,16 @@ article img {
 
 input,
 textarea,
-button,
-option {
-    font-size: 16px;
-}
-
-input,
-textarea,
 #search-input {
     width: 100%;
     background-color: #ffffff;
     background-image: none;
-    padding: 3px 3px 3px 3px;
+    padding: 6px 6px 6px 6px;
     margin: 0 0 0 0;
     outline: none;
     font-size: 14px;
     border: 1px solid #eeeeee;
-    border-radius: 4px 4px 4px 4px;
+    border-radius: 6px 6px 6px 6px;
     box-shadow: none;
 }
 
@@ -490,10 +482,11 @@ textarea:focus,
 }
 
 .informasi {
-    background-color: #eeeeee;
-    border-left: 4px solid var(--aksen);
-    padding: 8px 8px 8px 8px;
+    background-color: #f9f9f9;
+    padding: 16px 16px 16px 16px;
     margin: 16px 0 16px 0;
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid #eeeeee;
 }
 
 .profile-picture-container {

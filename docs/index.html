@@ -12,6 +12,7 @@ description: My blog is my online home. I do not use social media. Never!
 
   {% include galeri.html %}
 
+  <!--
   <div class="lemari margin-bawah">
     <div class="rak">
       {% for post in site.categories.artikel limit:20 %}
@@ -26,6 +27,59 @@ description: My blog is my online home. I do not use social media. Never!
       {% endfor %}
     </div>
   </div>
+-->
+
+<div class="lemari margin-bawah">
+  <div class="rak">
+    {% assign posts_per_page = 20 %} <!-- Tentukan jumlah posting per halaman -->
+    {% assign total_posts = site.categories.artikel | size %}
+    {% assign total_pages = total_posts | divided_by: posts_per_page | plus: 1 %}
+    
+    {% if paginator %}
+      {% assign current_page = paginator.page %}
+    {% else %}
+      {% assign current_page = 1 %}
+    {% endif %}
+    
+    {% assign start_index = (current_page | minus: 1) | times: posts_per_page %}
+    {% assign end_index = start_index | plus: posts_per_page %}
+    {% for post in site.categories.artikel limit:end_index %}
+      {% if forloop.index > start_index %}
+        <div class="laci">
+          <a href="{{ site.url }}{{ post.url }}">
+            <div class="item">
+              <h1>{{ post.title }}</h1>
+              <p>{{ post.description }}</p>
+            </div>
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+
+    <!-- Paginasi -->
+    <div class="pagination">
+      {% if current_page > 1 %}
+        <a href="{{ site.url }}/page{{ current_page | minus: 1 }}">Previous</a>
+      {% endif %}
+
+      {% for i in (1..total_pages) %}
+        {% if i == current_page %}
+          <span>{{ i }}</span>
+        {% else %}
+          <a href="{{ site.url }}/page{{ i }}">{{ i }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if current_page < total_pages %}
+        <a href="{{ site.url }}/page{{ current_page | plus: 1 }}">Next</a>
+      {% endif %}
+    </div>
+    <!-- Akhir Paginasi -->
+
+  </div>
+</div>
+
+
 </div>
 {% include footer.html %}
 </body>
