@@ -4,5 +4,5 @@ plugins:
 - jekyll-paginate
 - jekyll-feed
 - jekyll-sitemap
-paginate: 10
-paginate_path: "/page:num/"
+paginate: 20
+paginate_path: "/artikel/page:num/"
