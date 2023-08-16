@@ -1,0 +1,343 @@
+<!doctype html>
+<html lang="id">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beranda</title>
+    <link href="style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200;10..48,400;10..48,700&display=swap"
+        rel="stylesheet">
+    <style>
+        * {
+            font-family: "Bricolage Grotesque", "Helvetica Neue", "Segoe UI Variable Display", sans-serif;
+            box-sizing: border-box;
+            font-size: 1.25vw;
+        }
+
+        .greeny-bg-animation {
+            animation: gradientAnimation 5s ease infinite;
+            background-image: linear-gradient(45deg, #07e548, #cbe507, #e1ff00);
+            background-size: 200% 200%;
+        }
+
+        @keyframes gradientAnimation {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        .pulsating-gradient {
+            background-image: radial-gradient(circle at center, #cbe507, #ffcc00, #ff3300);
+            background-size: 200% 200%;
+            animation: expand 5s ease-in-out infinite;
+        }
+
+        @keyframes expand {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        body {
+            padding: 0 0 0 0;
+            margin: 0 0 0 0;
+            background-color: #f9f9f9;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-content: center;
+            justify-content: flex-start;
+            align-items: stretch;
+            margin: 2% 0 0 2%;
+        }
+
+        .item {
+            margin: 0 2% 2% 0;
+            border-radius: 16px 16px 16px 16px;
+        }
+
+        .container>.item:nth-child(1n) {
+            background-color: #ff003e;
+            width: 32%;
+        }
+
+        .container>.item:nth-child(2n) {
+            background-color: #000000;
+            width: 64%;
+        }
+
+        .container>.item:nth-child(3n) {
+            background-color: #11f156;
+            width: 72%;
+        }
+
+        .container>.item:nth-child(4n) {
+            background-color: #ffb900;
+            width: 24%;
+        }
+
+        .container>.item:nth-child(5n) {
+            background-color: #ffff00;
+            width: 40%;
+        }
+
+        .container>.item:nth-child(6n) {
+            background-color: #33ff00;
+            width: 56%;
+        }
+
+        h2 {
+            font-size: 3vw;
+            margin: 0 0 0 0;
+        }
+
+        p {
+            margin: 32px 0 0 0;
+        }
+
+        .tombol {
+            display: inline-block;
+            padding: 8px 16px 8px 16px;
+            border-radius: 4px;
+            text-decoration: none;
+        }
+
+        .tombol-putih {
+            background-color: #ffffff;
+            color: #000000;
+        }
+
+        .middle {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .logo img {
+            width: 100%;
+        }
+
+        .item-content-100 {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+
+        .item-content-75 {
+            position: relative;
+            width: 75%;
+            height: 100%;
+        }
+
+        .item-content-50 {
+            position: relative;
+            width: 50%;
+            height: 100%;
+        }
+
+        .item-content-100 img,
+        .item-content-50 img,
+        .penghalang {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+        }
+
+        .item-content-100 img {
+            border-radius: 16px 16px 16px 16px;
+        }
+
+        .item-content-50 img {
+            border-radius: 0 16px 16px 0;
+        }
+
+        .gradient-to-right-black {
+            background-image: linear-gradient(90deg, #1c0053, #000000, transparent);
+        }
+
+        .gradient-to-right-green {
+            background-image: linear-gradient(90deg, #78b520, #00913b, transparent);
+        }
+
+        .gradient-to-bottom-black {
+            background-image: linear-gradient(180deg, black, transparent);
+            border-radius: 16px 16px 16px 16px;
+        }
+
+        .left-description {
+            border-radius: 16px 0 0 16px;
+            padding: 4% 16% 4% 4%;
+        }
+
+        .p-3 {
+            padding: 24px;
+        }
+
+        .light-text {
+            color: #ffffff;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        form {
+            max-width: 400px;
+            margin: 8px auto 8px auto;
+        }
+
+        form input,
+        form textarea,
+        form button {
+            width: 100%;
+            border: none;
+            padding: 8px 8px 8px 8px;
+            border-radius: 6px 6px 6px 6px;
+            outline: none;
+            margin: 16px 0 0 0;
+        }
+
+        form input,
+        form textarea {
+            background-color: #ffffff;
+        }
+
+        form input:focus,
+        form textarea:focus {
+            outline: 6px solid #00ffff80;
+        }
+
+        form button {
+            background-color: #007eff;
+            box-shadow: 1px 1px 4px #55555550;
+            color: #ffffff;
+        }
+
+        .tags {
+            margin-top: 16px;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-content: flex-start;
+            align-items: flex-start;
+            justify-content: center;
+        }
+
+        .tags div {
+            border: 2px solid;
+            border-radius: 8px;
+            padding: 4px 8px;
+            margin: 0 8px 0 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="item middle light-text pulsating-gradient p-3 logo"><img src="logo.svg"></div>
+
+        <div class="item ">
+            <div class="item-content-100">
+                <img
+                    src="https://images.pexels.com/photos/1888883/pexels-photo-1888883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+                <div class="item-content-75 light-text gradient-to-right-black left-description">
+                    <h2>Desain Masa Depan</h2>
+                    <p>Pandangan tentang "Desain Masa Depan" sering kali menciptakan perasaan campuran antara harapan
+                        dan
+                        kekhawatiran. Di satu sisi, desain masa depan menjanjikan potensi luar biasa untuk mengubah
+                        dunia
+                        menjadi tempat yang lebih inovatif, ramah lingkungan, dan inklusif.</p>
+                    <p><a href="" class="tombol tombol-putih">Selengkapnya</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="item ">
+            <div class="item-content-100">
+                <img
+                    src="https://images.pexels.com/photos/15075318/pexels-photo-15075318/free-photo-of-trees-in-forest.jpeg">
+                <div class="item-content-75 light-text gradient-to-right-green left-description">
+                    <h2>Ramah Lingkungan</h2>
+                    <p>"Ramah Lingkungan" merupakan pendekatan yang mendasari tanggung jawab kita untuk merawat dan
+                        melestarikan
+                        alam. Konsep ini mengajak kita untuk mengambil tindakan yang berkelanjutan dan bijaksana,
+                        mengurangi
+                        dampak negatif terhadap ekosistem, serta berinovasi dalam gaya hidup dan teknologi guna menjaga
+                        keseimbangan lingkungan bagi generasi mendatang.</p>
+                    <p><a href="" class="tombol tombol-putih">Selengkapnya</a></p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="item">
+            <div class="item-content-100">
+                <img
+                    src="https://images.pexels.com/photos/3405458/pexels-photo-3405458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+                <div class="penghalang p-3 light-text gradient-to-bottom-black">
+                    <h2>Inovasi</h2>
+                    <p>Terus membuat perubahan yang tak pernah ditemukan.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="item p-3 center">
+            <h2>Menginginkan desain ini?</h2>
+            <p>Tinggalkan pesan di sini.</p>
+            <form>
+                <input placeholder="Nama" required>
+                <input placeholder="Telepon" type="tel" required>
+                <textarea placeholder="Pesan..." required></textarea>
+                <button>Send</button>
+            </form>
+        </div>
+
+        <div class="item middle greeny-bg-animation">
+            <div class="p-3 light-text center">
+                <h2>Original Design</h2>
+                <p>Proudly designed by Ren.</p>
+                <p>Tujuan dari desain ini adalah untuk memaksimalkan ruang yang tersedia di layar yang terlihat. Ren
+                    memperhatikan efisiensi ruang tanpa mengorbankan estetika.</p>
+                <div class="tags">
+                    <div>Mobile Friendly</div>
+                    <div>Elegant</div>
+                    <div>Modern</div>
+                    <div>Simplicity</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
