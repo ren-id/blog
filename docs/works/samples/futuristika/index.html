@@ -208,24 +208,6 @@
             border-radius: 0 16px 16px 0;
         }
 
-        .gradient-to-right-black {
-            background-image: linear-gradient(90deg, #1c0053, #000000, transparent);
-        }
-
-        .gradient-to-right-green {
-            background-image: linear-gradient(90deg, #78b520, #00913b, transparent);
-        }
-
-        .gradient-to-bottom-black {
-            background-image: linear-gradient(180deg, black, transparent);
-            border-radius: 16px 16px 16px 16px;
-        }
-
-        .left-description {
-            border-radius: 16px 0 0 16px;
-            padding: 4% 16% 4% 4%;
-        }
-
         .p-3 {
             padding: 24px;
         }
@@ -393,6 +375,21 @@
             margin: 2% 0 0 2%;
         }
 
+        .border-radius-1 {
+            border-radius: 16px 16px 16px 16px;
+        }
+
+        .h-description,
+        .v-description {
+            padding: 4% 4% 4% 4%;
+            position: relative;
+            height: 100%;
+        }
+
+        .gradient-to-bottom-black {
+            background-image: linear-gradient(180deg, #000000, transparent);
+        }
+
         @media only screen and (min-width: 960px) {
 
             .container {
@@ -445,11 +442,35 @@
                 align-items: center;
             }
 
+            .h-description {
+                width: 75%;
+            }
+
+            .gradient-black {
+                background-image: linear-gradient(90deg, #1c0053, #000000dd, transparent);
+            }
+
+            .gradient-green {
+                background-image: linear-gradient(90deg, #78b520, #00913bdd, transparent);
+            }
+
         }
 
         @media only screen and (max-width: 959px) {
             .header-item-ren {
                 margin: 0 auto 0 auto;
+            }
+
+            .h-description {
+                width: 100%;
+            }
+
+            .gradient-black {
+                background-image: linear-gradient(180deg, #1c0053, #000000, transparent);
+            }
+
+            .gradient-green {
+                background-image: linear-gradient(180deg, #78b520, #00913b, transparent);
             }
         }
     </style>
@@ -518,7 +539,8 @@
             <div class="item-content-100">
                 <img
                     src="https://images.pexels.com/photos/1888883/pexels-photo-1888883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-                <div class="item-content-75 light-text gradient-to-right-black left-description">
+                <div class="penghalang border-radius-1 gradient-black"></div>
+                <div class="light-text h-description">
                     <h2>Desain Masa Depan</h2>
                     <p>Pandangan tentang "Desain Masa Depan" sering kali menciptakan perasaan campuran antara harapan
                         dan
@@ -534,7 +556,8 @@
             <div class="item-content-100">
                 <img
                     src="https://images.pexels.com/photos/15075318/pexels-photo-15075318/free-photo-of-trees-in-forest.jpeg">
-                <div class="item-content-75 light-text gradient-to-right-green left-description">
+                <div class="penghalang border-radius-1 gradient-green"></div>
+                <div class="light-text h-description">
                     <h2>Ramah Lingkungan</h2>
                     <p>"Ramah Lingkungan" merupakan pendekatan yang mendasari tanggung jawab kita untuk merawat dan
                         melestarikan
@@ -551,7 +574,8 @@
             <div class="item-content-100">
                 <img
                     src="https://images.pexels.com/photos/3405458/pexels-photo-3405458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-                <div class="penghalang p-3 light-text gradient-to-bottom-black">
+                <div class="penghalang border-radius-1 gradient-to-bottom-black"></div>
+                <div class="light-text v-description">
                     <h2>Inovasi</h2>
                     <p>Terus membuat perubahan yang tak pernah ditemukan.</p>
                 </div>
@@ -562,7 +586,8 @@
             <div class="item-content-100">
                 <img
                     src="https://images.pexels.com/photos/3184423/pexels-photo-3184423.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-                <div class="item-content-75 light-text gradient-to-right-black left-description">
+                <div class="penghalang border-radius-1 gradient-black"></div>
+                <div class="light-text h-description">
                     <h2>Keberagaman dan Kebersamaan</h2>
                     <p>Ketika individu dengan berbagai latar belakang bekerja bersama, ide-ide segar bermunculan dan
                         solusi kreatif ditemukan. Solidaritas, komunikasi terbuka, dan penghargaan terhadap perbedaan
@@ -579,7 +604,8 @@
             <div class="item-content-100">
                 <img
                     src="https://images.pexels.com/photos/1002703/pexels-photo-1002703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-                <div class="item-content-75 light-text gradient-to-right-green left-description">
+                <div class="penghalang border-radius-1 gradient-green"></div>
+                <div class="light-text h-description">
                     <h2>Tanggung Jawab Sosial</h2>
                     <p>Kami berupaya untuk terus berkontribusi pada keberlanjutan sosial, lingkungan, dan ekonomi,
                         termasuk program amal, praktik bisnis berkelanjutan, dukungan terhadap komunitas, serta
@@ -597,7 +623,7 @@
                     <input placeholder="Nama" required>
                     <input placeholder="Telepon" type="tel" required>
                     <textarea placeholder="Pesan..." required></textarea>
-                    <button>Send</button>
+                    <button>Kirim</button>
                 </form>
             </div>
         </div>
