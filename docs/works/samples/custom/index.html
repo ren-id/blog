@@ -17,11 +17,6 @@
             font-size: 16px;
         }
 
-        :root {
-            --aksen-latar-utama: linear-gradient(45deg, #2077b5dd, #00913bdd, #009170dd);
-            --ukuran-kelipatan: 8px;
-        }
-
         .greeny-bg-animation {
             animation: gradientAnimation 5s ease infinite;
             background-image: linear-gradient(45deg, #07e548, #cbe507, #00d9ff);
@@ -85,17 +80,17 @@
         }
 
         .header-ren {
+            background-color: #ffffff85;
             position: sticky;
             top: 0;
             z-index: 999;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: 1px solid #dddddd85;
         }
 
         .header-navigation-ren {
             padding: 8px 8px 8px 8px;
-            background-color: #ffffff85;
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            border-bottom: 1px solid #dddddd85;
         }
 
         .item {
@@ -283,38 +278,15 @@
             padding: 4px 12px 4px 12px;
             cursor: pointer;
             margin: 0 0 0 0;
+            border: 1px solid #00000012;
             color: #00000080;
             display: flex;
             flex-direction: row;
             flex-wrap: nowrap;
             justify-content: space-between;
             align-items: center;
+            border-radius: 4px 4px 4px 4px;
             font-size: 16px;
-        }
-
-        .search-label-ren, .search-form-ren input {
-            border-radius: 16px 16px 16px 16px;
-            text-align: center;
-        }
-
-        .search-form-ren {
-            position: relative;
-        }
-
-        .search-form-ren input {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            border: none;
-            background: none;
-            outline: none;
-            padding: 8px 16px;
-        }
-
-        .search-input:focus {
-            background-color: #ffffff;
         }
 
         .search-label-ren img {
@@ -322,8 +294,21 @@
         }
 
         .search-container-ren {
-            max-width: 600px;
-            margin: 0 auto 0 auto;
+            background-color: #ffffff95;
+            border-radius: 6px 6px 6px 6px;
+            box-shadow: 1px 1px 2px #00000010;
+        }
+
+        .common-absolute-black-container {
+            position: absolute;
+            width: 100%;
+            top: 0;
+            left: 0;
+            right: 0;
+            background-color: #00000090;
+            padding: 2%;
+            bottom: 0;
+            z-index: 999;
         }
 
         .warning {
@@ -366,23 +351,20 @@
             color: #000000;
         }
 
-        .container-submenu-ren {
-            background-color: #000000f9;
-            padding: 16px 16px 16px 16px;
-            border-bottom: 1px solid #dddddd85;
-            color: #ffffff;
-            backdrop-filter: blur(16px);
-            -webkit-backdrop-filter: blur(16px);
-            border-radius: 0 0 16px 16px;
-            box-shadow: 0 13px 20px #000000aa;
-            background-image: var(--aksen-latar-utama);
-            margin: 0 2% 0 2%;
+        .header-submenu-ren {
+            display: none;
         }
 
-        .header-submenu-ren {
-            padding: 0 0 0 0;
+        .header-menu-item-ren:hover .header-submenu-ren {
+            display: block;
+            position: absolute;
+            background-color: #f9f9f9;
+            padding: 8px 8px 8px 8px;
             list-style-type: none;
             margin: 0 0 0 0;
+            border: 1px solid #dddddd85;
+            border-radius: 6px 6px 6px 6px;
+            top: 0;
         }
 
         .header-submenu-ren li {
@@ -491,91 +473,54 @@
                 background-image: linear-gradient(180deg, #78b520, #00913b, transparent);
             }
         }
-
-        /* Navigasi */
-
-        div[name="kerjasama"],
-        div[name="tentang"],
-        div[name='cari'] {
-            display: none;
-        }
-
-        :target[name="kerjasama"],
-        :target[name="tentang"],
-        :target[name='cari'] {
-            display: block;
-        }
-
-        .tautan-tutup-ren {
-            text-decoration: none;
-            padding: 4px 8px 4px 8px;
-            border-radius: 4px 4px 4px 4px;
-            text-align: center;
-            display: inline-block;
-            background-color: #ff5500;
-            color: #ffffff;
-        }
-
-        a {
-            color: inherit;
-            text-decoration: none;
-        }
     </style>
 </head>
 
 <body>
+
+    <div class="common-absolute-black-container" style="display: none;">
+
+        <div class="center search-ren">
+            <div class="search-label-ren">Cari sesuatu|</div>
+        </div>
+        <div class="search-container-ren">
+            <div class="search-form-ren">
+                <input class="">
+            </div>
+            <div class="search-result-ren">
+
+            </div>
+        </div>
+    </div>
+
     <div class="header-ren">
         <div class="header-navigation-ren">
             <div class="header-item-ren"><img src="main-logo.svg"></div>
             <div class="header-item-ren">
                 <ul class="header-menu-ren">
-                    <li class="header-menu-item-ren"><a href="#kerjasama">Kerjasama</a></li>
-                    <li class="header-menu-item-ren"><a href="#">CSR</a></li>
-                    <li class="header-menu-item-ren"><a href="#">Karir</a></li>
-                    <li class="header-menu-item-ren"><a href="#tentang">Tentang</a></li>
+                    <li class="header-menu-item-ren">Kerjasama
+                        <ul class="header-submenu-ren">
+                            <li>Submenu 1</li>
+                            <li>Submenu 2</li>
+                            <li>Submenu 3</li>
+                            <li>Submenu 4</li>
+                        </ul>
+                    </li>
+                    <li class="header-menu-item-ren">Program CSR</li>
+                    <li class="header-menu-item-ren">Karir</li>
+                    <li class="header-menu-item-ren">Tentang
+                        <ul class="header-submenu-ren">
+                            <li>Perusahaan</li>
+                            <li>Produk</li>
+                            <li>Kontak</li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
             <div class="header-item-ren">
-                <div class="center search-ren"><a href="#cari"><img src="search.svg" alt="Cari sesuatu..."></a></div>
-            </div>
-        </div>
-        <div class="submenu">
-            <div name="kerjasama" id="kerjasama" class="container-submenu-ren">
-                <a href="#">
-                    <div class="tautan-tutup-ren">Tutup</div>
-                </a>
-                <h2>Kerjasama</h2>
-                <ul class="header-submenu-ren">
-                    <li>Submenu 1</li>
-                    <li>Submenu 2</li>
-                    <li>Submenu 3</li>
-                    <li>Submenu 4</li>
-                </ul>
-            </div>
-            <div name="tentang" id="tentang" class="container-submenu-ren">
-                <a href="#">
-                    <div class="tautan-tutup-ren">Tutup</div>
-                </a>
-                <ul class="header-submenu-ren">
-                    <li>Perusahaan</li>
-                    <li>Produk</li>
-                    <li>Kontak</li>
-                </ul>
-            </div>
-            <div name="cari" id="cari" class="container-submenu-ren">
-                <a href="#">
-                    <div class="tautan-tutup-ren">Tutup</div>
-                </a>
-                <div class="kotak-pencarian-ren" name="pencarian" id="pencarian">
-                    <div class="search-container-ren">
-                        <div class="search-form-ren">
-                            <div class="search-label-ren">Cari sesuatu...</div>
-                            <input class="search-input">
-                        </div>
-                        <div class="search-result-ren">
-    
-                        </div>
-                    </div>
+                <div class="center search-ren">
+                    <div class="search-label-ren"><img src="search.svg">Cari sesuatu…<span class="blinking-text"
+                            style="width: 3px; background-color: #aaaaaa; height: 18px;"></span></div>
                 </div>
             </div>
         </div>
@@ -585,7 +530,7 @@
 
         <div class="item middle pulsating-gradient">
             <div class="p-3">
-                <div class="warning center">ON SALE 1.250K</div>
+                <div class="warning center">ON SALE 350K</div>
                 <div class="logo"><img src="logo.svg"></div>
             </div>
         </div>
@@ -705,6 +650,23 @@
             </div>
         </div>
     </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var menuItems = document.querySelectorAll(".header-menu-item-ren");
+
+            menuItems.forEach(function (menuItem) {
+                menuItem.addEventListener("click", function () {
+                    var submenu = this.querySelector(".header-submenu-ren");
+                    if (submenu.style.display === "none") {
+                        submenu.style.display = "block";
+                    } else {
+                        submenu.style.display = "none";
+                    }
+                });
+            });
+        });
+    </script>
 
 </body>
 
