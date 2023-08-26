@@ -287,12 +287,13 @@
             display: flex;
             flex-direction: row;
             flex-wrap: nowrap;
-            justify-content: space-between;
+            justify-content: center;
             align-items: center;
             font-size: 16px;
         }
 
-        .search-label-ren, .search-form-ren input {
+        .search-label-ren,
+        .search-form-ren input {
             border-radius: 16px 16px 16px 16px;
             text-align: center;
         }
@@ -315,6 +316,7 @@
 
         .search-input:focus {
             background-color: #ffffff;
+            outline: 3px solid #007effee;
         }
 
         .search-label-ren img {
@@ -386,7 +388,7 @@
         }
 
         .header-submenu-ren li {
-            padding: 8px 8px 8px 8px;
+            padding: 8px 0 8px 0;
         }
 
         .container {
@@ -506,16 +508,6 @@
             display: block;
         }
 
-        .tautan-tutup-ren {
-            text-decoration: none;
-            padding: 4px 8px 4px 8px;
-            border-radius: 4px 4px 4px 4px;
-            text-align: center;
-            display: inline-block;
-            background-color: #ff5500;
-            color: #ffffff;
-        }
-
         a {
             color: inherit;
             text-decoration: none;
@@ -542,8 +534,7 @@
         <div class="submenu">
             <div name="kerjasama" id="kerjasama" class="container-submenu-ren">
                 <a href="#">
-                    <div class="tautan-tutup-ren">Tutup</div>
-                </a>
+                    <img src="close.svg" alt="Tutup"> </a>
                 <h2>Kerjasama</h2>
                 <ul class="header-submenu-ren">
                     <li>Submenu 1</li>
@@ -554,8 +545,9 @@
             </div>
             <div name="tentang" id="tentang" class="container-submenu-ren">
                 <a href="#">
-                    <div class="tautan-tutup-ren">Tutup</div>
+                    <img src="close.svg" alt="Tutup">
                 </a>
+                <h2>Tentang</h2>
                 <ul class="header-submenu-ren">
                     <li>Perusahaan</li>
                     <li>Produk</li>
@@ -564,7 +556,7 @@
             </div>
             <div name="cari" id="cari" class="container-submenu-ren">
                 <a href="#">
-                    <div class="tautan-tutup-ren">Tutup</div>
+                    <img src="close.svg" alt="Tutup">
                 </a>
                 <div class="kotak-pencarian-ren" name="pencarian" id="pencarian">
                     <div class="search-container-ren">
@@ -573,7 +565,7 @@
                             <input class="search-input">
                         </div>
                         <div class="search-result-ren">
-    
+
                         </div>
                     </div>
                 </div>
@@ -585,7 +577,7 @@
 
         <div class="item middle pulsating-gradient">
             <div class="p-3">
-                <div class="warning center">ON SALE 1.250K</div>
+                <div class="warning center">ON SALE 750K</div>
                 <div class="logo"><img src="logo.svg"></div>
             </div>
         </div>
