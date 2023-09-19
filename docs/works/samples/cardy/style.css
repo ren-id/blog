@@ -1,0 +1,75 @@
+:root {
+    --std-ukuran: 16px;
+    --std-empat-sisi: var(--std-ukuran) var(--std-ukuran) var(--std-ukuran) var(--std-ukuran);
+    --nol-sisi: 0 0 0 0;
+    --duakali-std-empat-sisi: calc(2 * var(--std-ukuran)) calc(2 * var(--std-ukuran)) calc(2 * var(--std-ukuran)) calc(2 * var(--std-ukuran));
+    --aksen: #ff6600;
+    --abu-muda: #eeeeee;
+    --abu-sedang: #bbbbbb;
+    --abu-tua: #555555;
+}
+
+* {
+    font-family: "Helvetica Neue", "Segoe UI Variable Display", "Arial", sans-serif;
+    box-sizing: border-box;
+    font-size: var(--std-ukuran);
+}
+
+body, .latar {
+    min-height: 100vh;
+}
+
+body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: var(--nol-sisi);
+    padding: var(--nol-sisi);
+}
+
+h1, h2 {
+    margin: var(--nol-sisi);
+    padding: var(--nol-sisi);
+}
+
+h1 {
+    font-size: calc(3 * var(--std-ukuran));
+}
+
+h2 {
+    font-size: calc(2 * var(--std-ukuran));
+}
+
+.tajuk-primer {
+    text-align: center;
+    margin: calc(3 * var(--std-ukuran)) 0 calc(3 * var(--std-ukuran)) 0;
+}
+
+.latar {
+    backdrop-filter: blur(16px);
+}
+
+.kontainer {
+    max-width: 960px;
+    margin: 0 auto 0 auto;
+    padding: var(--std-ukuran) 0 0 var(--std-ukuran);
+}
+
+.kumpulan-kartu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.kartu {
+    width: calc(50% - var(--std-ukuran));
+    margin-right: var(--std-ukuran);
+    margin-bottom: var(--std-ukuran);
+    background-color: #ffffff;
+    padding: var(--duakali-std-empat-sisi);
+    border: 1px solid var(--abu-muda);
+}
