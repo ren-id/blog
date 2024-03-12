@@ -169,7 +169,6 @@ section {
 }
 
 article,
-footer,
 section {
     margin-top: var(--pd);
     margin-bottom: calc(var(--pd) * 4);
@@ -566,8 +565,4 @@ button {
 
 .border-bawah {
     border-bottom: 1px solid #eeeeee;
-}
-
-#breadcrumbs, .footer {
-    padding: 16px 16px 16px 16px;
 }
