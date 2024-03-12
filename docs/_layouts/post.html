@@ -7,14 +7,9 @@
     nonce="SetARrLr"></script>
     -->
 <div class="badan">
+    {% include breadcrumbs.html %}
     <article>
         {{ content }}
-        <div class="informasi">
-            <p><b>Published on {{ page.date }}</b></p>
-            <p>Hey there, drop me a line in a discreet email, and I'll get back to you with a classy response.</p>
-            <p><i>Berikan tanggapan melalui email rahasia.</i></p>
-            <!-- modify this form HTML and place wherever you want your form -->
-        </div>
         <!-- <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-width="100%" data-numposts="5"></div> -->
     </article>
     {% include footer.html %}
