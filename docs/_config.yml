@@ -1,4 +1,4 @@
-permalink: /:dir/:title
+permalink: /:year/:month/:day/:title
 timezone: Asia/Jakarta
 plugins:
 - jekyll-paginate
