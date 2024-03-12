@@ -2,23 +2,26 @@
 layout: default
 ---
 
-<article class="page">
+<article>
   <h1>{{ page.title }}</h1>
-  <div class="entry">
-    
+  <ul>
     {% assign previousYear = "" %}
     {% for post in site.posts %}
       {% capture currentYear %}
         {{ post.date | date: "%Y" }}
       {% endcapture %}
-    
       {% if currentYear != previousYear %}
         {% assign previousYear = currentYear %}
         <h3>{{ currentYear }}</h3>
       {% endif %}
-    
-      {{ post.date | date: '%B %d, %Y' }} - <a style="font-weight: bold" href="{{ post.url }}">{{ post.title }}</a>
-      <br />
+      <li>
+        {{ post.date | date: '%Y-%m-%d' }} - <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
     {% endfor %}    
-  </div>
+  </ul>
 </article>
+
+<!--
+    Halaman ini terinspirasi dari:
+    https://devblog.dinobansigan.com/adding-an-archive-page-to-jekyll-now-blog
+-->
