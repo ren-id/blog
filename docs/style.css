@@ -140,7 +140,6 @@ section {
 .header {
     position: sticky;
     top: 0;
-    border-bottom: 1px solid #eeeeee;
     background-color: rgba(255, 255, 255, 0.85);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
@@ -232,7 +231,6 @@ code {
 
 .cerita {
     background-color: #ffffff;
-    border-bottom: 1px solid #eeeeee;
 }
 
 .thumb {
@@ -563,4 +561,12 @@ button {
     border: none;
     padding: 8px 8px 8px 8px;
     border-radius: 8px 8px 8px 8px;
+}
+
+.border-bawah {
+    border-bottom: 1px solid #eeeeee;
+}
+
+#breadcrumbs {
+    padding: 16px 16px 16px 16px;
 }
