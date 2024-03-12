@@ -3,22 +3,22 @@ layout: default
 ---
 
 <article>
-  <h1>{{ page.title }}</h1>
-  <ul>
-    {% assign previousYear = "" %}
-    {% for post in site.posts %}
-      {% capture currentYear %}
+    <h1>{{ page.title }}</h1>
+    <ul>
+        {% assign previousYear = "" %}
+        {% for post in site.posts %}
+        {% capture currentYear %}
         {{ post.date | date: "%Y" }}
-      {% endcapture %}
-      {% if currentYear != previousYear %}
+        {% endcapture %}
+        {% if currentYear != previousYear %}
         {% assign previousYear = currentYear %}
-        <h3>{{ currentYear }}</h3>
-      {% endif %}
-      <li>
-        {{ post.date | date: '%Y-%m-%d' }} - <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}    
-  </ul>
+        <h2>{{ currentYear }}</h2>
+        {% endif %}
+        <li>
+            {{ post.date | date: '%Y-%m-%d' }} - <a href="{{ post.url }}"><b>{{ post.title }}</b></a>
+        </li>
+        {% endfor %}
+    </ul>
 </article>
 
 <!--
