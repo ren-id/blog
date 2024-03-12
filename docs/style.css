@@ -568,6 +568,6 @@ button {
     border-bottom: 1px solid #eeeeee;
 }
 
-#breadcrumbs {
+#breadcrumbs, .footer {
     padding: 16px 16px 16px 16px;
 }

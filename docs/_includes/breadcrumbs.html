@@ -1,5 +1,5 @@
 <div id="breadcrumbs">
-    {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+    {% assign crumbs = post.path | remove:'/index.html' | split: '/' %}
     <a href="/">Home</a>
     {% for crumb in crumbs offset: 1 %}
         {% if crumb == page.date | date: "%Y/%m/%d" %}
