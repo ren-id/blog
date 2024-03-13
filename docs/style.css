@@ -133,7 +133,7 @@ footer,
 
 article,
 section {
-    max-width: 500px;
+    max-width: 480px;
     margin: 0 auto 0 auto;
 }
 
@@ -165,12 +165,6 @@ section {
 #markdown-toc>ul {
     list-style-type: none;
     padding: 0 0 0 calc(5 * var(--pd));
-}
-
-article,
-section {
-    margin-top: var(--pd);
-    margin-bottom: calc(var(--pd) * 4);
 }
 
 article,
@@ -223,7 +217,7 @@ code {
     flex-flow: wrap;
     padding-top: 4px;
     padding-left: 4px;
-    max-width: 500px;
+    max-width: 480px;
     margin: 0 auto 0 auto;
 }
 
