@@ -392,9 +392,6 @@ article img {
 
 .search-input-container {
     margin: 0 0 0 0;
-}
-
-.search-box, #search-results {
     padding: 8px 16px 8px 16px;
 }
 
@@ -416,10 +413,6 @@ textarea,
     text-align: center;
 }
 
-input, textarea, #search-input, #results-container li {
-    border-radius: 6px 6px 6px 6px;
-}
-
 input:focus,
 textarea:focus,
 #search-input:focus {
@@ -431,29 +424,25 @@ textarea:focus,
     z-index: 998 !important;
     left: 0;
     right: 0;
-    margin: auto !important;
+    padding: 0 16px 0 16px;
 }
 
 #results-container {
     list-style: none;
     padding: 0 0 0 0;
     margin: 0 0 0 0;
+    max-height: 480px;
+    overflow-y: auto;
 }
 
 #results-container li {
     padding: 16px 16px 16px 16px;
-    margin: 0 0 -8px 0;
-    box-shadow: 0px -4px 6px #00000010;
-    background-color: #ffffff;
-    overflow: hidden;
+    margin: 0 0 0 0;
+    background-color: #f9f9f9;
     white-space: nowrap;
     text-overflow: ellipsis;
-    border: 1px solid #eeeeee;
-}
-
-#results-container li:hover {
-    margin-bottom: 8px;
-    white-space: normal;
+    border-bottom: 1px solid #eeeeee;
+    overflow: hidden;
 }
 
 .wrapper {
