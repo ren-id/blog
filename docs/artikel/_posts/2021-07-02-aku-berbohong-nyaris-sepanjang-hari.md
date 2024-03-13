@@ -1,7 +1,6 @@
 ---
 title: "I lie almost all day."
 description: "Honestly, I lie almost all day. But, believe me, I speak honest in this blog. I only share my precious stories only in this blog."
-categories: disabled
 ---
 # I Lie Almost All Day
 
