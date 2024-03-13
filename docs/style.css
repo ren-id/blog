@@ -558,3 +558,18 @@ button {
 .p2 {
     padding: 16px 16px 16px 16px;
 }
+
+.header-container-2 {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.header-content-2 {
+    background-color: #befc00;
+    max-width: 480px;
+    padding: 16px 16px 16px 16px;
+    margin: 0 auto 0 auto;
+    border-radius: 12px 12px 12px 12px;
+}
