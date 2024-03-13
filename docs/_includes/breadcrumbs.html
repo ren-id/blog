@@ -3,7 +3,7 @@
 -->
 
 <div id="breadcrumbs" class="p2">
-    {% assign crumbs = page.path | remove:'/index.html' | remove:'/%Y/%m/%d' | remove:'/_posts' | split: '/' %}
+    {% assign crumbs = page.path | remove:'/index.html' | remove:'/%Y/%m/%d' | replace:'/_posts','/page.categories' | split: '/' %}
 
     <a href="/">Home</a>
     {% for crumb in crumbs offset: 1 %}
