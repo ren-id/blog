@@ -1,3 +1,7 @@
+<!--
+  Sumber: https://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site
+-->
+
 <div id="breadcrumbs" class="p2">
     {% assign crumbs = page.path | remove:'/index.html' | remove:'/%Y/%m/%d' | remove:'/_posts' | split: '/' %}
 
