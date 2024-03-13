@@ -144,7 +144,6 @@ section {
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     z-index: 999;
-    padding: 8px 8px 8px 8px;
 }
 
 .header-container {
@@ -364,7 +363,7 @@ article img {
 
 .lemari {
     padding: 0 0 0 0;
-    max-width: 500px;
+    max-width: 480px;
     margin: 0 auto 0 auto;
 }
 
@@ -377,7 +376,6 @@ article img {
     margin-bottom: 16px;
     border-radius: 6px 6px 6px 6px;
     background-color: #f9f9f9;
-    box-shadow: 0px 1px 3px 0px #00000010;
 }
 
 .laci:hover {
@@ -402,6 +400,10 @@ article img {
     margin: 0 0 0 0;
 }
 
+.search-box, #search-results {
+    padding: 8px 16px 8px 16px;
+}
+
 input,
 textarea,
 #search-input {
@@ -413,12 +415,15 @@ textarea,
     outline: none;
     font-size: 14px;
     border: 1px solid #eeeeee;
-    border-radius: 6px 6px 6px 6px;
     box-shadow: none;
 }
 
 #search-input {
     text-align: center;
+}
+
+input, textarea, #search-input, #results-container li {
+    border-radius: 6px 6px 6px 6px;
 }
 
 input:focus,
@@ -438,13 +443,13 @@ textarea:focus,
 #results-container {
     list-style: none;
     padding: 0 0 0 0;
+    margin: 0 0 0 0;
 }
 
 #results-container li {
     padding: 16px 16px 16px 16px;
-    margin: 0 2px -8px 2px;
+    margin: 0 0 -8px 0;
     box-shadow: 0px -4px 6px #00000010;
-    border-radius: 4px 4px 4px 4px;
     background-color: #ffffff;
     overflow: hidden;
     white-space: nowrap;
