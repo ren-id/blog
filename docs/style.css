@@ -175,6 +175,10 @@ section {
     padding: 16px 16px 16px 16px;
 }
 
+footer {
+    border-top: 1px solid #eeeeee;
+}
+
 .katalog {
     white-space: normal;
 }
@@ -234,9 +238,14 @@ code {
 }
 
 @media only screen and (max-width: 959px) {
-
     .laci {
         width: 100%;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .laci {
+        width: 25%;
     }
 }
 
@@ -344,10 +353,6 @@ article img {
     align-items: stretch;
 }
 
-.laci {
-    width: 25%;
-}
-
 .item {
     padding: 16px 16px 16px 16px;
     color: #000000;
@@ -359,7 +364,7 @@ article img {
     white-space: normal;
     line-height: 1.25em;
     margin: 0 0 0 0;
-    border-bottom: 3px solid #00000020;
+    border-bottom: 2px solid #00000025;
 }
 
 .search-container {
