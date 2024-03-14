@@ -6,20 +6,47 @@ description: My blog is my online home. I do not use social media. Never!
 
 {% include header.html %}
 
-{% include status.html %}
+<div class="highlight">
+  <h1>Tuhan yang Mahatua</h1>
+  <p>Tuhan yang Mahatua adalah kumpulan tulisan orisinal Reno yang mengisahkan tentang perjalanan hidup bocah kecil
+      dari desa. Dia sangat takut kehilangan Ibunya, tapi malah membuatnya merasa "kurang hidup" ketika ketakutan itu
+      ternyata terjadi lebih cepat. Dia merasa beberapa harapannya telah gagal.</p>
+</div>
 
-  <div class="lemari">
-    <div class="rak">
-      {% for post in site.categories.artikel limit:20 %}
-      <div class="laci">
-          <div class="item">
-            <a href="{{ site.url }}{{ post.url }}"><h1>{{ post.title }}</h1></a>            
-            <p>{{ post.description }}</p>
-          </div>
+<div class="lemari margin-bawah">
+  <div class="rak">
+    {% for post in site.categories.kisah order:ascending %}
+    <div class="laci">
+      <div class="item">
+        <a href="{{ site.url }}{{ post.url }}">
+          <h1>{{ post.title }}</h1>
+        </a>
+        <p>{{ post.description }}</p>
       </div>
-      {% endfor %}
     </div>
+    {% endfor %}
   </div>
+</div>
+
+<div class="highlight">
+  <h1>Artikel Random</h1>
+  <p>Kumpulan artikel random yang membahas apa saja sesuai selera. Silakan dibaca bila punya banyak waktu luang.</p>
+</div>
+
+<div class="lemari">
+  <div class="rak">
+    {% for post in site.categories.artikel limit:20 %}
+    <div class="laci">
+      <div class="item">
+        <a href="{{ site.url }}{{ post.url }}">
+          <h1>{{ post.title }}</h1>
+        </a>
+        <p>{{ post.description }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
 
 {% include footer.html %}
 </body>

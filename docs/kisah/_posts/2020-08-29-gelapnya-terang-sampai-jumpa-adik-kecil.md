@@ -1,5 +1,5 @@
 ---
-title: "Sampai Jumpa Adik Kecil (dari Gelapnya Terang)"
+title: "3. Sampai Jumpa Adik Kecil"
 description: "Berpisah dengan orang yang disayangi itu menyedihkan. Er sangat menyayangi adiknya, Tan. Er harus pergi ke kota meninggalkan Tan di kampung karena dia harus sekolah."
 ---
 # Sampai Jumpa Adik Kecil

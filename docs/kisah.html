@@ -1,0 +1,30 @@
+---
+title: Tuhan yang Mahatua
+description: Tuhan yang Mahatua adalah kumpulan tulisan orisinal Reno yang mengisahkan tentang perjalanan hidup bocah kecil dari desa. Dia sangat takut kehilangan Ibunya, tapi malah membuatnya merasa kurang hidup ketika ketakutan itu ternyata terjadi lebih cepat. Dia merasa beberapa harapannya telah gagal.
+---
+{% include head.html %}
+{% include header.html %}
+<div class="highlight">
+    <h1>Tuhan yang Mahatua</h1>
+    <p>Tuhan yang Mahatua adalah kumpulan tulisan orisinal Reno yang mengisahkan tentang perjalanan hidup bocah kecil
+        dari desa. Dia sangat takut kehilangan Ibunya, tapi malah membuatnya merasa "kurang hidup" ketika ketakutan itu
+        ternyata terjadi lebih cepat. Dia merasa beberapa harapannya telah gagal.</p>
+</div>
+<div class="lemari margin-bawah">
+    <div class="rak">
+        {% for post in site.categories.kisah %}
+        <div class="laci">
+            <div class="item">
+                <a href="{{ site.url }}{{ post.url }}">
+                    <h1>{{ post.title }}</h1>
+                </a>
+                <p>{{ post.description }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% include footer.html %}
+</body>
+
+</html>

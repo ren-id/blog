@@ -35,7 +35,7 @@ h4 {
     font-weight: 600;
     margin: calc(var(--pd) * 3) 0 calc(var(--pd) * 3) 0;
     line-height: 1.2em;
-    font-family: 'Source Serif 4','Times New Roman','Nimbus Roman',serif;
+    font-family: 'Source Serif 4', 'Times New Roman', 'Nimbus Roman', serif;
 }
 
 h1:first-child,
@@ -176,7 +176,7 @@ section {
 }
 
 footer {
-    border-top: 1px solid #eeeeee;
+    border-top: 1px solid #cccccc;
 }
 
 .katalog {
@@ -372,7 +372,7 @@ article img {
     white-space: normal;
     line-height: 1.25em;
     margin: 0 0 0 0;
-    border-bottom: 2px solid #00000025;
+    border-bottom: 2px solid #00000050;
 }
 
 .search-container {
@@ -573,7 +573,7 @@ button {
     display: flex;
     background-color: #11111190;
     border-radius: 12px 12px 12px 12px;
-    box-shadow: inset 0 0 0 1px hsla(0,0%,100%,.05), inset 0 1px 0 0 hsla(0,0%,100%,.2), inset 0 -1px 0 0 hsla(0,0%,100%,.1), 0 1px 3px rgba(0,0,0,.05), 0 1px 2px rgba(0,0,0,.1);
+    box-shadow: inset 0 0 0 1px hsla(0, 0%, 100%, .05), inset 0 1px 0 0 hsla(0, 0%, 100%, .2), inset 0 -1px 0 0 hsla(0, 0%, 100%, .1), 0 1px 3px rgba(0, 0, 0, .05), 0 1px 2px rgba(0, 0, 0, .1);
     backdrop-filter: blur(12px);
     border: 1px solid #00000060;
     padding: 16px 16px 16px 16px;
@@ -583,4 +583,15 @@ button {
     width: 25%;
     text-align: center;
     color: #ffffff;
+}
+
+.highlight {
+    padding: 16px 16px 16px 16px;
+    margin: 0 auto 0 auto;
+    max-width: 480px;
+    text-align: center;
+}
+
+.highlight p {
+    line-height: 1.25em;
 }

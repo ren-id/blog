@@ -1,5 +1,5 @@
 ---
-title: "Rumah Kenangan (dari Gelapnya Terang)"
+title: "4. Rumah Kenangan"
 description: "Rumah yang dulu menjadi tempat Er mengumpulkan mimpi-mimpi indah."
 ---
 # Rumah Kenangan

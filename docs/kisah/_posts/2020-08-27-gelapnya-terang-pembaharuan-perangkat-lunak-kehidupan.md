@@ -1,5 +1,5 @@
 ---
-title: "Pembaharuan Perangkat Lunak Kehidupan (dari Gelapnya Terang)"
+title: "2. Pembaharuan Perangkat Lunak Kehidupan"
 description: "Kebiasaan bisa diubah. Er meyakini itu. Jadi, dia berusaha semaksimal mungkin untuk meninggalkan kebiasaan lamanya."
 ---
 # Pembaharuan Perangkat Lunak Kehidupan

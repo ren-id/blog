@@ -1,8 +1,8 @@
 ---
-title: "Selamat Datang di Palangka (dari Gelapnya Terang)"
+title: "5. Selamat Datang di Palangka Raya"
 description: "Er ingin mengubah jalan hidupnya. Dia memutuskan untuk pergi ke kota dengan harapan mendapat pengalaman hidup yang lebih baik."
 ---
-# Selamat Datang di Palangka
+# Selamat Datang di Palangka Raya
 
 Malahuy adalah sebuah desa yang punya rumah adat Dayak yang dilindungi oleh negara, Betang Toyoi. Desa ini terbagi menjadi 2 wilayah: Malahuy Datah dan Malahuy Bukit. Rumah keluarga Er yang baru dibangun berada di Malahuy Bukit, berdekatan dengan pekamanan Kaharingan, tepat di pinggir jalan raya yang belum diaspal.
 
