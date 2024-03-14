@@ -1,6 +1,6 @@
 ---
 title: "1. Kopi Pagi"
-description: "Sebelum memulai aktivitas, Er biasanya minum kopi manis terlebih dahulu."
+description: "Sebelum memulai aktivitas, Er biasanya minum kopi manis terlebih dahulu. Kopi sudah menjadi bagian hidup Er. Dia lebih candu kopi ketimbang rokok atau narkoba. Alasannya sederhana: kopi lebih nikmat dan harganya jauh lebih murah."
 order: 1
 ---
 # Kopi Pagi

@@ -1,6 +1,6 @@
 ---
 title: "4. Rumah Kenangan"
-description: "Rumah yang dulu menjadi tempat Er mengumpulkan mimpi-mimpi indah."
+description: "Rumah yang dulu menjadi tempat Er mengumpulkan mimpi-mimpi indah, tapi pada akhirnya menjadi kuburan akan segala kenangan indah masa kecilnya. Rumah yang selalu menjadi tempat kembali ketika dunia terasa runtuh."
 order: 4
 ---
 # Rumah Kenangan

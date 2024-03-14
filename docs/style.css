@@ -592,6 +592,15 @@ button {
     text-align: center;
 }
 
+.highlight h1 {
+    color: #ff6600;
+}
+
 .highlight p {
     line-height: 1.25em;
+    color: #505050;
+}
+
+.jarak {
+    height: 32px;
 }
