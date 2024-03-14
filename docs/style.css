@@ -358,9 +358,17 @@ article img {
     color: #000000;
 }
 
+.item a {
+    color: #000000;
+}
+
+.item a:hover {
+    text-decoration: underline;
+}
+
 .item p {
     overflow: hidden;
-    max-height: calc(6* 1em);
+    max-height: calc(6*1em);
     white-space: normal;
     line-height: 1.25em;
     margin: 0 0 0 0;
