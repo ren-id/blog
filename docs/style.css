@@ -5,7 +5,7 @@
     --abu: #F9F9F9;
     --abu1: #EEEEEE;
     --abu2: #DDDDDD;
-    --aksen: #0066FF;
+    --aksen: #ff6600;
     --sepia: #F9F5E9;
 }
 
@@ -358,10 +358,6 @@ article img {
     color: #000000;
 }
 
-.item a {
-    color: #000000;
-}
-
 .item a:hover {
     text-decoration: underline;
 }
@@ -590,10 +586,6 @@ button {
     margin: 0 auto 0 auto;
     max-width: 480px;
     text-align: center;
-}
-
-.highlight h1 {
-    color: #ff6600;
 }
 
 .highlight p {
