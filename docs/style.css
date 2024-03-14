@@ -6,6 +6,7 @@
     --abu1: #EEEEEE;
     --abu2: #DDDDDD;
     --aksen: #0066FF;
+    --sepia: #F9F5E9;
 }
 
 * {
@@ -21,7 +22,7 @@ html {
 }
 
 body {
-    background-color: #ffffff;
+    background-color: var(--sepia);
     color: var(--hitam);
     margin: 0 0 0 0;
     padding: 0 0 0 0;
@@ -34,6 +35,7 @@ h4 {
     font-weight: 600;
     margin: calc(var(--pd) * 3) 0 calc(var(--pd) * 3) 0;
     line-height: 1.2em;
+    font-family: 'Source Serif 4','Times New Roman','Nimbus Roman',serif;
 }
 
 h1:first-child,
@@ -44,11 +46,11 @@ h4:first-child {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 24px;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 22px;
 }
 
 h3 {
@@ -178,7 +180,7 @@ section {
 }
 
 .figure {
-    padding: 6px 6px 6px 6px;
+    padding: 8px 8px 8px 8px;
     white-space: normal;
     position: relative;
 }
@@ -221,10 +223,6 @@ code {
     margin: 0 auto 0 auto;
 }
 
-.cerita {
-    background-color: #ffffff;
-}
-
 .thumb {
     position: relative;
     margin-right: 4px;
@@ -235,33 +233,10 @@ code {
     display: none;
 }
 
-@media only screen and (min-width: 600px) {
-    .menu {
-        display: block;
-    }
+@media only screen and (max-width: 959px) {
 
-    .search-container {
-        width: 480px;
-    }
-}
-
-@media only screen and (min-width: 321px) {
-    .thumb {
-        width: calc(25% - 4px);
-    }
-}
-
-@media only screen and (max-width: 320px) {
-    .thumb {
-        width: calc(50% - 4px);
-    }
-
-    .search-container {
-        width: 320px;
-    }
-
-    #search-input {
-        font-size: 16px;
+    .laci {
+        width: 100%;
     }
 }
 
@@ -357,28 +332,34 @@ article img {
 
 .lemari {
     padding: 0 0 0 0;
-    max-width: 480px;
     margin: 0 auto 0 auto;
 }
 
 .rak {
-    padding: 16px 16px 16px 16px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: flex-start;
+    align-items: stretch;
 }
 
 .laci {
-    border: 1px solid #eeeeee;
-    margin-bottom: 16px;
-    border-radius: 6px 6px 6px 6px;
-    background-color: #f9f9f9;
-}
-
-.laci:hover {
-    color: #99ccff;
+    width: 25%;
 }
 
 .item {
     padding: 16px 16px 16px 16px;
     color: #000000;
+}
+
+.item p {
+    overflow: hidden;
+    max-height: calc(6* 1em);
+    white-space: normal;
+    line-height: 1.25em;
+    margin: 0 0 0 0;
+    border-bottom: 3px solid #00000020;
 }
 
 .search-container {
@@ -450,6 +431,8 @@ textarea:focus,
     flex-wrap: nowrap;
     flex-direction: row;
     align-items: center;
+    padding: 8px 8px 8px 8px;
+    justify-content: flex-start;
 }
 
 .panel {
