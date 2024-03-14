@@ -1,6 +1,7 @@
 ---
 title: "2. Pembaharuan Perangkat Lunak Kehidupan"
 description: "Kebiasaan bisa diubah. Er meyakini itu. Jadi, dia berusaha semaksimal mungkin untuk meninggalkan kebiasaan lamanya."
+order: 2
 ---
 # Pembaharuan Perangkat Lunak Kehidupan
 

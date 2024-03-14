@@ -1,6 +1,7 @@
 ---
 title: "5. Selamat Datang di Palangka Raya"
 description: "Er ingin mengubah jalan hidupnya. Dia memutuskan untuk pergi ke kota dengan harapan mendapat pengalaman hidup yang lebih baik."
+order: 5
 ---
 # Selamat Datang di Palangka Raya
 

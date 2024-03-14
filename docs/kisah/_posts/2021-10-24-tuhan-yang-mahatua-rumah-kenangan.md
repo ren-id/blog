@@ -1,6 +1,7 @@
 ---
 title: "4. Rumah Kenangan"
 description: "Rumah yang dulu menjadi tempat Er mengumpulkan mimpi-mimpi indah."
+order: 4
 ---
 # Rumah Kenangan
 

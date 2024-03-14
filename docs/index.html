@@ -13,9 +13,10 @@ description: My blog is my online home. I do not use social media. Never!
       ternyata terjadi lebih cepat. Dia merasa beberapa harapannya telah gagal.</p>
 </div>
 
-<div class="lemari margin-bawah">
+<div class="lemari">
   <div class="rak">
-    {% for post in site.categories.kisah order:ascending %}
+    {% assign sorted_posts = site.categories.kisah | sort %}
+    {% for post in sorted_posts %}
     <div class="laci">
       <div class="item">
         <a href="{{ site.url }}{{ post.url }}">

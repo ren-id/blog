@@ -1,6 +1,7 @@
 ---
 title: "1. Kopi Pagi"
 description: "Sebelum memulai aktivitas, Er biasanya minum kopi manis terlebih dahulu."
+order: 1
 ---
 # Kopi Pagi
 
