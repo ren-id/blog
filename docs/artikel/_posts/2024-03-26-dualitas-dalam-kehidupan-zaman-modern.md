@@ -1,6 +1,6 @@
 ---
 title: Dualitas dalam Konteks Zaman Modern
-description: "Pernyataan pembuka dari novel "A Tale of Two Cities" karya Charles Dickens, yang menggambarkan kontras antara dua kota dan tema dualitas, masih memiliki relevansi yang kuat dalam konteks zaman modern. Dickens menggambarkan konflik dan ketegangan antara kebaikan dan keburukan, kebijaksanaan dan kebodohan, serta harapan dan keputusasaan, yang tetap relevan dalam dinamika politik, sosial, dan teknologis saat ini. Dengan merenungkan pesan Dickens tentang dualitas, kita dapat mendapatkan wawasan yang lebih dalam tentang kompleksitas kehidupan manusia dan tantangan yang dihadapi dalam dunia yang terus berubah, mendorong kita untuk mencari pemahaman yang lebih mendalam dan menciptakan perubahan yang positif."
+description: Pernyataan pembuka dari novel A Tale of Two Cities karya Charles Dickens, yang menggambarkan kontras antara dua kota dan tema dualitas, masih memiliki relevansi yang kuat dalam konteks zaman modern. Dickens menggambarkan konflik dan ketegangan antara kebaikan dan keburukan, kebijaksanaan dan kebodohan, serta harapan dan keputusasaan, yang tetap relevan dalam dinamika politik, sosial, dan teknologis saat ini. Dengan merenungkan pesan Dickens tentang dualitas, kita dapat mendapatkan wawasan yang lebih dalam tentang kompleksitas kehidupan manusia dan tantangan yang dihadapi dalam dunia yang terus berubah, mendorong kita untuk mencari pemahaman yang lebih mendalam dan menciptakan perubahan yang positif.
 ---
 # "A Tale of Two Cities": Relevansi Dualitas dalam Konteks Zaman Modern
 
