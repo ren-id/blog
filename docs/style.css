@@ -535,11 +535,10 @@ button {
 .header-item-2 a {
     padding: 0 16px 0 16px;
     text-align: center;
-    color: #ffffff;
 }
 
 .header-item-2 a:hover {
-    color: #ff6600;
+    color: #000000;
 }
 
 .highlight {
