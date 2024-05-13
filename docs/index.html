@@ -23,13 +23,10 @@ description: My blog is my online home. I do not use social media. Never!
   </div>
 </div>
 
-<div class="jarak"></div>
-
 <div class="highlight">
   <div class="highlight-bg">
     <h1>Artikel Random</h1>
     <p>Kumpulan artikel random yang membahas apa saja sesuai selera. Silakan dibaca bila punya banyak waktu luang.</p>
-    <article>
       {% for post in site.categories.artikel limit:20 %}
       <div class="highlight-article">
         <a href="{{ site.url }}{{ post.url }}">
@@ -38,26 +35,8 @@ description: My blog is my online home. I do not use social media. Never!
         <p>{{ post.description }}</p>
       </div>
       {% endfor %}
-    </article>
   </div>
 </div>
-
-<!-- Bagian lama
-<div class="lemari">
-  <div class="rak">
-    {% for post in site.categories.artikel limit:20 %}
-    <div class="laci">
-      <div class="item">
-        <a href="{{ site.url }}{{ post.url }}">
-          <h1>{{ post.title }}</h1>
-        </a>
-        <p>{{ post.description }}</p>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</div>
--->
 
 {% include footer.html %}
 </body>
