@@ -14,9 +14,7 @@ layout: default
         {% assign previousYear = currentYear %}
         <h2>{{ currentYear }}</h2>
         {% endif %}
-        <li>
-            {{ post.date | date: '%Y-%m-%d' }} - <a href="{{ post.url }}"><b>{{ post.title }}</b></a>
-        </li>
+        <li>{{ post.date | date: '%Y-%m-%d' }}: <a href="{{ post.url }}"><b>{{ post.title }}</b></a></li>
         {% endfor %}
     </ul>
 </article>
