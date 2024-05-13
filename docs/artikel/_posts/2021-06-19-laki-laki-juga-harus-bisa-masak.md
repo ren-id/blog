@@ -4,8 +4,6 @@ description: "Tugas di rumah tidak selalu identik dengan pekerjaan perempuan. Mi
 ---
 # Laki-laki Juga Harus Bisa Memasak
 
-[![2020-11-07-batu-mahasur-kuala-kurun.jpg](https://images.pexels.com/photos/2284166/pexels-photo-2284166.jpeg?auto=compress&cs=tinysrgb&h=720)](https://www.pexels.com/id-id/foto/orang-yang-memegang-sayur-yang-diiris-2284166/)
-
 Tugas di rumah tidak selalu identik dengan pekerjaan perempuan. Misalnya memasak tidak dapat diserahkan sepenuhnya sebagai tugas perempuan. Semua gender bertanggung jawab agar dapat mengolah makanan secara mandiri, kecuali orang cacat, masih bayi, atau sudah renta. 
 
 Artikel ini dibuat lantaran aku agak sedikit tersinggung mendengar pernyataan rekan kerjaku. Dia beralasan cepat menikah agar ada orang yang memasak dan beberes di rumah. Maksudnya, kelak dia berharap istrinyalah yang memasak dan beberes. 
