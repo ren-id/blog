@@ -517,7 +517,7 @@ button {
 .header-content-2 {
     padding: 16px 16px 16px 16px;
     margin: 0 auto 0 auto;
-    background-color: #ffffffc2;
+    background-color: #ffffffdd;
     backdrop-filter: blur(12px);
     border-bottom: 1px solid #00000020;
     box-shadow: 0 2px 2px #00000010;
@@ -551,19 +551,18 @@ button {
     background-color: #ffffff;
     border-radius: 8px 8px 8px 8px;
     border: 1px solid #00000020;
-    box-shadow: 1px 2px 3px #00000010;
+    box-shadow: 0 2px 3px #00000010;
     padding: 24px 24px 24px 24px;
 }
 
 .highlight-article {
-    background-color: #f9f9f9;
-    border-radius: 8px 8px 8px 8px;
-    padding: 24px 24px 24px 24px;
-    margin-bottom: 24px;
+    padding: 24px 0 24px 0;
+    border-bottom: 1px solid #00000010;
 }
 
 .highlight-article:last-child {
     margin: 0 0 0 0;
+    border: none;
 }
 
 .highlight p {
