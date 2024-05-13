@@ -517,10 +517,10 @@ button {
 .header-content-2 {
     padding: 16px 16px 16px 16px;
     margin: 0 auto 0 auto;
-    background-color: #11111190;
-    box-shadow: inset 0 0 0 1px hsla(0, 0%, 100%, .05), inset 0 1px 0 0 hsla(0, 0%, 100%, .2), inset 0 -1px 0 0 hsla(0, 0%, 100%, .1), 0 1px 3px rgba(0, 0, 0, .05), 0 1px 2px rgba(0, 0, 0, .1);
+    background-color: #ffffffc2;
     backdrop-filter: blur(12px);
-    border-bottom: 1px solid #00000050;
+    border-bottom: 1px solid #00000020;
+    box-shadow: 0 2px 2px #00000010;
 }
 
 .header-item-2 {
@@ -533,14 +533,13 @@ button {
 }
 
 .header-item-2 a {
-    padding: 8px 8px 8px 8px;
+    padding: 0 16px 0 16px;
     text-align: center;
     color: #ffffff;
-    border-radius: 4px 4px 4px 4px;
 }
 
 .header-item-2 a:hover {
-    background-color: #00000050;
+    color: #ff6600;
 }
 
 .highlight {
