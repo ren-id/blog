@@ -60,15 +60,18 @@ h4 {
     font-size: 16px;
 }
 
+p {
+    line-height: 1.4em;
+}
+
 p,
 ul,
 ol,
 li,
 code,
 table,
-blockquote,
 figure {
-    margin: calc(var(--pd) * 2) 0 calc(var(--pd) * 2) 0;
+    margin: 0 0 calc(var(--pd) * 2) 0;
 }
 
 a {
@@ -133,10 +136,9 @@ figure>a>img {
 
 blockquote,
 figcaption,
-footer,
 .padding,
 .comment {
-    padding: var(--pd) var(--pd) var(--pd) var(--pd);
+    padding: calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2);
 }
 
 article,
@@ -178,7 +180,7 @@ section {
 article,
 footer,
 section {
-    padding: 16px 16px 16px 16px;
+    padding: calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2) calc(var(--pd) * 2);
 }
 
 footer {
@@ -572,7 +574,6 @@ button {
 }
 
 .highlight p {
-    line-height: 1.25em;
     color: #505050;
     margin: 16px 0 0 0;
 }
