@@ -75,6 +75,13 @@ a {
     color: var(--aksen);
 }
 
+a:hover {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 1px;
+    text-decoration-color: initial;
+}
+
 blockquote {
     border-left: calc(var(--pd) / 2) solid var(--aksen);
     margin: 0 0 0 0;
@@ -175,7 +182,7 @@ section {
 }
 
 footer {
-    border-top: 1px solid #cccccc;
+    text-align: center;
 }
 
 .katalog {
@@ -533,12 +540,7 @@ button {
 }
 
 .header-item-2 a {
-    padding: 0 16px 0 16px;
-    text-align: center;
-}
-
-.header-item-2 a:hover {
-    color: #000000;
+    padding: 0 24px 0 0;
 }
 
 .highlight {
@@ -549,15 +551,19 @@ button {
 
 .highlight-bg {
     background-color: #ffffff;
-    border-radius: 8px 8px 8px 8px;
+    border-radius: 4px 4px 4px 4px;
     border: 1px solid #00000020;
     box-shadow: 0 2px 3px #00000010;
-    padding: 24px 24px 24px 24px;
 }
 
-.highlight-article {
-    padding: 24px 0 24px 0;
+.highlight-intro, .highlight-article {
+    padding: 16px 16px 16px 16px;
     border-bottom: 1px solid #00000010;
+}
+
+.highlight-intro {
+    color: #7f7f7f;
+    font-size: 14px;
 }
 
 .highlight-article:last-child {
@@ -568,6 +574,7 @@ button {
 .highlight p {
     line-height: 1.25em;
     color: #505050;
+    margin: 16px 0 0 0;
 }
 
 .jarak {

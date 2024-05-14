@@ -3,13 +3,13 @@ title: ren
 description: My blog is my online home. I do not use social media. Never!
 ---
 {% include head.html %}
-
 {% include header.html %}
-
 <div class="highlight">
   <div class="highlight-bg">
-    <h1>Artikel Random</h1>
-    <p>Kumpulan artikel random yang membahas apa saja sesuai selera. Silakan dibaca bila punya banyak waktu luang.</p>
+    <div class="highlight-intro">
+      <h1>Artikel Random</h1>
+      <p>Kumpulan artikel random yang membahas apa saja sesuai selera. Silakan dibaca bila punya banyak waktu luang.</p>
+    </div>
     {% for post in site.categories.artikel limit:20 %}
     <div class="highlight-article">
       <a href="{{ site.url }}{{ post.url }}" target="_blank">
@@ -20,13 +20,14 @@ description: My blog is my online home. I do not use social media. Never!
     {% endfor %}
   </div>
 </div>
-
 <div class="highlight">
   <div class="highlight-bg">
-    <h1>Tuhan yang Mahatua</h1>
-    <p>Tuhan yang Mahatua adalah kumpulan tulisan orisinal Reno yang mengisahkan tentang perjalanan hidup bocah kecil
-      dari desa. Dia sangat takut kehilangan Ibunya, tapi malah membuatnya merasa "kurang hidup" ketika ketakutan itu
-      ternyata terjadi lebih cepat. Dia merasa beberapa harapannya telah gagal.</p>
+    <div class="highlight-intro">
+      <h1>Tuhan yang Mahatua</h1>
+      <p>Tuhan yang Mahatua adalah kumpulan tulisan orisinal Reno yang mengisahkan tentang perjalanan hidup bocah kecil
+        dari desa. Dia sangat takut kehilangan Ibunya, tapi malah membuatnya merasa "kurang hidup" ketika ketakutan itu
+        ternyata terjadi lebih cepat. Dia merasa beberapa harapannya telah gagal.</p>
+    </div>
     {% assign sorted_posts = site.categories.kisah | sort %}
     {% for post in sorted_posts %}
     <div class="highlight-article">
@@ -38,7 +39,6 @@ description: My blog is my online home. I do not use social media. Never!
     {% endfor %}
   </div>
 </div>
-
 {% include footer.html %}
 </body>
 
